@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: b3ac699721c6d1844a520822060f788e
+timeCreated: 1459993344
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'Rifle Bullet #000'
+    21300002: 'Rifle Bullet #001'
+    21300004: 'Rifle Bullet #002'
+    21300006: 'Rifle Bullet #003'
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 'Rifle Bullet #000'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480.2
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142.5, y: -66}
+        - {x: 134.5, y: -71}
+        - {x: 134.5, y: -84}
+        - {x: 136.5, y: -88}
+        - {x: 147.5, y: -88}
+        - {x: 155.5, y: -76}
+        - {x: 155.5, y: -67}
+        - {x: 154.5, y: -66}
+    - name: 'Rifle Bullet #001'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 480.2
+        height: 270
+      alignment: 0
+      pivot: {x: 0.49999994, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128.5, y: -64}
+        - {x: 126.5, y: -65}
+        - {x: 126.5, y: -73}
+        - {x: 129.5, y: -79}
+        - {x: 139.5, y: -83}
+        - {x: 147.5, y: -83}
+        - {x: 149.5, y: -80}
+        - {x: 149.5, y: -70}
+        - {x: 137.5, y: -64}
+    - name: 'Rifle Bullet #002'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 480.19995
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169.5, y: -79}
+        - {x: 161.5, y: -79}
+        - {x: 157.5, y: -84}
+        - {x: 157.5, y: -105}
+        - {x: 171.5, y: -105}
+        - {x: 175.5, y: -92}
+        - {x: 175.5, y: -82}
+        - {x: 172.5, y: -80}
+    - name: 'Rifle Bullet #003'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 480.19995
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 210.5, y: -115}
+        - {x: 198.5, y: -115}
+        - {x: 194.5, y: -126}
+        - {x: 194.5, y: -135}
+        - {x: 211.5, y: -135}
+        - {x: 212.5, y: -126}
+        - {x: 212.5, y: -117}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

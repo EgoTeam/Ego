@@ -1,0 +1,1531 @@
+fileFormatVersion: 2
+guid: 52e7d38905a33614a8a01e401938448b
+timeCreated: 1459995367
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'Pistol Reload #000'
+    21300002: 'Pistol Reload #001'
+    21300004: 'Pistol Reload #002'
+    21300006: 'Pistol Reload #003'
+    21300008: 'Pistol Reload #004'
+    21300010: 'Pistol Reload #005'
+    21300012: 'Pistol Reload #006'
+    21300014: 'Pistol Reload #007'
+    21300016: 'Pistol Reload #008'
+    21300018: 'Pistol Reload #009'
+    21300020: 'Pistol Reload #010'
+    21300022: 'Pistol Reload #011'
+    21300024: 'Pistol Reload #012'
+    21300026: 'Pistol Reload #013'
+    21300028: 'Pistol Reload #014'
+    21300030: 'Pistol Reload #015'
+    21300032: 'Pistol Reload #016'
+    21300034: 'Pistol Reload #017'
+    21300036: 'Pistol Reload #018'
+    21300038: 'Pistol Reload #019'
+    21300040: 'Pistol Reload #020'
+    21300042: 'Pistol Reload #021'
+    21300044: 'Pistol Reload #022'
+    21300046: 'Pistol Reload #023'
+    21300048: 'Pistol Reload #024'
+    21300050: 'Pistol Reload #025'
+    21300052: 'Pistol Reload #026'
+    21300054: 'Pistol Reload #027'
+    21300056: 'Pistol Reload #028'
+    21300058: 'Pistol Reload #029'
+    21300060: 'Pistol Reload #030'
+    21300062: 'Pistol Reload #031'
+    21300064: 'Pistol Reload #032'
+    21300066: 'Pistol Reload #033'
+    21300068: 'Pistol Reload #034'
+    21300070: 'Pistol Reload #035'
+    21300072: 'Pistol Reload #036'
+    21300074: 'Pistol Reload #037'
+    21300076: 'Pistol Reload #038'
+    21300078: 'Pistol Reload #039'
+    21300080: 'Pistol Reload #040'
+    21300082: 'Pistol Reload #041'
+    21300084: 'Pistol Reload #042'
+    21300086: 'Pistol Reload #043'
+    21300088: 'Pistol Reload #044'
+    21300090: 'Pistol Reload #045'
+    21300092: 'Pistol Reload #046'
+    21300094: 'Pistol Reload #047'
+    21300096: 'Pistol Reload #048'
+    21300098: 'Pistol Reload #049'
+    21300100: 'Pistol Reload #050'
+    21300102: 'Pistol Reload #051'
+    21300104: 'Pistol Reload #052'
+    21300106: 'Pistol Reload #053'
+    21300108: 'Pistol Reload #054'
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 'Pistol Reload #000'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: -25}
+        - {x: 75, y: -25}
+        - {x: 60, y: -39}
+        - {x: 60, y: -76}
+        - {x: 83, y: -135}
+        - {x: 144, y: -135}
+        - {x: 159, y: -111}
+        - {x: 159, y: -56}
+        - {x: 155, y: -36}
+    - name: 'Pistol Reload #001'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2700
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: -19}
+        - {x: 69, y: -19}
+        - {x: 61, y: -40}
+        - {x: 61, y: -77}
+        - {x: 88, y: -135}
+        - {x: 147, y: -135}
+        - {x: 160, y: -94}
+        - {x: 160, y: -81}
+        - {x: 156, y: -40}
+    - name: 'Pistol Reload #002'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2700
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 12}
+        - {x: 64, y: 2}
+        - {x: 64, y: -44}
+        - {x: 96, y: -135}
+        - {x: 167, y: -135}
+        - {x: 167, y: -13}
+        - {x: 110, y: 12}
+    - name: 'Pistol Reload #003'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2700
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: 60}
+        - {x: 96, y: 59}
+        - {x: 78, y: 31}
+        - {x: 78, y: -16}
+        - {x: 92, y: -135}
+        - {x: 181, y: -135}
+        - {x: 186, y: -120}
+        - {x: 186, y: 16}
+        - {x: 170, y: 60}
+    - name: 'Pistol Reload #004'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2700
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163, y: 16}
+        - {x: 159, y: 19}
+        - {x: 168, y: 14}
+        - {x: 189, y: 7}
+        - {x: 225, y: 22}
+        - {x: 225, y: 67}
+        - {x: 207, y: 88}
+        - {x: 94, y: 88}
+        - {x: 94, y: -135}
+        - {x: 179, y: -135}
+        - {x: 185, y: -126}
+        - {x: 203, y: 3}
+        - {x: 188, y: 6}
+    - name: 'Pistol Reload #005'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206, y: 91}
+        - {x: 117, y: 91}
+        - {x: 94, y: 70}
+        - {x: 94, y: -135}
+        - {x: 179, y: -135}
+        - {x: 175, y: -123}
+        - {x: 240, y: 34}
+        - {x: 240, y: 87}
+      - - {x: 237, y: 45}
+        - {x: 223, y: 17}
+        - {x: 223, y: -5}
+        - {x: 226, y: -11}
+        - {x: 240, y: -11}
+        - {x: 240, y: 45}
+    - name: 'Pistol Reload #006'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 191, y: 91}
+        - {x: 127, y: 91}
+        - {x: 94, y: 46}
+        - {x: 94, y: -121}
+        - {x: 103, y: -135}
+        - {x: 178, y: -135}
+        - {x: 180, y: -132}
+        - {x: 240, y: -1}
+        - {x: 240, y: 22}
+    - name: 'Pistol Reload #007'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115, y: 90}
+        - {x: 94, y: 52}
+        - {x: 94, y: -125}
+        - {x: 99, y: -135}
+        - {x: 185, y: -135}
+        - {x: 205, y: -46}
+        - {x: 205, y: 75}
+        - {x: 199, y: 90}
+      - - {x: 218, y: 40}
+        - {x: 210, y: 38}
+        - {x: 210, y: 21}
+        - {x: 227, y: -5}
+        - {x: 239, y: -6}
+        - {x: 240, y: -6}
+        - {x: 240, y: 34}
+        - {x: 237, y: 40}
+    - name: 'Pistol Reload #008'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 88}
+        - {x: 93, y: -134}
+        - {x: 96, y: -135}
+        - {x: 179, y: -135}
+        - {x: 199, y: -25}
+        - {x: 199, y: 74}
+        - {x: 195, y: 88}
+      - - {x: 232, y: 15}
+        - {x: 232, y: 12}
+        - {x: 239, y: 5}
+        - {x: 240, y: 5}
+        - {x: 240, y: 22}
+        - {x: 239, y: 22}
+    - name: 'Pistol Reload #009'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 191, y: 29}
+        - {x: 191, y: 53}
+        - {x: 173, y: 76}
+        - {x: 166, y: 84}
+        - {x: 102, y: 84}
+        - {x: 90, y: 52}
+        - {x: 90, y: -135}
+        - {x: 179, y: -135}
+        - {x: 183, y: -7}
+        - {x: 176, y: -1}
+    - name: 'Pistol Reload #010'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: 79}
+        - {x: 86, y: 73}
+        - {x: 86, y: -135}
+        - {x: 184, y: -135}
+        - {x: 184, y: 63}
+        - {x: 158, y: 79}
+    - name: 'Pistol Reload #011'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: 72}
+        - {x: 82, y: 15}
+        - {x: 82, y: -49}
+        - {x: 87, y: -88}
+        - {x: 96, y: -135}
+        - {x: 176, y: -135}
+        - {x: 176, y: 60}
+        - {x: 155, y: 72}
+      - - {x: 237, y: -30}
+        - {x: 239, y: -32}
+        - {x: 240, y: -32}
+        - {x: 240, y: -27}
+        - {x: 238, y: -27}
+    - name: 'Pistol Reload #012'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169, y: 28}
+        - {x: 154, y: 54}
+        - {x: 144, y: 64}
+        - {x: 124, y: 64}
+        - {x: 109, y: 53}
+        - {x: 79, y: 7}
+        - {x: 79, y: -85}
+        - {x: 82, y: -107}
+        - {x: 98, y: -135}
+        - {x: 169, y: -135}
+        - {x: 169, y: -56}
+        - {x: 168, y: -22}
+        - {x: 160, y: -16}
+        - {x: 169, y: 9}
+      - - {x: 225, y: -51}
+        - {x: 221, y: -61}
+        - {x: 221, y: -75}
+        - {x: 235, y: -82}
+        - {x: 240, y: -82}
+        - {x: 240, y: -54}
+        - {x: 237, y: -51}
+    - name: 'Pistol Reload #013'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: 55}
+        - {x: 115, y: 55}
+        - {x: 78, y: 21}
+        - {x: 77, y: 20}
+        - {x: 77, y: -109}
+        - {x: 86, y: -135}
+        - {x: 163, y: -135}
+        - {x: 163, y: -133}
+        - {x: 165, y: -129}
+        - {x: 165, y: 40}
+      - - {x: 209, y: -101}
+        - {x: 209, y: -122}
+        - {x: 231, y: -130}
+        - {x: 239, y: -131}
+        - {x: 240, y: -131}
+        - {x: 240, y: -105}
+        - {x: 230, y: -101}
+    - name: 'Pistol Reload #014'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: 47}
+        - {x: 108, y: 47}
+        - {x: 75, y: -10}
+        - {x: 75, y: -134}
+        - {x: 84, y: -135}
+        - {x: 163, y: -135}
+        - {x: 163, y: 12}
+        - {x: 147, y: 46}
+      - - {x: 231, y: -135}
+        - {x: 240, y: -135}
+        - {x: 240, y: -118}
+        - {x: 237, y: -119}
+    - name: 'Pistol Reload #015'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: 41}
+        - {x: 73, y: -23}
+        - {x: 73, y: -93}
+        - {x: 80, y: -132}
+        - {x: 91, y: -135}
+        - {x: 153, y: -135}
+        - {x: 161, y: -120}
+        - {x: 161, y: 16}
+        - {x: 127, y: 41}
+    - name: 'Pistol Reload #016'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: 36}
+        - {x: 72, y: -30}
+        - {x: 72, y: -77}
+        - {x: 75, y: -87}
+        - {x: 88, y: -135}
+        - {x: 148, y: -135}
+        - {x: 160, y: -123}
+        - {x: 160, y: 22}
+        - {x: 129, y: 36}
+    - name: 'Pistol Reload #017'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: 32}
+        - {x: 72, y: -31}
+        - {x: 72, y: -81}
+        - {x: 88, y: -135}
+        - {x: 149, y: -135}
+        - {x: 160, y: -131}
+        - {x: 160, y: 32}
+    - name: 'Pistol Reload #018'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: 31}
+        - {x: 97, y: 29}
+        - {x: 72, y: -35}
+        - {x: 72, y: -84}
+        - {x: 84, y: -135}
+        - {x: 151, y: -135}
+        - {x: 159, y: -114}
+        - {x: 159, y: 7}
+        - {x: 128, y: 31}
+    - name: 'Pistol Reload #019'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: 29}
+        - {x: 99, y: 26}
+        - {x: 72, y: -12}
+        - {x: 72, y: -122}
+        - {x: 77, y: -135}
+        - {x: 145, y: -135}
+        - {x: 159, y: -120}
+        - {x: 159, y: 2}
+        - {x: 127, y: 29}
+    - name: 'Pistol Reload #020'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -117}
+        - {x: 32, y: -123}
+        - {x: 32, y: -134}
+        - {x: 33, y: -135}
+        - {x: 87, y: -135}
+        - {x: 86, y: -132}
+        - {x: 79, y: -127}
+        - {x: 53, y: -117}
+      - - {x: 126, y: 29}
+        - {x: 98, y: 29}
+        - {x: 72, y: -30}
+        - {x: 72, y: -74}
+        - {x: 75, y: -91}
+        - {x: 88, y: -135}
+        - {x: 144, y: -135}
+        - {x: 159, y: -111}
+        - {x: 159, y: -47}
+        - {x: 151, y: 11}
+    - name: 'Pistol Reload #021'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: 29}
+        - {x: 96, y: 29}
+        - {x: 15, y: -121}
+        - {x: 15, y: -135}
+        - {x: 151, y: -135}
+        - {x: 159, y: -116}
+        - {x: 159, y: -46}
+        - {x: 151, y: 11}
+    - name: 'Pistol Reload #022'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 29}
+        - {x: -29, y: -133}
+        - {x: -29, y: -135}
+        - {x: 145, y: -135}
+        - {x: 191, y: -98}
+        - {x: 191, y: -47}
+        - {x: 149, y: 29}
+    - name: 'Pistol Reload #023'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 165, y: -98}
+        - {x: 207, y: -10}
+        - {x: 207, y: 24}
+        - {x: 197, y: 47}
+        - {x: 156, y: 74}
+        - {x: 114, y: 74}
+        - {x: 111, y: 73}
+        - {x: 65, y: 22}
+        - {x: -158, y: -128}
+        - {x: -165, y: -133}
+        - {x: -165, y: -135}
+        - {x: 4, y: -135}
+        - {x: 47, y: -101}
+        - {x: 87, y: -135}
+        - {x: 144, y: -135}
+    - name: 'Pistol Reload #024'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: -54}
+        - {x: 87, y: -135}
+        - {x: 144, y: -135}
+        - {x: 160, y: -97}
+        - {x: 159, y: -80}
+        - {x: 157, y: -48}
+        - {x: 184, y: -10}
+        - {x: 207, y: 14}
+        - {x: 212, y: 32}
+        - {x: 212, y: 89}
+        - {x: 200, y: 115}
+        - {x: 179, y: 121}
+        - {x: 137, y: 121}
+        - {x: 135, y: 120}
+        - {x: 108, y: 109}
+        - {x: -240, y: -62}
+        - {x: -240, y: -135}
+        - {x: -141, y: -135}
+        - {x: -131, y: -129}
+        - {x: -103, y: -111}
+        - {x: -30, y: -64}
+    - name: 'Pistol Reload #025'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: -53}
+        - {x: 87, y: -135}
+        - {x: 144, y: -135}
+        - {x: 166, y: -99}
+        - {x: 155, y: -37}
+        - {x: 152, y: -7}
+        - {x: 165, y: 18}
+        - {x: 188, y: 15}
+        - {x: 204, y: 32}
+        - {x: 214, y: 83}
+        - {x: 216, y: 93}
+        - {x: 216, y: 122}
+        - {x: 205, y: 135}
+        - {x: 126, y: 135}
+        - {x: 82, y: 111}
+        - {x: 11, y: 87}
+        - {x: -199, y: 28}
+        - {x: -240, y: 12}
+        - {x: -240, y: -135}
+        - {x: -210, y: -135}
+        - {x: -87, y: -64}
+        - {x: 79, y: 34}
+        - {x: 100, y: 25}
+    - name: 'Pistol Reload #026'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 20}
+        - {x: 79, y: 38}
+        - {x: 97, y: 21}
+        - {x: 62, y: -56}
+        - {x: 79, y: -127}
+        - {x: 87, y: -135}
+        - {x: 144, y: -135}
+        - {x: 166, y: -99}
+        - {x: 152, y: -7}
+        - {x: 151, y: -3}
+        - {x: 146, y: 4}
+        - {x: 164, y: 10}
+        - {x: 192, y: 16}
+        - {x: 214, y: 31}
+        - {x: 224, y: 62}
+        - {x: 224, y: 121}
+        - {x: 211, y: 135}
+        - {x: 137, y: 135}
+        - {x: -159, y: 59}
+        - {x: -240, y: 29}
+        - {x: -240, y: -135}
+        - {x: -154, y: -135}
+        - {x: -153, y: -133}
+        - {x: -164, y: -123}
+        - {x: -178, y: -112}
+    - name: 'Pistol Reload #027'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 10}
+        - {x: 75, y: 35}
+        - {x: 101, y: 24}
+        - {x: 69, y: -45}
+        - {x: 75, y: -92}
+        - {x: 88, y: -135}
+        - {x: 144, y: -135}
+        - {x: 160, y: -97}
+        - {x: 156, y: -48}
+        - {x: 137, y: -39}
+        - {x: 160, y: 8}
+        - {x: 190, y: 14}
+        - {x: 208, y: 30}
+        - {x: 217, y: 89}
+        - {x: 217, y: 113}
+        - {x: 206, y: 123}
+        - {x: 184, y: 132}
+        - {x: 154, y: 132}
+        - {x: 120, y: 122}
+        - {x: -133, y: 70}
+        - {x: -240, y: 35}
+        - {x: -240, y: -135}
+        - {x: -104, y: -135}
+        - {x: -103, y: -133}
+        - {x: -156, y: -81}
+        - {x: -101, y: -51}
+    - name: 'Pistol Reload #028'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 3}
+        - {x: 82, y: 25}
+        - {x: 90, y: 2}
+        - {x: 67, y: -54}
+        - {x: 87, y: -135}
+        - {x: 144, y: -135}
+        - {x: 160, y: -97}
+        - {x: 162, y: -80}
+        - {x: 148, y: -21}
+        - {x: 174, y: 2}
+        - {x: 196, y: 25}
+        - {x: 202, y: 70}
+        - {x: 202, y: 102}
+        - {x: 174, y: 117}
+        - {x: 137, y: 117}
+        - {x: 21, y: 87}
+        - {x: -108, y: 67}
+        - {x: -229, y: 32}
+        - {x: -240, y: 26}
+        - {x: -240, y: -135}
+        - {x: -74, y: -135}
+        - {x: -74, y: -133}
+        - {x: -134, y: -69}
+        - {x: -114, y: -58}
+    - name: 'Pistol Reload #029'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 7}
+        - {x: 67, y: -44}
+        - {x: 70, y: -93}
+        - {x: 87, y: -135}
+        - {x: 144, y: -135}
+        - {x: 166, y: -99}
+        - {x: 156, y: -38}
+        - {x: 165, y: -12}
+        - {x: 186, y: 28}
+        - {x: 186, y: 88}
+        - {x: 161, y: 101}
+        - {x: 128, y: 101}
+        - {x: 97, y: 91}
+        - {x: -92, y: 56}
+        - {x: -203, y: 26}
+        - {x: -240, y: 11}
+        - {x: -240, y: -135}
+        - {x: -56, y: -135}
+        - {x: -55, y: -133}
+        - {x: -115, y: -68}
+        - {x: -52, y: -36}
+    - name: 'Pistol Reload #030'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: -1}
+        - {x: 73, y: -92}
+        - {x: 88, y: -135}
+        - {x: 144, y: -135}
+        - {x: 166, y: -99}
+        - {x: 159, y: -37}
+        - {x: 175, y: 30}
+        - {x: 175, y: 72}
+        - {x: 164, y: 87}
+        - {x: 111, y: 87}
+        - {x: -83, y: 43}
+        - {x: -181, y: 19}
+        - {x: -223, y: -5}
+        - {x: -240, y: -61}
+        - {x: -240, y: -112}
+        - {x: -229, y: -135}
+        - {x: -46, y: -135}
+        - {x: -45, y: -133}
+        - {x: -85, y: -88}
+        - {x: 26, y: -8}
+    - name: 'Pistol Reload #031'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -14}
+        - {x: 70, y: -92}
+        - {x: 85, y: -125}
+        - {x: 88, y: -135}
+        - {x: 147, y: -135}
+        - {x: 165, y: -80}
+        - {x: 156, y: -41}
+        - {x: 169, y: 18}
+        - {x: 169, y: 64}
+        - {x: 163, y: 72}
+        - {x: 146, y: 79}
+        - {x: 110, y: 79}
+        - {x: -168, y: 13}
+        - {x: -210, y: -12}
+        - {x: -229, y: -60}
+        - {x: -229, y: -97}
+        - {x: -216, y: -135}
+        - {x: -41, y: -135}
+        - {x: -40, y: -133}
+        - {x: -83, y: -84}
+        - {x: -66, y: -60}
+    - name: 'Pistol Reload #032'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: -126}
+        - {x: 86, y: -135}
+        - {x: 143, y: -135}
+        - {x: 163, y: -98}
+        - {x: 157, y: -38}
+        - {x: 167, y: 1}
+        - {x: 167, y: 65}
+        - {x: 160, y: 75}
+        - {x: 148, y: 76}
+        - {x: 109, y: 76}
+        - {x: 93, y: 69}
+        - {x: -165, y: 11}
+        - {x: -206, y: -16}
+        - {x: -224, y: -61}
+        - {x: -224, y: -97}
+        - {x: -211, y: -135}
+        - {x: -40, y: -135}
+        - {x: -39, y: -133}
+        - {x: -90, y: -74}
+        - {x: 59, y: -7}
+    - name: 'Pistol Reload #033'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: -135}
+        - {x: 142, y: -129}
+        - {x: 159, y: -103}
+        - {x: 154, y: -52}
+        - {x: 150, y: -15}
+        - {x: 145, y: -2}
+        - {x: 147, y: 3}
+        - {x: 147, y: 7}
+        - {x: 148, y: 17}
+        - {x: 147, y: 9}
+        - {x: 147, y: -1}
+        - {x: 162, y: -16}
+        - {x: 172, y: -2}
+        - {x: 172, y: 81}
+        - {x: 111, y: 81}
+        - {x: -85, y: 49}
+        - {x: -219, y: -9}
+        - {x: -232, y: -54}
+        - {x: -232, y: -104}
+        - {x: -221, y: -135}
+        - {x: -45, y: -135}
+        - {x: -44, y: -133}
+        - {x: -76, y: -97}
+        - {x: 63, y: -135}
+    - name: 'Pistol Reload #034'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: 5}
+        - {x: 67, y: -67}
+        - {x: 77, y: -107}
+        - {x: 87, y: -135}
+        - {x: 141, y: -135}
+        - {x: 158, y: -105}
+        - {x: 150, y: -60}
+        - {x: 145, y: -54}
+        - {x: 191, y: 14}
+        - {x: 191, y: 68}
+        - {x: 178, y: 96}
+        - {x: 120, y: 96}
+        - {x: -86, y: 45}
+        - {x: -224, y: -3}
+        - {x: -240, y: -12}
+        - {x: -240, y: -135}
+        - {x: -62, y: -135}
+        - {x: -62, y: -133}
+        - {x: -111, y: -75}
+        - {x: 3, y: -21}
+    - name: 'Pistol Reload #035'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 216, y: 36}
+        - {x: 222, y: 52}
+        - {x: 222, y: 70}
+        - {x: 198, y: 116}
+        - {x: 185, y: 119}
+        - {x: 132, y: 119}
+        - {x: 99, y: 101}
+        - {x: -114, y: 46}
+        - {x: -226, y: 10}
+        - {x: -240, y: 1}
+        - {x: -240, y: -135}
+        - {x: -89, y: -135}
+        - {x: -117, y: -92}
+        - {x: -38, y: -33}
+        - {x: 174, y: 21}
+      - - {x: 149, y: -65}
+        - {x: 147, y: -60}
+        - {x: 144, y: -57}
+        - {x: 151, y: -21}
+        - {x: 127, y: 13}
+        - {x: 94, y: 13}
+        - {x: 69, y: -49}
+        - {x: 69, y: -81}
+        - {x: 77, y: -110}
+        - {x: 92, y: -135}
+        - {x: 141, y: -135}
+        - {x: 156, y: -107}
+        - {x: 156, y: -101}
+        - {x: 150, y: -70}
+    - name: 'Pistol Reload #036'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 4}
+        - {x: 112, y: 58}
+        - {x: 132, y: 33}
+        - {x: 207, y: 47}
+        - {x: 240, y: 73}
+        - {x: 240, y: 110}
+        - {x: 213, y: 135}
+        - {x: 138, y: 135}
+        - {x: -191, y: 34}
+        - {x: -236, y: 16}
+        - {x: -240, y: 14}
+        - {x: -240, y: -135}
+        - {x: -129, y: -135}
+        - {x: -128, y: -133}
+        - {x: -160, y: -91}
+        - {x: -117, y: -65}
+      - - {x: 83, y: 7}
+        - {x: 68, y: -56}
+        - {x: 68, y: -93}
+        - {x: 87, y: -135}
+        - {x: 143, y: -135}
+        - {x: 156, y: -123}
+        - {x: 156, y: -10}
+        - {x: 129, y: 7}
+    - name: 'Pistol Reload #037'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127, y: 72}
+        - {x: 133, y: 52}
+        - {x: 164, y: 44}
+        - {x: 226, y: 71}
+        - {x: 240, y: 81}
+        - {x: 240, y: 135}
+        - {x: 131, y: 135}
+        - {x: -4, y: 87}
+        - {x: -172, y: 44}
+        - {x: -240, y: 18}
+        - {x: -240, y: -135}
+        - {x: -177, y: -135}
+        - {x: -177, y: -134}
+        - {x: -193, y: -115}
+        - {x: 49, y: 21}
+      - - {x: 95, y: -7}
+        - {x: 87, y: -10}
+        - {x: 64, y: -72}
+        - {x: 64, y: -94}
+        - {x: 87, y: -135}
+        - {x: 156, y: -135}
+        - {x: 156, y: -7}
+    - name: 'Pistol Reload #038'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110, y: 57}
+        - {x: 141, y: 48}
+        - {x: 162, y: 50}
+        - {x: 240, y: 79}
+        - {x: 240, y: 134}
+        - {x: 238, y: 135}
+        - {x: 134, y: 135}
+        - {x: 92, y: 114}
+        - {x: -41, y: 70}
+        - {x: -199, y: 28}
+        - {x: -240, y: 12}
+        - {x: -240, y: -135}
+        - {x: -211, y: -135}
+        - {x: -204, y: -131}
+        - {x: -106, y: -72}
+        - {x: -3, y: -14}
+      - - {x: 84, y: -19}
+        - {x: 73, y: -22}
+        - {x: 61, y: -76}
+        - {x: 61, y: -101}
+        - {x: 79, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -38}
+        - {x: 127, y: -19}
+    - name: 'Pistol Reload #039'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: 22}
+        - {x: 213, y: 63}
+        - {x: 240, y: 63}
+        - {x: 240, y: 96}
+        - {x: 194, y: 123}
+        - {x: 155, y: 123}
+        - {x: 139, y: 121}
+        - {x: 100, y: 104}
+        - {x: 41, y: 76}
+        - {x: -231, y: -6}
+        - {x: -240, y: -11}
+        - {x: -240, y: -135}
+        - {x: -180, y: -135}
+        - {x: -81, y: -76}
+        - {x: -22, y: -40}
+        - {x: 80, y: 28}
+      - - {x: 111, y: -22}
+        - {x: 108, y: -21}
+        - {x: 85, y: -21}
+        - {x: 60, y: -77}
+        - {x: 60, y: -93}
+        - {x: 64, y: -101}
+        - {x: 86, y: -135}
+        - {x: 142, y: -135}
+        - {x: 158, y: -103}
+        - {x: 158, y: -89}
+        - {x: 152, y: -51}
+    - name: 'Pistol Reload #040'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142, y: 4}
+        - {x: 188, y: 16}
+        - {x: 188, y: 33}
+        - {x: 182, y: 48}
+        - {x: 136, y: 69}
+        - {x: 111, y: 69}
+        - {x: 81, y: 61}
+        - {x: -240, y: -61}
+        - {x: -240, y: -135}
+        - {x: -120, y: -135}
+        - {x: -104, y: -125}
+        - {x: -62, y: -97}
+        - {x: -47, y: -86}
+      - - {x: 108, y: -17}
+        - {x: 85, y: -17}
+        - {x: 60, y: -75}
+        - {x: 60, y: -93}
+        - {x: 68, y: -98}
+        - {x: 75, y: -96}
+        - {x: 84, y: -127}
+        - {x: 87, y: -135}
+        - {x: 143, y: -135}
+        - {x: 159, y: -104}
+        - {x: 159, y: -74}
+        - {x: 151, y: -43}
+    - name: 'Pistol Reload #041'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 159, y: -65}
+        - {x: 157, y: -46}
+        - {x: 131, y: -5}
+        - {x: 27, y: -5}
+        - {x: -8, y: -11}
+        - {x: -240, y: -130}
+        - {x: -240, y: -135}
+        - {x: -34, y: -135}
+        - {x: 60, y: -130}
+        - {x: 78, y: -135}
+        - {x: 159, y: -135}
+    - name: 'Pistol Reload #042'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151, y: -43}
+        - {x: 128, y: -14}
+        - {x: 65, y: -14}
+        - {x: -82, y: -101}
+        - {x: -82, y: -135}
+        - {x: 147, y: -135}
+        - {x: 159, y: -99}
+        - {x: 159, y: -70}
+    - name: 'Pistol Reload #043'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -109}
+        - {x: 4, y: -112}
+        - {x: -12, y: -127}
+        - {x: -16, y: -133}
+        - {x: -16, y: -135}
+        - {x: 78, y: -135}
+        - {x: 78, y: -127}
+        - {x: 46, y: -109}
+      - - {x: 156, y: -48}
+        - {x: 109, y: -15}
+        - {x: 107, y: -14}
+        - {x: 88, y: -14}
+        - {x: 60, y: -58}
+        - {x: 60, y: -102}
+        - {x: 81, y: -135}
+        - {x: 144, y: -135}
+        - {x: 159, y: -99}
+        - {x: 159, y: -80}
+    - name: 'Pistol Reload #044'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -135}
+        - {x: 36, y: -135}
+        - {x: 36, y: -134}
+        - {x: 29, y: -127}
+        - {x: 7, y: -127}
+        - {x: 0, y: -130}
+      - - {x: 156, y: -48}
+        - {x: 109, y: -15}
+        - {x: 107, y: -14}
+        - {x: 88, y: -14}
+        - {x: 60, y: -58}
+        - {x: 60, y: -102}
+        - {x: 81, y: -135}
+        - {x: 144, y: -135}
+        - {x: 159, y: -99}
+        - {x: 159, y: -80}
+    - name: 'Pistol Reload #045'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156, y: -48}
+        - {x: 109, y: -15}
+        - {x: 107, y: -14}
+        - {x: 88, y: -14}
+        - {x: 60, y: -58}
+        - {x: 60, y: -102}
+        - {x: 81, y: -135}
+        - {x: 144, y: -135}
+        - {x: 159, y: -99}
+        - {x: 159, y: -80}
+    - name: 'Pistol Reload #046'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115, y: -16}
+        - {x: 77, y: -16}
+        - {x: 60, y: -50}
+        - {x: 60, y: -98}
+        - {x: 79, y: -135}
+        - {x: 147, y: -135}
+        - {x: 159, y: -99}
+        - {x: 159, y: -39}
+        - {x: 158, y: -31}
+    - name: 'Pistol Reload #047'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: -24}
+        - {x: 89, y: -24}
+        - {x: 74, y: -31}
+        - {x: 60, y: -59}
+        - {x: 60, y: -93}
+        - {x: 79, y: -135}
+        - {x: 147, y: -135}
+        - {x: 159, y: -99}
+        - {x: 159, y: -62}
+        - {x: 152, y: -43}
+    - name: 'Pistol Reload #048'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: -28}
+        - {x: 79, y: -28}
+        - {x: 70, y: -32}
+        - {x: 60, y: -46}
+        - {x: 60, y: -75}
+        - {x: 87, y: -135}
+        - {x: 144, y: -135}
+        - {x: 159, y: -99}
+        - {x: 159, y: -78}
+        - {x: 158, y: -47}
+    - name: 'Pistol Reload #049'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: -23}
+        - {x: 79, y: -23}
+        - {x: 60, y: -45}
+        - {x: 60, y: -65}
+        - {x: 61, y: -67}
+        - {x: 81, y: -124}
+        - {x: 87, y: -135}
+        - {x: 144, y: -135}
+        - {x: 160, y: -102}
+        - {x: 160, y: -59}
+        - {x: 152, y: -39}
+    - name: 'Pistol Reload #050'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -18}
+        - {x: 74, y: -21}
+        - {x: 61, y: -41}
+        - {x: 61, y: -60}
+        - {x: 88, y: -135}
+        - {x: 154, y: -135}
+        - {x: 161, y: -101}
+        - {x: 161, y: -36}
+        - {x: 119, y: -18}
+    - name: 'Pistol Reload #051'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: -16}
+        - {x: 61, y: -32}
+        - {x: 61, y: -75}
+        - {x: 88, y: -135}
+        - {x: 156, y: -135}
+        - {x: 161, y: -109}
+        - {x: 161, y: -32}
+        - {x: 116, y: -16}
+    - name: 'Pistol Reload #052'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -18}
+        - {x: 74, y: -21}
+        - {x: 61, y: -41}
+        - {x: 61, y: -60}
+        - {x: 88, y: -135}
+        - {x: 154, y: -135}
+        - {x: 161, y: -101}
+        - {x: 161, y: -36}
+        - {x: 119, y: -18}
+    - name: 'Pistol Reload #053'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: -23}
+        - {x: 79, y: -23}
+        - {x: 60, y: -45}
+        - {x: 60, y: -65}
+        - {x: 61, y: -67}
+        - {x: 81, y: -124}
+        - {x: 87, y: -135}
+        - {x: 144, y: -135}
+        - {x: 160, y: -102}
+        - {x: 160, y: -59}
+        - {x: 152, y: -39}
+    - name: 'Pistol Reload #054'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: -25}
+        - {x: 75, y: -25}
+        - {x: 60, y: -39}
+        - {x: 60, y: -76}
+        - {x: 83, y: -135}
+        - {x: 144, y: -135}
+        - {x: 159, y: -111}
+        - {x: 159, y: -56}
+        - {x: 155, y: -36}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

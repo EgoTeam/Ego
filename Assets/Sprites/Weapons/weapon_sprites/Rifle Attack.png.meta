@@ -1,0 +1,1056 @@
+fileFormatVersion: 2
+guid: 7af7865a2c890a14b9dcc3dd974e539c
+timeCreated: 1459992424
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'Rifle Attack #000'
+    21300002: 'Rifle Attack #001'
+    21300004: 'Rifle Attack #002'
+    21300006: 'Rifle Attack #003'
+    21300008: 'Rifle Attack #004'
+    21300010: 'Rifle Attack #005'
+    21300012: 'Rifle Attack #006'
+    21300014: 'Rifle Attack #007'
+    21300016: 'Rifle Attack #008'
+    21300018: 'Rifle Attack #009'
+    21300020: 'Rifle Attack #010'
+    21300022: 'Rifle Attack #011'
+    21300024: 'Rifle Attack #012'
+    21300026: 'Rifle Attack #013'
+    21300028: 'Rifle Attack #014'
+    21300030: 'Rifle Attack #015'
+    21300032: 'Rifle Attack #016'
+    21300034: 'Rifle Attack #017'
+    21300036: 'Rifle Attack #018'
+    21300038: 'Rifle Attack #019'
+    21300040: 'Rifle Attack #020'
+    21300042: 'Rifle Attack #021'
+    21300044: 'Rifle Attack #022'
+    21300046: 'Rifle Attack #023'
+    21300048: 'Rifle Attack #024'
+    21300050: 'Rifle Attack #025'
+    21300052: 'Rifle Attack #026'
+    21300054: 'Rifle Attack #027'
+    21300056: 'Rifle Attack #028'
+    21300058: 'Rifle Attack #029'
+    21300060: 'Rifle Attack #030'
+    21300062: 'Rifle Attack #031'
+    21300064: 'Rifle Attack #032'
+    21300066: 'Rifle Attack #033'
+    21300068: 'Rifle Attack #034'
+    21300070: 'Rifle Attack #035'
+    21300072: 'Rifle Attack #036'
+    21300074: 'Rifle Attack #037'
+    21300076: 'Rifle Attack #038'
+    21300078: 'Rifle Attack #039'
+    21300080: 'Rifle Attack #040'
+    21300082: 'Rifle Attack #041'
+    21300084: 'Rifle Attack #042'
+    21300086: 'Rifle Attack #043'
+    21300088: 'Rifle Attack #044'
+    21300090: 'Rifle Attack #045'
+    21300092: 'Rifle Attack #046'
+    21300094: 'Rifle Attack #047'
+    21300096: 'Rifle Attack #048'
+    21300098: 'Rifle Attack #049'
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 'Rifle Attack #000'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -22}
+        - {x: 38, y: -22}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -98}
+        - {x: 136, y: -25}
+    - name: 'Rifle Attack #001'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -22}
+        - {x: 38, y: -22}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -98}
+        - {x: 136, y: -25}
+    - name: 'Rifle Attack #002'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -21}
+        - {x: 36, y: -21}
+        - {x: 31, y: -24}
+        - {x: 31, y: -78}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 159, y: -124}
+        - {x: 159, y: -101}
+        - {x: 140, y: -25}
+    - name: 'Rifle Attack #003'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -19}
+        - {x: 28, y: -20}
+        - {x: 28, y: -78}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 162, y: -125}
+        - {x: 162, y: -99}
+        - {x: 127, y: -19}
+    - name: 'Rifle Attack #004'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2430
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -22}
+        - {x: 38, y: -22}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -98}
+        - {x: 136, y: -25}
+    - name: 'Rifle Attack #005'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -22}
+        - {x: 38, y: -22}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -98}
+        - {x: 136, y: -25}
+    - name: 'Rifle Attack #006'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -21}
+        - {x: 36, y: -21}
+        - {x: 31, y: -24}
+        - {x: 31, y: -78}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 159, y: -124}
+        - {x: 159, y: -101}
+        - {x: 140, y: -25}
+    - name: 'Rifle Attack #007'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -22}
+        - {x: 38, y: -22}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -98}
+        - {x: 136, y: -25}
+    - name: 'Rifle Attack #008'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -22}
+        - {x: 38, y: -22}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -98}
+        - {x: 136, y: -25}
+    - name: 'Rifle Attack #009'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -22}
+        - {x: 38, y: -22}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -98}
+        - {x: 136, y: -25}
+    - name: 'Rifle Attack #010'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -22}
+        - {x: 38, y: -22}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -98}
+        - {x: 136, y: -25}
+    - name: 'Rifle Attack #011'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -21}
+        - {x: 36, y: -21}
+        - {x: 31, y: -24}
+        - {x: 31, y: -78}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 159, y: -124}
+        - {x: 159, y: -101}
+        - {x: 140, y: -25}
+    - name: 'Rifle Attack #012'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -21}
+        - {x: 36, y: -21}
+        - {x: 31, y: -24}
+        - {x: 31, y: -78}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 159, y: -124}
+        - {x: 159, y: -101}
+        - {x: 140, y: -25}
+    - name: 'Rifle Attack #013'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -19}
+        - {x: 28, y: -20}
+        - {x: 28, y: -78}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 162, y: -125}
+        - {x: 162, y: -99}
+        - {x: 127, y: -19}
+    - name: 'Rifle Attack #014'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1890
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -19}
+        - {x: 28, y: -20}
+        - {x: 28, y: -78}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 162, y: -125}
+        - {x: 162, y: -99}
+        - {x: 127, y: -19}
+    - name: 'Rifle Attack #015'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -77}
+        - {x: 146, y: -21}
+        - {x: 55, y: -21}
+        - {x: 31, y: -28}
+    - name: 'Rifle Attack #016'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -19}
+        - {x: 38, y: -19}
+        - {x: 31, y: -28}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -92}
+        - {x: 139, y: -22}
+    - name: 'Rifle Attack #017'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -19}
+        - {x: 28, y: -20}
+        - {x: 28, y: -78}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 162, y: -125}
+        - {x: 162, y: -99}
+        - {x: 127, y: -19}
+    - name: 'Rifle Attack #018'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -17}
+        - {x: 48, y: -17}
+        - {x: 31, y: -31}
+        - {x: 31, y: -94}
+        - {x: 33, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -94}
+        - {x: 136, y: -26}
+    - name: 'Rifle Attack #019'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1620
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -104}
+        - {x: 34, y: -135}
+        - {x: 159, y: -135}
+        - {x: 159, y: -98}
+        - {x: 143, y: -19}
+        - {x: 49, y: -19}
+        - {x: 31, y: -22}
+    - name: 'Rifle Attack #020'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132, y: -34}
+        - {x: 121, y: -18}
+        - {x: 32, y: -18}
+        - {x: 28, y: -19}
+        - {x: 28, y: -112}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 162, y: -115}
+        - {x: 162, y: -111}
+        - {x: 159, y: -106}
+    - name: 'Rifle Attack #021'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -13}
+        - {x: 28, y: -23}
+        - {x: 28, y: -39}
+        - {x: 31, y: -59}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 162, y: -117}
+        - {x: 162, y: -109}
+        - {x: 124, y: -13}
+    - name: 'Rifle Attack #022'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115, y: -14}
+        - {x: 43, y: -14}
+        - {x: 31, y: -24}
+        - {x: 31, y: -81}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 159, y: -124}
+        - {x: 159, y: -100}
+        - {x: 143, y: -26}
+    - name: 'Rifle Attack #023'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -67}
+        - {x: 148, y: -20}
+        - {x: 128, y: -10}
+        - {x: 70, y: -10}
+        - {x: 31, y: -27}
+    - name: 'Rifle Attack #024'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1350
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: -12}
+        - {x: 45, y: -12}
+        - {x: 31, y: -28}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -94}
+        - {x: 144, y: -23}
+    - name: 'Rifle Attack #025'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -135}
+        - {x: 159, y: -135}
+        - {x: 159, y: -44}
+        - {x: 155, y: -10}
+        - {x: 31, y: -10}
+        - {x: 31, y: -75}
+    - name: 'Rifle Attack #026'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -14}
+        - {x: 60, y: -14}
+        - {x: 31, y: -32}
+        - {x: 31, y: -94}
+        - {x: 33, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -92}
+        - {x: 117, y: -15}
+    - name: 'Rifle Attack #027'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115, y: -12}
+        - {x: 105, y: -8}
+        - {x: 70, y: -8}
+        - {x: 28, y: -20}
+        - {x: 28, y: -77}
+        - {x: 34, y: -135}
+        - {x: 160, y: -135}
+        - {x: 162, y: -117}
+        - {x: 162, y: -100}
+        - {x: 133, y: -34}
+    - name: 'Rifle Attack #028'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: -5}
+        - {x: 66, y: -5}
+        - {x: 31, y: -30}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -93}
+        - {x: 113, y: -7}
+    - name: 'Rifle Attack #029'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -8}
+        - {x: 31, y: -28}
+        - {x: 31, y: -122}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -96}
+        - {x: 122, y: -8}
+    - name: 'Rifle Attack #030'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -4}
+        - {x: 28, y: -19}
+        - {x: 28, y: -78}
+        - {x: 34, y: -135}
+        - {x: 161, y: -135}
+        - {x: 162, y: -132}
+        - {x: 162, y: -75}
+        - {x: 121, y: -4}
+    - name: 'Rifle Attack #031'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -116}
+        - {x: 33, y: -135}
+        - {x: 159, y: -135}
+        - {x: 159, y: -77}
+        - {x: 148, y: -5}
+        - {x: 133, y: 9}
+        - {x: 43, y: 9}
+        - {x: 31, y: -2}
+    - name: 'Rifle Attack #032'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -5}
+        - {x: 31, y: -24}
+        - {x: 31, y: -66}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 159, y: -124}
+        - {x: 159, y: -103}
+        - {x: 125, y: -5}
+    - name: 'Rifle Attack #033'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 1}
+        - {x: 31, y: -28}
+        - {x: 31, y: -105}
+        - {x: 33, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -76}
+        - {x: 111, y: 1}
+    - name: 'Rifle Attack #034'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 810
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 7}
+        - {x: 49, y: -8}
+        - {x: 28, y: -22}
+        - {x: 28, y: -94}
+        - {x: 34, y: -135}
+        - {x: 162, y: -135}
+        - {x: 162, y: -90}
+        - {x: 155, y: -20}
+        - {x: 119, y: 9}
+        - {x: 78, y: 9}
+    - name: 'Rifle Attack #035'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 16}
+        - {x: 32, y: 5}
+        - {x: 32, y: -135}
+        - {x: 158, y: -135}
+        - {x: 162, y: -129}
+        - {x: 162, y: -82}
+        - {x: 124, y: 16}
+    - name: 'Rifle Attack #036'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 4}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -63}
+        - {x: 150, y: -21}
+        - {x: 117, y: 4}
+    - name: 'Rifle Attack #037'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -1}
+        - {x: 31, y: -29}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -96}
+        - {x: 121, y: -1}
+    - name: 'Rifle Attack #038'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 0}
+        - {x: 31, y: -27}
+        - {x: 31, y: -121}
+        - {x: 33, y: -135}
+        - {x: 158, y: -135}
+        - {x: 159, y: -132}
+        - {x: 159, y: -91}
+        - {x: 116, y: 0}
+    - name: 'Rifle Attack #039'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 540
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 1}
+        - {x: 37, y: -17}
+        - {x: 28, y: -25}
+        - {x: 28, y: -74}
+        - {x: 34, y: -135}
+        - {x: 162, y: -135}
+        - {x: 162, y: -96}
+        - {x: 152, y: -27}
+        - {x: 120, y: 0}
+        - {x: 112, y: 1}
+    - name: 'Rifle Attack #040'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 4}
+        - {x: 72, y: 1}
+        - {x: 34, y: -23}
+        - {x: 31, y: -31}
+        - {x: 31, y: -95}
+        - {x: 33, y: -135}
+        - {x: 158, y: -135}
+        - {x: 159, y: -131}
+        - {x: 159, y: -94}
+        - {x: 116, y: 4}
+    - name: 'Rifle Attack #041'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 8}
+        - {x: 31, y: -10}
+        - {x: 31, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -100}
+        - {x: 112, y: 8}
+    - name: 'Rifle Attack #042'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 5}
+        - {x: 28, y: -22}
+        - {x: 28, y: -93}
+        - {x: 34, y: -135}
+        - {x: 158, y: -135}
+        - {x: 162, y: -115}
+        - {x: 162, y: -101}
+        - {x: 118, y: 5}
+    - name: 'Rifle Attack #043'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 6}
+        - {x: 31, y: -10}
+        - {x: 31, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -96}
+        - {x: 118, y: 6}
+    - name: 'Rifle Attack #044'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 270
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -135}
+        - {x: 159, y: -135}
+        - {x: 159, y: -98}
+        - {x: 134, y: 9}
+        - {x: 69, y: 9}
+        - {x: 31, y: -12}
+    - name: 'Rifle Attack #045'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -3}
+        - {x: 70, y: -3}
+        - {x: 68, y: -4}
+        - {x: 31, y: -30}
+        - {x: 31, y: -125}
+        - {x: 32, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -97}
+        - {x: 124, y: -20}
+    - name: 'Rifle Attack #046'
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 8}
+        - {x: 31, y: -10}
+        - {x: 31, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -100}
+        - {x: 112, y: 8}
+    - name: 'Rifle Attack #047'
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 12}
+        - {x: 28, y: -18}
+        - {x: 28, y: -78}
+        - {x: 34, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -75}
+        - {x: 143, y: -3}
+        - {x: 125, y: 12}
+    - name: 'Rifle Attack #048'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 13}
+        - {x: 31, y: -6}
+        - {x: 31, y: -126}
+        - {x: 33, y: -135}
+        - {x: 157, y: -135}
+        - {x: 157, y: -70}
+        - {x: 114, y: 13}
+    - name: 'Rifle Attack #049'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 480
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 11}
+        - {x: 34, y: -24}
+        - {x: 32, y: -31}
+        - {x: 32, y: -98}
+        - {x: 33, y: -135}
+        - {x: 158, y: -135}
+        - {x: 162, y: -129}
+        - {x: 162, y: -83}
+        - {x: 126, y: 11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
