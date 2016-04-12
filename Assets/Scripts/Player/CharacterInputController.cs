@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System;
 
-public class CharacterInputController : MonoBehaviour, IListener{
+public class CharacterInputController : MonoBehaviour {
     //Define Inout Settings
     private Vector2 _directionalMovement = new Vector2();
     private Vector2 _cameraMovement = new Vector2();
@@ -107,9 +107,5 @@ public class CharacterInputController : MonoBehaviour, IListener{
         ActionButtonHeld    = Input.GetButton("Action");
         FireButtonPressed   = Input.GetButtonDown("Primary Attack");
         FireButtonHeld      = Input.GetButton("Primary Attack");
-    }
-    public void OnEvent(Enum type, Component sender, object param = null)
-    {
-        throw new NotImplementedException();
     }
 }

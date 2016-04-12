@@ -9,7 +9,7 @@ public class Enemy : Character {
     /// <summary>
     /// Method executes once on Object activation.
     /// </summary>
-	override protected void Start () {
+	/*override protected void Start () {
         base.Start();
         _audioSources = GetComponentsInChildren<AudioSource>();
 	}
@@ -17,10 +17,10 @@ public class Enemy : Character {
     /// Method handles enemy behavior on receiving damage.
     /// </summary>
     /// <param name="damage">The amount of damage the enemy receives.</param>
-    override protected void OnDamage(int damage) {
+    /*override protected void OnDamage(int damage) {
         //Invoke parent method.
         base.OnDamage(damage);
         //Play damage sound effect.
         _audioSources[0].Play();
-    }
+    }*/
 }

@@ -7,7 +7,7 @@ using System;
 [RequireComponent(typeof(CapsuleCollider))]
 
 public class Controller : Character {
-
+    /*
     private new Rigidbody   rigidbody;
     private CapsuleCollider capsuleCollider;
     private Transform       cameraTransform;
@@ -114,7 +114,6 @@ public class Controller : Character {
         get { return _weapon; }
         set { _weapon = value;}
     }
-    /*Start & Update Methods*/
     void Awake() {
         rigidbody                   = GetComponent<Rigidbody>();
         capsuleCollider             = GetComponent<CapsuleCollider>();
@@ -298,5 +297,5 @@ public class Controller : Character {
                 StartCoroutine(OnWeaponChange((int)param));
                 break;
         }
-    }
+    }*/
 }

@@ -1,5 +1,21 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &117158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 484616}
+  - 114: {fileID: 11435896}
+  m_Layer: 0
+  m_Name: Ammunition - Shells
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &184332
 GameObject:
   m_ObjectHideFlags: 1
@@ -63,7 +79,7 @@ Transform:
   m_Children:
   - {fileID: 430032}
   m_Father: {fileID: 443148}
-  m_RootOrder: 0
+  m_RootOrder: 1
 --- !u!4 &430032
 Transform:
   m_ObjectHideFlags: 1
@@ -86,8 +102,21 @@ Transform:
   m_LocalPosition: {x: 0, y: 2, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 484616}
   - {fileID: 407330}
   m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!4 &484616
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 117158}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 443148}
   m_RootOrder: 0
 --- !u!82 &8207332
 AudioSource:
@@ -104,6 +133,7 @@ AudioSource:
   m_Pitch: 1
   Loop: 0
   Mute: 0
+  Spatialize: 0
   Priority: 10
   DopplerLevel: 1
   MinDistance: 1
@@ -128,6 +158,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -138,6 +169,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -148,6 +180,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -158,6 +191,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!95 &9565092
 Animator:
   serializedVersion: 3
@@ -186,6 +220,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee1b1a4d833b2a94ab36e768d36ed5e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _ammo: {fileID: 0}
+--- !u!114 &11435896
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 117158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9890addd0ec571f4c8f01ace2905367d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _classification: 1
+  _count: 6
+  _capacity: 6
 --- !u!114 &11440986
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -208,7 +257,7 @@ SphereCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: .75
+  m_Radius: 0.75
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!212 &21259918
 SpriteRenderer:
@@ -228,14 +277,18 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
   m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_AutoUVMaxDistance: .5
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 22d5a583328c6c84f963e4c1c1821e57, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

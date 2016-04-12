@@ -2,8 +2,7 @@
 using System.Collections;
 
 public class CharacterActionController : Character {
-    private CharacterState State;
-    private Inventory _inventory;
+  /*  private Inventory _inventory;
 
     [SerializeField] private Weapon _equippedWeapon;
 
@@ -53,5 +52,5 @@ public class CharacterActionController : Character {
             State.IsDrawingWeapon = false;
         }
         yield return 0;
-    }
+    }*/
 }

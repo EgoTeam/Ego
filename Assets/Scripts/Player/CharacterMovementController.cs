@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class CharacterMovementController : MonoBehaviour {
-
+/*
     private     CharacterState              State;
     private new Rigidbody                   rigidbody;
     private     CapsuleCollider             capsuleCollider;
@@ -140,4 +140,5 @@ public class CharacterMovementController : MonoBehaviour {
         //The player is grounded if the sphere collides with another collider.
         State.IsGrounded = (Physics.OverlapSphere(_ground.position, _groundRadius, _whatIsGround).Length) > 0 ? true : false;
     }
+    */
 }

@@ -25,7 +25,7 @@ GameObject:
   - 4: {fileID: 412906}
   - 95: {fileID: 9508614}
   - 212: {fileID: 21255288}
-  - 114: {fileID: 11499008}
+  - 114: {fileID: 11481296}
   m_Layer: 11
   m_Name: Null
   m_TagString: Weapon
@@ -56,8 +56,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 194366}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 3.29999995, z: 1}
-  m_LocalScale: {x: .75, y: .75, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
   m_Children:
   - {fileID: 462642}
   m_Father: {fileID: 0}
@@ -102,6 +102,7 @@ AudioSource:
   m_Pitch: 1
   Loop: 0
   Mute: 0
+  Spatialize: 0
   Priority: 5
   DopplerLevel: 1
   MinDistance: 1
@@ -126,6 +127,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -136,6 +138,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -146,6 +149,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -156,6 +160,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!95 &9508614
 Animator:
   serializedVersion: 3
@@ -173,7 +178,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &11499008
+--- !u!114 &11481296
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -181,26 +186,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 194366}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a774ca5aa1d0de14db642a161c978ed8, type: 3}
+  m_Script: {fileID: 11500000, guid: b1fe0d65386f9e74896e41520b55c745, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Type: 0
-  _mechanism: 0
+  _masterObjectID: 0
+  _weaponClass: 0
+  _fireMechanism: 0
   _damage: 0
   _range: 0
-  _useDelay: 0
-  _reloadTime: 0
-  _loadedAmmo: 0
-  _loadedAmmoCapacity: 0
-  _reserveAmmo: 0
-  _reserveAmmoCapacity: 0
-  _isHeadshotInstantKill: 0
+  _fireRate: 0
   _isCollected: 1
-  _isEquipped: 1
-  _canUsePrimary: 1
-  _holsterClip: {fileID: 7400000, guid: 112d77dde9616534eb427e321aa7c348, type: 2}
+  _isEquipped: 0
+  _canAttack: 0
   _drawClip: {fileID: 7400000, guid: 95e2de96a091fbe4ba45fd13fc296c18, type: 2}
-  _primaryActionClip: {fileID: 7400000, guid: 40547904e4a16dd43ae5ede862a63525, type: 2}
+  _holsterClip: {fileID: 7400000, guid: 112d77dde9616534eb427e321aa7c348, type: 2}
+  _attackClip: {fileID: 7400000, guid: 40547904e4a16dd43ae5ede862a63525, type: 2}
 --- !u!212 &21255288
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -219,21 +219,58 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
   m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_AutoUVMaxDistance: .5
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 592792d0a21424146914c15c6b48604b, type: 3}
+  m_Sprite: {fileID: 21300028, guid: 9bd654867334d094882dee5631284110, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_FlipX: 0
+  m_FlipY: 0
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
-    m_Modifications: []
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300028, guid: 9bd654867334d094882dee5631284110,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: _drawClip
+      value: 
+      objectReference: {fileID: 7400000, guid: 95e2de96a091fbe4ba45fd13fc296c18, type: 2}
+    - target: {fileID: 0}
+      propertyPath: _holsterClip
+      value: 
+      objectReference: {fileID: 7400000, guid: 112d77dde9616534eb427e321aa7c348, type: 2}
+    - target: {fileID: 0}
+      propertyPath: _attackClip
+      value: 
+      objectReference: {fileID: 7400000, guid: 40547904e4a16dd43ae5ede862a63525, type: 2}
+    - target: {fileID: 0}
+      propertyPath: _isCollected
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: _isEquipped
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 194366}
