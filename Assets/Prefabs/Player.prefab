@@ -799,7 +799,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 109434}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.7, y: 3.12, z: -11}
+  m_LocalPosition: {x: 5.7, y: 4.3, z: -11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 408984}
@@ -934,7 +934,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 8df712fcbec0db649b77dcd7204bb5d4, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1008,7 +1008,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: b5b8c09c4676941d7bf4ce67f3e21c73, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -1156,8 +1156,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 8300000, guid: c34e5b492c28f1b41b102dd008380a2b, type: 3}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -1611,8 +1611,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 4
   _fireMechanism: 1
-  _damage: 10
-  _range: 50
+  _damage: 20
+  _range: 75
   _fireRate: 0
   _isCollected: 1
   _isEquipped: 0
@@ -1701,7 +1701,7 @@ MonoBehaviour:
   _weaponClass: 1
   _fireMechanism: 0
   _damage: 50
-  _range: 1
+  _range: 5
   _fireRate: 0
   _isCollected: 1
   _isEquipped: 0

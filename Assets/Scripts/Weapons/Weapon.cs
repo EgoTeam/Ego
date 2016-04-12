@@ -113,7 +113,7 @@ public class Weapon : InteractableObject {
     virtual protected IEnumerator AttackCoroutine() {
         CanAttack = false;
         _animator.SetTrigger("Attack");
-        _audioSources[0].Play();
+            _audioSources[0].Play();
         HitScan();
         yield return new WaitForSeconds(_fireRate);
     }
