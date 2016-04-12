@@ -34,8 +34,14 @@ public class EventManager : MonoBehaviour {
     public delegate void Damage(int objectID, int damage);
     public static event Damage DamageEventHandler;
 
+    public delegate void Dying(int objectID);
+    public static event Dying DyingEventHandler;
+
     public delegate void AmmoQuery(int objectID);
     public static event AmmoQuery AmmoQueryEventHandler;
+
+    public delegate void AmmoUpdate(int objectID, Ammunition clip, Ammunition reserve);
+    public static event AmmoUpdate AmmoUpdateEventHandler;
 
     public delegate void AmmoCollect(int objectID, Ammunition ammo);
     public static event AmmoCollect AmmoCollectEventHandler;
@@ -65,10 +71,17 @@ public class EventManager : MonoBehaviour {
     public static void DamageEvent(int objectID, int damage) {
         DamageEventHandler(objectID, damage);
     }
+    public static void DyingEvent(int objectID) {
+        DyingEventHandler(objectID);
+    }
     public static void AmmoCollectEvent(int objectID, Ammunition ammo) {
         AmmoCollectEventHandler(objectID, ammo);
     }
     public static void AmmoQueryEvent(int objectID) {
         AmmoQueryEventHandler(objectID);
+    }
+    public static void AmmoUpdateEvent(int objectID, Ammunition clip, Ammunition reserve)
+    {
+        AmmoUpdateEventHandler(objectID, clip, reserve);
     }
 }

@@ -3,18 +3,21 @@ using System.Collections;
 using System;
 
 public abstract class Character : MonoBehaviour{
-                                        protected CharacterState    _state; 
-                                        protected WaitForSeconds    _dieTimeWait        = new WaitForSeconds(0f);   //The amount of time before the character completes it's dying behavior.
+
+                                        protected CharacterState    _state;
+                                        protected WaitForSeconds    _dieTimeWait;           //The amount of time before the character completes it's dying behavior.
     [SerializeField][Range(000, 150)]   protected int               _health;                                        //The health of the character.
     [SerializeField][Range(000, 150)]   protected int               _healthMaximum;                                 //The health limit of the character.
 
     protected void OnEnable() {
         EventManager.HealEventHandler   += Heal;
         EventManager.DamageEventHandler += Damage;
+        EventManager.DyingEventHandler += Die;
     }
     protected void OnDisable() {
         EventManager.DamageEventHandler -= Damage;
         EventManager.HealEventHandler   -= Heal;
+        EventManager.DyingEventHandler -= Die;
     }
     public CharacterState State {
         get { return _state; }
@@ -24,7 +27,7 @@ public abstract class Character : MonoBehaviour{
         set {
             _health = Mathf.Clamp(value, 0, _healthMaximum);
             if (_health == 0 && !(State.IsDying || State.IsDead)) {
-                
+                EventManager.DyingEvent(gameObject.GetInstanceID());
             }
         }
     }
@@ -32,7 +35,8 @@ public abstract class Character : MonoBehaviour{
         get { return _healthMaximum; }
     }
     virtual protected void Awake () {
-        _state = GetComponent<CharacterState>();
+        _state      = GetComponent<CharacterState>();
+        _dieTimeWait = new WaitForSeconds(0f);
     }
 
     virtual protected void Heal(int objectID, int health) {

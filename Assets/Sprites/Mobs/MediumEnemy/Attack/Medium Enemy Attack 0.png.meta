@@ -1,0 +1,1136 @@
+fileFormatVersion: 2
+guid: c4907a6526a597542880ca17a57a7703
+timeCreated: 1460482480
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 'Medium Enemy Attack #000'
+    21300002: 'Medium Enemy Attack #001'
+    21300004: 'Medium Enemy Attack #002'
+    21300006: 'Medium Enemy Attack #003'
+    21300008: 'Medium Enemy Attack #004'
+    21300010: 'Medium Enemy Attack #005'
+    21300012: 'Medium Enemy Attack #006'
+    21300014: 'Medium Enemy Attack #007'
+    21300016: 'Medium Enemy Attack #008'
+    21300018: 'Medium Enemy Attack #009'
+    21300020: 'Medium Enemy Attack #010'
+    21300022: 'Medium Enemy Attack #011'
+    21300024: 'Medium Enemy Attack #012'
+    21300026: 'Medium Enemy Attack #013'
+    21300028: 'Medium Enemy Attack #014'
+    21300030: 'Medium Enemy Attack #015'
+    21300032: 'Medium Enemy Attack #016'
+    21300034: 'Medium Enemy Attack #017'
+    21300036: 'Medium Enemy Attack #018'
+    21300038: 'Medium Enemy Attack #019'
+    21300040: 'Medium Enemy Attack #020'
+    21300042: 'Medium Enemy Attack #021'
+    21300044: 'Medium Enemy Attack #022'
+    21300046: 'Medium Enemy Attack #023'
+    21300048: 'Medium Enemy Attack #024'
+    21300050: 'Medium Enemy Attack #025'
+    21300052: 'Medium Enemy Attack #026'
+    21300054: 'Medium Enemy Attack #027'
+    21300056: 'Medium Enemy Attack #028'
+    21300058: 'Medium Enemy Attack #029'
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 'Medium Enemy Attack #000'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 71}
+        - {x: -37, y: 41}
+        - {x: -46, y: -14}
+        - {x: -46, y: -28}
+        - {x: -44, y: -29}
+        - {x: -32, y: -31}
+        - {x: -27, y: -23}
+        - {x: -25, y: -18}
+        - {x: -39, y: -57}
+        - {x: -27, y: -101}
+        - {x: -16, y: -105}
+        - {x: 29, y: -105}
+        - {x: 35, y: -86}
+        - {x: 35, y: 71}
+      - - {x: 23, y: -39}
+        - {x: 23, y: -58}
+        - {x: 34, y: -59}
+        - {x: 58, y: -59}
+        - {x: 62, y: -49}
+        - {x: 62, y: -41}
+        - {x: 59, y: -39}
+      - - {x: -44, y: -32}
+        - {x: -53, y: -41}
+        - {x: -53, y: -48}
+        - {x: -49, y: -54}
+        - {x: -36, y: -54}
+        - {x: -31, y: -46}
+        - {x: -31, y: -32}
+    - name: 'Medium Enemy Attack #001'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -66}
+        - {x: -3, y: -52}
+        - {x: -1, y: -58}
+        - {x: -5, y: -85}
+        - {x: -4, y: -102}
+        - {x: 2, y: -105}
+        - {x: 24, y: -105}
+        - {x: 26, y: -98}
+        - {x: 55, y: -63}
+        - {x: 54, y: -60}
+        - {x: 15, y: 69}
+        - {x: -25, y: 69}
+        - {x: -43, y: 62}
+        - {x: -43, y: -105}
+        - {x: -12, y: -105}
+        - {x: -10, y: -101}
+        - {x: -8, y: -96}
+        - {x: -6, y: -89}
+      - - {x: -44, y: -30}
+        - {x: -46, y: -35}
+        - {x: -46, y: -46}
+        - {x: -40, y: -64}
+        - {x: -37, y: -70}
+        - {x: -32, y: -77}
+        - {x: -29, y: -77}
+        - {x: -29, y: -34}
+        - {x: -34, y: -30}
+    - name: 'Medium Enemy Attack #002'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -80}
+        - {x: 45, y: -62}
+        - {x: 22, y: 57}
+        - {x: 11, y: 65}
+        - {x: -7, y: 65}
+        - {x: -46, y: 12}
+        - {x: -44, y: -22}
+        - {x: -35, y: -25}
+        - {x: -30, y: -25}
+        - {x: -26, y: -22}
+        - {x: -25, y: -32}
+        - {x: -34, y: -25}
+        - {x: -37, y: -24}
+        - {x: -40, y: -24}
+        - {x: -46, y: -29}
+        - {x: -46, y: -38}
+        - {x: -41, y: -58}
+        - {x: -33, y: -102}
+        - {x: -28, y: -105}
+        - {x: 21, y: -105}
+        - {x: 29, y: -101}
+        - {x: 28, y: -95}
+    - name: 'Medium Enemy Attack #003'
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 59}
+        - {x: -50, y: 49}
+        - {x: -51, y: 39}
+        - {x: -51, y: -102}
+        - {x: -47, y: -104}
+        - {x: 29, y: -104}
+        - {x: 30, y: -103}
+        - {x: 30, y: 39}
+        - {x: 16, y: 59}
+    - name: 'Medium Enemy Attack #004'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 57}
+        - {x: -45, y: -34}
+        - {x: -41, y: -63}
+        - {x: -36, y: -98}
+        - {x: -33, y: -105}
+        - {x: 31, y: -105}
+        - {x: 31, y: 43}
+        - {x: 28, y: 81}
+        - {x: 17, y: 124}
+        - {x: -23, y: 124}
+        - {x: -27, y: 123}
+    - name: 'Medium Enemy Attack #005'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 21}
+        - {x: 54, y: 75}
+        - {x: 48, y: 78}
+        - {x: 22, y: 84}
+        - {x: -35, y: 84}
+        - {x: -35, y: -105}
+        - {x: -20, y: -105}
+        - {x: -11, y: -98}
+        - {x: -1, y: -105}
+        - {x: 22, y: -105}
+        - {x: 29, y: -99}
+        - {x: 31, y: -89}
+        - {x: 26, y: -44}
+    - name: 'Medium Enemy Attack #006'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 62}
+        - {x: 58, y: 65}
+        - {x: 58, y: 67}
+        - {x: 45, y: 78}
+        - {x: 8, y: 85}
+        - {x: -4, y: 80}
+        - {x: -9, y: 73}
+        - {x: -10, y: 68}
+        - {x: -9, y: 71}
+        - {x: -10, y: 84}
+        - {x: -16, y: 90}
+        - {x: -43, y: 90}
+        - {x: -43, y: -62}
+        - {x: -36, y: -105}
+        - {x: 27, y: -105}
+        - {x: 37, y: -96}
+        - {x: 27, y: -44}
+        - {x: 20, y: 37}
+    - name: 'Medium Enemy Attack #007'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 75}
+        - {x: -14, y: 77}
+        - {x: -19, y: 90}
+        - {x: -23, y: 95}
+        - {x: -64, y: 95}
+        - {x: -104, y: 86}
+        - {x: -104, y: -67}
+        - {x: -71, y: -105}
+        - {x: 63, y: -105}
+        - {x: 63, y: 86}
+        - {x: 44, y: 91}
+        - {x: 21, y: 95}
+        - {x: 1, y: 95}
+        - {x: -7, y: 93}
+    - name: 'Medium Enemy Attack #008'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 85}
+        - {x: -14, y: 79}
+        - {x: -20, y: 58}
+        - {x: -15, y: 85}
+        - {x: -20, y: 98}
+        - {x: -86, y: 117}
+        - {x: -112, y: 117}
+        - {x: -112, y: 108}
+        - {x: -39, y: -106}
+        - {x: 29, y: -106}
+        - {x: 29, y: 3}
+        - {x: 27, y: 23}
+        - {x: 3, y: 101}
+        - {x: -10, y: 90}
+      - - {x: -6, y: 107}
+        - {x: -10, y: 105}
+        - {x: -12, y: 101}
+        - {x: -12, y: 88}
+        - {x: 65, y: 78}
+        - {x: 68, y: 78}
+        - {x: 68, y: 89}
+        - {x: 32, y: 107}
+    - name: 'Medium Enemy Attack #009'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -48}
+        - {x: 12, y: -51}
+        - {x: 12, y: -49}
+        - {x: 22, y: 54}
+        - {x: 17, y: 66}
+        - {x: 61, y: 59}
+        - {x: 63, y: 61}
+        - {x: 63, y: 63}
+        - {x: 36, y: 83}
+        - {x: -5, y: 100}
+        - {x: -10, y: 99}
+        - {x: -16, y: 96}
+        - {x: -13, y: 75}
+        - {x: -15, y: 91}
+        - {x: -39, y: 121}
+        - {x: -62, y: 128}
+        - {x: -85, y: 128}
+        - {x: -85, y: 68}
+        - {x: -59, y: -106}
+        - {x: 28, y: -106}
+        - {x: 36, y: -100}
+        - {x: 20, y: -44}
+        - {x: 15, y: -46}
+    - name: 'Medium Enemy Attack #010'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 95}
+        - {x: -13, y: 95}
+        - {x: -16, y: 90}
+        - {x: -16, y: 85}
+        - {x: -14, y: 69}
+        - {x: -23, y: 52}
+        - {x: -16, y: 69}
+        - {x: -21, y: 83}
+        - {x: -49, y: 71}
+        - {x: -49, y: -12}
+        - {x: -40, y: -105}
+        - {x: 27, y: -105}
+        - {x: 31, y: -101}
+        - {x: 33, y: -58}
+        - {x: 33, y: 46}
+      - - {x: 33, y: 32}
+        - {x: 36, y: 33}
+        - {x: 36, y: 36}
+        - {x: 33, y: 37}
+        - {x: 31, y: 35}
+      - - {x: -64, y: 120}
+        - {x: -84, y: 120}
+        - {x: -84, y: 118}
+        - {x: -83, y: 115}
+        - {x: -34, y: 76}
+        - {x: -18, y: 76}
+        - {x: -16, y: 78}
+        - {x: -16, y: 92}
+        - {x: -37, y: 114}
+    - name: 'Medium Enemy Attack #011'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 18}
+        - {x: 19, y: 78}
+        - {x: -10, y: 78}
+        - {x: -13, y: 73}
+        - {x: -13, y: 63}
+        - {x: -13, y: 64}
+        - {x: -17, y: 73}
+        - {x: -39, y: 71}
+        - {x: -39, y: -105}
+        - {x: -16, y: -105}
+        - {x: -9, y: -94}
+        - {x: -6, y: -105}
+        - {x: 28, y: -105}
+      - - {x: -106, y: 92}
+        - {x: -106, y: 81}
+        - {x: -105, y: 78}
+        - {x: -49, y: 70}
+        - {x: -19, y: 70}
+        - {x: -19, y: 92}
+    - name: 'Medium Enemy Attack #012'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -105}
+        - {x: 5, y: -106}
+        - {x: 29, y: -106}
+        - {x: 29, y: 57}
+        - {x: -4, y: 87}
+        - {x: -97, y: 87}
+        - {x: -97, y: 22}
+        - {x: -33, y: -102}
+        - {x: -25, y: -106}
+        - {x: -14, y: -106}
+        - {x: -7, y: -88}
+        - {x: -4, y: -60}
+        - {x: -4, y: -92}
+    - name: 'Medium Enemy Attack #013'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 61}
+        - {x: 5, y: 70}
+        - {x: 2, y: 76}
+        - {x: -12, y: 70}
+        - {x: -19, y: 48}
+        - {x: -22, y: 45}
+        - {x: -25, y: 40}
+        - {x: -19, y: 49}
+        - {x: -18, y: 52}
+        - {x: -17, y: 59}
+        - {x: -17, y: 72}
+        - {x: -23, y: 83}
+        - {x: -45, y: 83}
+        - {x: -53, y: 71}
+        - {x: -53, y: 58}
+        - {x: -41, y: 17}
+        - {x: -34, y: -105}
+        - {x: -33, y: -106}
+        - {x: 21, y: -106}
+        - {x: 30, y: -104}
+        - {x: 30, y: -17}
+    - name: 'Medium Enemy Attack #014'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -102}
+        - {x: -1, y: -106}
+        - {x: 25, y: -106}
+        - {x: 30, y: -104}
+        - {x: 30, y: -35}
+        - {x: 13, y: 70}
+        - {x: 2, y: 73}
+        - {x: -30, y: 73}
+        - {x: -36, y: 59}
+        - {x: -30, y: 56}
+        - {x: -18, y: 56}
+        - {x: -17, y: 55}
+        - {x: -26, y: 56}
+        - {x: -30, y: 56}
+        - {x: -34, y: 57}
+        - {x: -49, y: 39}
+        - {x: -49, y: 25}
+        - {x: -30, y: -106}
+        - {x: -14, y: -106}
+        - {x: -6, y: -89}
+        - {x: -4, y: -59}
+        - {x: -4, y: -90}
+    - name: 'Medium Enemy Attack #015'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -86}
+        - {x: -3, y: -102}
+        - {x: 2, y: -106}
+        - {x: 31, y: -106}
+        - {x: 29, y: -50}
+        - {x: 26, y: -49}
+        - {x: 23, y: -50}
+        - {x: 20, y: -53}
+        - {x: 20, y: -45}
+        - {x: 45, y: 19}
+        - {x: 45, y: 63}
+        - {x: -49, y: 63}
+        - {x: -52, y: 43}
+        - {x: -52, y: 20}
+        - {x: -48, y: 15}
+        - {x: -31, y: -104}
+        - {x: -24, y: -106}
+        - {x: -13, y: -106}
+        - {x: -11, y: -103}
+        - {x: -6, y: -88}
+        - {x: -3, y: -59}
+    - name: 'Medium Enemy Attack #016'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -101}
+        - {x: 4, y: -106}
+        - {x: 24, y: -106}
+        - {x: 27, y: -98}
+        - {x: 31, y: -50}
+        - {x: 24, y: -48}
+        - {x: 20, y: -51}
+        - {x: 20, y: -54}
+        - {x: 17, y: -59}
+        - {x: 17, y: -61}
+        - {x: 18, y: -57}
+        - {x: 18, y: -43}
+        - {x: 43, y: -36}
+        - {x: 71, y: 32}
+        - {x: 71, y: 63}
+        - {x: -18, y: 63}
+        - {x: -55, y: 37}
+        - {x: -55, y: -49}
+        - {x: -40, y: -106}
+        - {x: -12, y: -106}
+        - {x: -5, y: -91}
+        - {x: -2, y: -59}
+        - {x: -4, y: -86}
+    - name: 'Medium Enemy Attack #017'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -66}
+        - {x: -3, y: -52}
+        - {x: -1, y: -58}
+        - {x: -5, y: -85}
+        - {x: -4, y: -102}
+        - {x: 1, y: -105}
+        - {x: 42, y: -105}
+        - {x: 56, y: 4}
+        - {x: 56, y: 82}
+        - {x: 34, y: 82}
+        - {x: -11, y: 72}
+        - {x: -62, y: 33}
+        - {x: -63, y: 23}
+        - {x: -68, y: -22}
+        - {x: -68, y: -32}
+        - {x: -66, y: -34}
+        - {x: -29, y: -104}
+        - {x: -23, y: -105}
+        - {x: -12, y: -105}
+        - {x: -10, y: -101}
+        - {x: -8, y: -96}
+        - {x: -6, y: -89}
+    - name: 'Medium Enemy Attack #018'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -50}
+        - {x: 26, y: -48}
+        - {x: 18, y: -52}
+        - {x: 17, y: -57}
+        - {x: 17, y: -59}
+        - {x: 15, y: -63}
+        - {x: 14, y: -62}
+        - {x: 17, y: -56}
+        - {x: 22, y: -23}
+        - {x: 28, y: 31}
+        - {x: 28, y: 75}
+        - {x: -36, y: 75}
+        - {x: -56, y: 73}
+        - {x: -64, y: 69}
+        - {x: -64, y: 65}
+        - {x: -63, y: 64}
+        - {x: -64, y: 23}
+        - {x: -62, y: 13}
+        - {x: -43, y: -54}
+        - {x: -27, y: -106}
+        - {x: -12, y: -106}
+        - {x: -6, y: -97}
+        - {x: -5, y: -88}
+        - {x: -5, y: -83}
+        - {x: -4, y: -69}
+        - {x: -4, y: -62}
+        - {x: -3, y: -58}
+        - {x: -3, y: -63}
+        - {x: -5, y: -85}
+        - {x: -5, y: -93}
+        - {x: -4, y: -100}
+        - {x: 1, y: -106}
+        - {x: 22, y: -106}
+        - {x: 26, y: -103}
+        - {x: 22, y: -95}
+        - {x: 28, y: -60}
+    - name: 'Medium Enemy Attack #019'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -58}
+        - {x: 16, y: -60}
+        - {x: 16, y: -58}
+        - {x: 18, y: -46}
+        - {x: 34, y: 12}
+        - {x: 35, y: 14}
+        - {x: 35, y: 74}
+        - {x: 28, y: 93}
+        - {x: 20, y: 93}
+        - {x: 19, y: 92}
+        - {x: -8, y: 74}
+        - {x: -22, y: 56}
+        - {x: -60, y: 31}
+        - {x: -61, y: 27}
+        - {x: -61, y: 9}
+        - {x: -48, y: 2}
+        - {x: -30, y: -103}
+        - {x: -27, y: -106}
+        - {x: 34, y: -106}
+        - {x: 32, y: -48}
+        - {x: 24, y: -49}
+        - {x: 18, y: -53}
+    - name: 'Medium Enemy Attack #020'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -52}
+        - {x: 16, y: -57}
+        - {x: 16, y: -59}
+        - {x: 14, y: -63}
+        - {x: 13, y: -62}
+        - {x: 15, y: -59}
+        - {x: 18, y: -53}
+        - {x: 26, y: -4}
+        - {x: 25, y: 32}
+        - {x: 5, y: 72}
+        - {x: -39, y: 72}
+        - {x: -59, y: 36}
+        - {x: -59, y: -10}
+        - {x: -37, y: -8}
+        - {x: -32, y: -1}
+        - {x: -31, y: 4}
+        - {x: -31, y: 9}
+        - {x: -30, y: 5}
+        - {x: -32, y: -6}
+        - {x: -50, y: -65}
+        - {x: -46, y: -67}
+        - {x: -33, y: -54}
+        - {x: -22, y: -34}
+        - {x: -30, y: -49}
+        - {x: -27, y: -102}
+        - {x: -16, y: -106}
+        - {x: 26, y: -106}
+        - {x: 26, y: -47}
+        - {x: 23, y: -49}
+      - - {x: 21, y: -7}
+        - {x: 39, y: -7}
+        - {x: 54, y: 22}
+        - {x: 54, y: 65}
+        - {x: 48, y: 65}
+        - {x: 21, y: 17}
+    - name: 'Medium Enemy Attack #021'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 73}
+        - {x: -24, y: 66}
+        - {x: -60, y: 21}
+        - {x: -61, y: 1}
+        - {x: -39, y: -14}
+        - {x: -32, y: -5}
+        - {x: -32, y: 2}
+        - {x: -30, y: -4}
+        - {x: -33, y: -7}
+        - {x: -34, y: -11}
+        - {x: -67, y: -97}
+        - {x: -67, y: -99}
+        - {x: -63, y: -102}
+        - {x: -42, y: -75}
+        - {x: -29, y: -49}
+        - {x: -27, y: -47}
+        - {x: -25, y: -40}
+        - {x: -26, y: -47}
+        - {x: -29, y: -48}
+        - {x: -32, y: -104}
+        - {x: -26, y: -106}
+        - {x: 26, y: -106}
+        - {x: 26, y: 16}
+        - {x: 8, y: 73}
+      - - {x: 62, y: 51}
+        - {x: 59, y: 50}
+        - {x: 21, y: -14}
+        - {x: 21, y: -17}
+        - {x: 27, y: -20}
+        - {x: 53, y: -20}
+        - {x: 64, y: 18}
+        - {x: 64, y: 51}
+    - name: 'Medium Enemy Attack #022'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -57}
+        - {x: 15, y: -59}
+        - {x: 13, y: -63}
+        - {x: 12, y: -62}
+        - {x: 14, y: -59}
+        - {x: 16, y: -52}
+        - {x: 42, y: -20}
+        - {x: 42, y: 39}
+        - {x: 9, y: 74}
+        - {x: -18, y: 74}
+        - {x: -61, y: 20}
+        - {x: -52, y: -13}
+        - {x: -39, y: -18}
+        - {x: -37, y: -15}
+        - {x: -31, y: -12}
+        - {x: -32, y: 0}
+        - {x: -31, y: -12}
+        - {x: -35, y: -14}
+        - {x: -38, y: -19}
+        - {x: -76, y: -99}
+        - {x: -76, y: -102}
+        - {x: -73, y: -103}
+        - {x: -65, y: -96}
+        - {x: -48, y: -77}
+        - {x: -38, y: -65}
+        - {x: -31, y: -51}
+        - {x: -23, y: -36}
+        - {x: -29, y: -47}
+        - {x: -27, y: -92}
+        - {x: -26, y: -106}
+        - {x: 28, y: -106}
+        - {x: 34, y: -44}
+        - {x: 22, y: -49}
+        - {x: 17, y: -52}
+      - - {x: 15, y: -20}
+        - {x: 15, y: -44}
+        - {x: 55, y: -64}
+        - {x: 96, y: -64}
+        - {x: 96, y: -59}
+        - {x: 38, y: -20}
+    - name: 'Medium Enemy Attack #023'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -39}
+        - {x: 34, y: -57}
+        - {x: 88, y: -82}
+        - {x: 88, y: -71}
+        - {x: 66, y: 3}
+        - {x: 20, y: 73}
+        - {x: -14, y: 73}
+        - {x: -53, y: 17}
+        - {x: -53, y: -15}
+        - {x: -46, y: -26}
+        - {x: -30, y: -17}
+        - {x: -32, y: -7}
+        - {x: -23, y: -42}
+        - {x: -30, y: -49}
+        - {x: -26, y: -105}
+        - {x: -20, y: -106}
+        - {x: 20, y: -106}
+        - {x: 28, y: -104}
+        - {x: 26, y: -49}
+        - {x: 22, y: -46}
+        - {x: 17, y: -46}
+      - - {x: -29, y: -20}
+        - {x: -34, y: -20}
+        - {x: -40, y: -24}
+        - {x: -77, y: -85}
+        - {x: -77, y: -89}
+        - {x: -67, y: -89}
+        - {x: -37, y: -65}
+        - {x: -25, y: -40}
+        - {x: -25, y: -23}
+    - name: 'Medium Enemy Attack #024'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -52}
+        - {x: 13, y: -60}
+        - {x: 14, y: -55}
+        - {x: 14, y: -42}
+        - {x: 13, y: -27}
+        - {x: 23, y: -37}
+        - {x: 38, y: -33}
+        - {x: 38, y: -2}
+        - {x: 37, y: 7}
+        - {x: 11, y: 73}
+        - {x: -13, y: 73}
+        - {x: -50, y: 21}
+        - {x: -50, y: -25}
+        - {x: -49, y: -30}
+        - {x: -31, y: -24}
+        - {x: -30, y: -20}
+        - {x: -29, y: -47}
+        - {x: -25, y: -106}
+        - {x: 22, y: -106}
+        - {x: 29, y: -102}
+        - {x: 26, y: -57}
+        - {x: 23, y: -45}
+      - - {x: -39, y: -26}
+        - {x: -74, y: -60}
+        - {x: -74, y: -72}
+        - {x: -39, y: -72}
+        - {x: -27, y: -50}
+        - {x: -27, y: -26}
+      - - {x: 21, y: -34}
+        - {x: 21, y: -58}
+        - {x: 44, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: -58}
+        - {x: 48, y: -34}
+    - name: 'Medium Enemy Attack #025'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 72}
+        - {x: -11, y: 72}
+        - {x: -32, y: 50}
+        - {x: -46, y: 21}
+        - {x: -46, y: -71}
+        - {x: -24, y: -105}
+        - {x: 30, y: -105}
+        - {x: 35, y: -89}
+        - {x: 35, y: 19}
+        - {x: 16, y: 65}
+      - - {x: -34, y: -32}
+        - {x: -44, y: -32}
+        - {x: -72, y: -50}
+        - {x: -72, y: -58}
+        - {x: -34, y: -58}
+        - {x: -31, y: -45}
+        - {x: -31, y: -33}
+      - - {x: 36, y: -37}
+        - {x: 28, y: -37}
+        - {x: 23, y: -40}
+        - {x: 23, y: -45}
+        - {x: 26, y: -52}
+        - {x: 36, y: -57}
+        - {x: 60, y: -57}
+        - {x: 71, y: -47}
+        - {x: 71, y: -45}
+        - {x: 70, y: -43}
+    - name: 'Medium Enemy Attack #026'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -10}
+        - {x: -46, y: -38}
+        - {x: -23, y: -105}
+        - {x: 35, y: -105}
+        - {x: 35, y: 20}
+        - {x: 30, y: 72}
+        - {x: -11, y: 72}
+        - {x: -38, y: 40}
+      - - {x: 23, y: -38}
+        - {x: 23, y: -46}
+        - {x: 26, y: -53}
+        - {x: 32, y: -58}
+        - {x: 60, y: -58}
+        - {x: 66, y: -54}
+        - {x: 66, y: -43}
+        - {x: 56, y: -38}
+      - - {x: -47, y: -32}
+        - {x: -62, y: -46}
+        - {x: -62, y: -51}
+        - {x: -54, y: -55}
+        - {x: -40, y: -55}
+        - {x: -31, y: -47}
+        - {x: -31, y: -34}
+        - {x: -32, y: -32}
+    - name: 'Medium Enemy Attack #027'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 71}
+        - {x: -22, y: 71}
+        - {x: -46, y: 22}
+        - {x: -46, y: -60}
+        - {x: -23, y: -105}
+        - {x: 32, y: -105}
+        - {x: 35, y: -95}
+        - {x: 35, y: 25}
+        - {x: 22, y: 67}
+      - - {x: 34, y: -38}
+        - {x: 25, y: -38}
+        - {x: 23, y: -43}
+        - {x: 23, y: -51}
+        - {x: 38, y: -58}
+        - {x: 52, y: -58}
+        - {x: 62, y: -48}
+        - {x: 63, y: -46}
+        - {x: 63, y: -42}
+      - - {x: -47, y: -32}
+        - {x: -56, y: -36}
+        - {x: -56, y: -48}
+        - {x: -52, y: -55}
+        - {x: -39, y: -55}
+        - {x: -33, y: -49}
+        - {x: -31, y: -41}
+        - {x: -31, y: -32}
+    - name: 'Medium Enemy Attack #028'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 71}
+        - {x: -37, y: 41}
+        - {x: -46, y: -14}
+        - {x: -46, y: -28}
+        - {x: -44, y: -29}
+        - {x: -32, y: -31}
+        - {x: -27, y: -23}
+        - {x: -25, y: -18}
+        - {x: -39, y: -57}
+        - {x: -27, y: -101}
+        - {x: -16, y: -105}
+        - {x: 29, y: -105}
+        - {x: 35, y: -86}
+        - {x: 35, y: 71}
+      - - {x: 23, y: -39}
+        - {x: 23, y: -58}
+        - {x: 34, y: -59}
+        - {x: 58, y: -59}
+        - {x: 62, y: -49}
+        - {x: 62, y: -41}
+        - {x: 59, y: -39}
+      - - {x: -44, y: -32}
+        - {x: -53, y: -41}
+        - {x: -53, y: -48}
+        - {x: -49, y: -54}
+        - {x: -36, y: -54}
+        - {x: -31, y: -46}
+        - {x: -31, y: -32}
+    - name: 'Medium Enemy Attack #029'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 71}
+        - {x: -37, y: 41}
+        - {x: -46, y: -14}
+        - {x: -46, y: -28}
+        - {x: -44, y: -29}
+        - {x: -32, y: -31}
+        - {x: -27, y: -23}
+        - {x: -25, y: -18}
+        - {x: -39, y: -57}
+        - {x: -27, y: -101}
+        - {x: -16, y: -105}
+        - {x: 29, y: -105}
+        - {x: 35, y: -86}
+        - {x: 35, y: 71}
+      - - {x: 23, y: -39}
+        - {x: 23, y: -58}
+        - {x: 34, y: -59}
+        - {x: 58, y: -59}
+        - {x: 62, y: -49}
+        - {x: 62, y: -41}
+        - {x: 59, y: -39}
+      - - {x: -44, y: -32}
+        - {x: -53, y: -41}
+        - {x: -53, y: -48}
+        - {x: -49, y: -54}
+        - {x: -36, y: -54}
+        - {x: -31, y: -46}
+        - {x: -31, y: -32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

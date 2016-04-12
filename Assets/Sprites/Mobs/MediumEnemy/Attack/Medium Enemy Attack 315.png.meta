@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 3290bf68272c03745a8a0619cc7b02ac
+timeCreated: 1460484045
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Medium Enemy Attack 315_0
+    21300002: Medium Enemy Attack 315_1
+    21300004: Medium Enemy Attack 315_2
+    21300006: Medium Enemy Attack 315_3
+    21300008: Medium Enemy Attack 315_4
+    21300010: Medium Enemy Attack 315_5
+    21300012: Medium Enemy Attack 315_6
+    21300014: Medium Enemy Attack 315_7
+    21300016: Medium Enemy Attack 315_8
+    21300018: Medium Enemy Attack 315_9
+    21300020: Medium Enemy Attack 315_10
+    21300022: Medium Enemy Attack 315_11
+    21300024: Medium Enemy Attack 315_12
+    21300026: Medium Enemy Attack 315_13
+    21300028: Medium Enemy Attack 315_14
+    21300030: Medium Enemy Attack 315_15
+    21300032: Medium Enemy Attack 315_16
+    21300034: Medium Enemy Attack 315_17
+    21300036: Medium Enemy Attack 315_18
+    21300038: Medium Enemy Attack 315_19
+    21300040: Medium Enemy Attack 315_20
+    21300042: Medium Enemy Attack 315_21
+    21300044: Medium Enemy Attack 315_22
+    21300046: Medium Enemy Attack 315_23
+    21300048: Medium Enemy Attack 315_24
+    21300050: Medium Enemy Attack 315_25
+    21300052: Medium Enemy Attack 315_26
+    21300054: Medium Enemy Attack 315_27
+    21300056: Medium Enemy Attack 315_28
+    21300058: Medium Enemy Attack 315_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Medium Enemy Attack 315_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 71}
+        - {x: -40, y: 25}
+        - {x: -40, y: -105}
+        - {x: 44, y: -105}
+        - {x: 97, y: -78}
+        - {x: 97, y: -27}
+        - {x: 21, y: 66}
+        - {x: 10, y: 71}
+    - name: Medium Enemy Attack 315_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -70}
+        - {x: 102, y: -67}
+        - {x: 107, y: -64}
+        - {x: 107, y: -62}
+        - {x: 106, y: -60}
+        - {x: 10, y: -41}
+        - {x: 7, y: -43}
+        - {x: 2, y: -11}
+        - {x: 5, y: -33}
+        - {x: 10, y: -40}
+        - {x: 16, y: -42}
+        - {x: 24, y: -37}
+        - {x: 30, y: -28}
+        - {x: 28, y: 69}
+        - {x: 0, y: 69}
+        - {x: -30, y: 56}
+        - {x: -41, y: 29}
+        - {x: -41, y: -69}
+        - {x: -37, y: -105}
+        - {x: 54, y: -105}
+        - {x: 80, y: -94}
+        - {x: 51, y: -72}
+        - {x: 43, y: -68}
+        - {x: 44, y: -68}
+    - name: Medium Enemy Attack 315_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -105}
+        - {x: 101, y: -90}
+        - {x: 109, y: -77}
+        - {x: 108, y: -74}
+        - {x: 20, y: -35}
+        - {x: 17, y: -35}
+        - {x: 5, y: -33}
+        - {x: 8, y: -19}
+        - {x: 8, y: -14}
+        - {x: 12, y: -31}
+        - {x: 19, y: -35}
+        - {x: 23, y: -35}
+        - {x: 35, y: -29}
+        - {x: 34, y: 36}
+        - {x: 28, y: 65}
+        - {x: 5, y: 65}
+        - {x: -20, y: 47}
+        - {x: -41, y: 16}
+        - {x: -41, y: 15}
+        - {x: -51, y: -69}
+        - {x: -51, y: -96}
+        - {x: -42, y: -105}
+        - {x: -32, y: -105}
+        - {x: -30, y: -104}
+        - {x: -29, y: -100}
+        - {x: -13, y: -105}
+    - name: Medium Enemy Attack 315_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 23}
+        - {x: -39, y: 19}
+        - {x: -67, y: -67}
+        - {x: -67, y: -99}
+        - {x: -65, y: -104}
+        - {x: 98, y: -104}
+        - {x: 98, y: -77}
+        - {x: 43, y: 52}
+        - {x: 32, y: 59}
+        - {x: 14, y: 59}
+        - {x: -12, y: 46}
+    - name: Medium Enemy Attack 315_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 128}
+        - {x: -43, y: 39}
+        - {x: -66, y: -65}
+        - {x: -66, y: -101}
+        - {x: -54, y: -105}
+        - {x: -45, y: -105}
+        - {x: -44, y: -96}
+        - {x: -28, y: -70}
+        - {x: 1, y: -105}
+        - {x: 15, y: -105}
+        - {x: 50, y: -97}
+        - {x: 90, y: 87}
+        - {x: 90, y: 123}
+        - {x: 83, y: 128}
+    - name: Medium Enemy Attack 315_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 85}
+        - {x: -24, y: 77}
+        - {x: -65, y: 21}
+        - {x: -65, y: -105}
+        - {x: 42, y: -105}
+        - {x: 49, y: -104}
+        - {x: 52, y: -54}
+        - {x: 52, y: 76}
+        - {x: 29, y: 85}
+    - name: Medium Enemy Attack 315_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 83}
+        - {x: 18, y: 76}
+        - {x: 15, y: 73}
+        - {x: 12, y: 67}
+        - {x: 10, y: 64}
+        - {x: 13, y: 68}
+        - {x: 14, y: 72}
+        - {x: 18, y: 77}
+        - {x: 21, y: 84}
+        - {x: 11, y: 90}
+        - {x: -14, y: 90}
+        - {x: -59, y: 76}
+        - {x: -61, y: 74}
+        - {x: -60, y: 71}
+        - {x: -50, y: 69}
+        - {x: -46, y: 20}
+        - {x: -44, y: 4}
+        - {x: -41, y: 1}
+        - {x: -64, y: -70}
+        - {x: -64, y: -90}
+        - {x: -57, y: -102}
+        - {x: -45, y: -105}
+        - {x: -43, y: -101}
+        - {x: -7, y: -105}
+        - {x: 8, y: -105}
+        - {x: 42, y: -100}
+        - {x: 44, y: -3}
+        - {x: 44, y: 80}
+        - {x: 38, y: 84}
+    - name: Medium Enemy Attack 315_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 69}
+        - {x: -1, y: 65}
+        - {x: -1, y: 75}
+        - {x: 1, y: 79}
+        - {x: 3, y: 91}
+        - {x: -5, y: 95}
+        - {x: -20, y: 95}
+        - {x: -97, y: 86}
+        - {x: -98, y: 85}
+        - {x: -98, y: -105}
+        - {x: 31, y: -105}
+        - {x: 31, y: 95}
+        - {x: 17, y: 95}
+        - {x: 7, y: 85}
+        - {x: 1, y: 75}
+    - name: Medium Enemy Attack 315_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 102}
+        - {x: -12, y: 93}
+        - {x: -13, y: 77}
+        - {x: -12, y: 73}
+        - {x: -11, y: 67}
+        - {x: -12, y: 69}
+        - {x: -14, y: 85}
+        - {x: -13, y: 89}
+        - {x: -15, y: 104}
+        - {x: -44, y: 117}
+        - {x: -106, y: 117}
+        - {x: -106, y: 61}
+        - {x: -61, y: -106}
+        - {x: 16, y: -106}
+        - {x: 29, y: -102}
+        - {x: 29, y: -32}
+        - {x: 9, y: 101}
+        - {x: 2, y: 107}
+        - {x: -2, y: 107}
+    - name: Medium Enemy Attack 315_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 128}
+        - {x: -113, y: 128}
+        - {x: -113, y: 126}
+        - {x: -112, y: 125}
+        - {x: -64, y: 95}
+        - {x: -42, y: 79}
+        - {x: -39, y: 79}
+        - {x: -31, y: 69}
+        - {x: -39, y: 66}
+        - {x: -42, y: 62}
+        - {x: -45, y: 53}
+        - {x: -45, y: 50}
+        - {x: -45, y: 59}
+        - {x: -42, y: 63}
+        - {x: -40, y: 64}
+        - {x: -38, y: 71}
+        - {x: -38, y: 74}
+        - {x: -41, y: 78}
+        - {x: -42, y: 78}
+        - {x: -44, y: 80}
+        - {x: -52, y: 83}
+        - {x: -69, y: 61}
+        - {x: -70, y: 51}
+        - {x: -69, y: -106}
+        - {x: -38, y: -106}
+        - {x: -36, y: -101}
+        - {x: -36, y: -99}
+        - {x: -8, y: -106}
+        - {x: 7, y: -106}
+        - {x: 14, y: -105}
+        - {x: 27, y: -96}
+        - {x: 27, y: -45}
+        - {x: -8, y: 118}
+    - name: Medium Enemy Attack 315_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 88}
+        - {x: -49, y: 84}
+        - {x: -57, y: 76}
+        - {x: -57, y: 75}
+        - {x: -58, y: 75}
+        - {x: -56, y: 78}
+        - {x: -49, y: 86}
+        - {x: -55, y: 97}
+        - {x: -88, y: 118}
+        - {x: -128, y: 118}
+        - {x: -128, y: 34}
+        - {x: -102, y: -105}
+        - {x: 24, y: -105}
+        - {x: 25, y: -102}
+        - {x: 25, y: -80}
+        - {x: 3, y: 20}
+    - name: Medium Enemy Attack 315_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 92}
+        - {x: -128, y: 92}
+        - {x: -128, y: -48}
+        - {x: -101, y: -105}
+        - {x: 19, y: -105}
+        - {x: 23, y: -103}
+        - {x: 23, y: -38}
+        - {x: 4, y: 28}
+    - name: Medium Enemy Attack 315_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -56}
+        - {x: 1, y: 26}
+        - {x: -66, y: 85}
+        - {x: -82, y: 87}
+        - {x: -128, y: 87}
+        - {x: -128, y: 70}
+        - {x: -86, y: 68}
+        - {x: -80, y: 68}
+        - {x: -82, y: 68}
+        - {x: -85, y: 65}
+        - {x: -90, y: 56}
+        - {x: -97, y: 28}
+        - {x: -99, y: -10}
+        - {x: -96, y: -14}
+        - {x: -63, y: -106}
+        - {x: -28, y: -106}
+        - {x: -27, y: -105}
+        - {x: -27, y: -100}
+        - {x: -8, y: -106}
+        - {x: 20, y: -106}
+    - name: Medium Enemy Attack 315_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 83}
+        - {x: -128, y: -6}
+        - {x: -121, y: -35}
+        - {x: -95, y: -17}
+        - {x: -83, y: 20}
+        - {x: -48, y: -93}
+        - {x: -35, y: -106}
+        - {x: 17, y: -106}
+        - {x: 17, y: 18}
+        - {x: -43, y: 83}
+    - name: Medium Enemy Attack 315_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 73}
+        - {x: -128, y: 73}
+        - {x: -128, y: 8}
+        - {x: -113, y: -30}
+        - {x: -102, y: -26}
+        - {x: -99, y: -25}
+        - {x: -60, y: -100}
+        - {x: -46, y: -106}
+        - {x: 15, y: -106}
+        - {x: 15, y: -5}
+        - {x: 4, y: 34}
+    - name: Medium Enemy Attack 315_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 63}
+        - {x: -59, y: 56}
+        - {x: -64, y: 45}
+        - {x: -62, y: 53}
+        - {x: -65, y: 60}
+        - {x: -78, y: 63}
+        - {x: -87, y: 63}
+        - {x: -90, y: 29}
+        - {x: -90, y: -26}
+        - {x: -89, y: -45}
+        - {x: -85, y: -45}
+        - {x: -82, y: -44}
+        - {x: -45, y: -106}
+        - {x: 13, y: -106}
+        - {x: 13, y: 36}
+        - {x: -24, y: 63}
+    - name: Medium Enemy Attack 315_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 63}
+        - {x: -42, y: 63}
+        - {x: -49, y: 59}
+        - {x: -76, y: 51}
+        - {x: -87, y: 47}
+        - {x: -87, y: -96}
+        - {x: -74, y: -105}
+        - {x: 13, y: -105}
+        - {x: 13, y: -42}
+        - {x: -4, y: 43}
+    - name: Medium Enemy Attack 315_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 79}
+        - {x: -83, y: 46}
+        - {x: -97, y: 8}
+        - {x: -97, y: -78}
+        - {x: -92, y: -105}
+        - {x: 12, y: -105}
+        - {x: 12, y: 79}
+    - name: Medium Enemy Attack 315_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 61}
+        - {x: -73, y: 73}
+        - {x: -77, y: 73}
+        - {x: -79, y: 72}
+        - {x: -79, y: 6}
+        - {x: -63, y: 7}
+        - {x: -58, y: 7}
+        - {x: -51, y: 12}
+        - {x: -39, y: -10}
+        - {x: -44, y: -80}
+        - {x: -30, y: -106}
+        - {x: 10, y: -106}
+        - {x: 10, y: 27}
+        - {x: 5, y: 73}
+        - {x: -66, y: 73}
+        - {x: -71, y: 72}
+        - {x: -70, y: 66}
+    - name: Medium Enemy Attack 315_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120, y: 40}
+        - {x: -120, y: -20}
+        - {x: -28, y: -106}
+        - {x: 10, y: -106}
+        - {x: 10, y: 91}
+        - {x: -7, y: 91}
+        - {x: -21, y: 88}
+    - name: Medium Enemy Attack 315_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 72}
+        - {x: -33, y: 72}
+        - {x: -77, y: 33}
+        - {x: -115, y: -59}
+        - {x: -115, y: -65}
+        - {x: -104, y: -65}
+        - {x: -31, y: -106}
+        - {x: 1, y: -106}
+        - {x: 4, y: -105}
+        - {x: 9, y: -55}
+        - {x: 45, y: 59}
+        - {x: 45, y: 64}
+    - name: Medium Enemy Attack 315_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 73}
+        - {x: -68, y: 36}
+        - {x: -87, y: -47}
+        - {x: -87, y: -106}
+        - {x: 15, y: -106}
+        - {x: 59, y: 4}
+        - {x: 59, y: 71}
+        - {x: 52, y: 73}
+    - name: Medium Enemy Attack 315_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 74}
+        - {x: -24, y: 74}
+        - {x: -27, y: 73}
+        - {x: -54, y: 29}
+        - {x: -54, y: -103}
+        - {x: -46, y: -101}
+        - {x: -35, y: -66}
+        - {x: -30, y: -23}
+        - {x: -37, y: -87}
+        - {x: -40, y: -100}
+        - {x: -29, y: -106}
+        - {x: 17, y: -106}
+        - {x: 73, y: -67}
+        - {x: 74, y: -64}
+        - {x: 74, y: -57}
+    - name: Medium Enemy Attack 315_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 70}
+        - {x: -1, y: 73}
+        - {x: -21, y: 73}
+        - {x: -49, y: 39}
+        - {x: -49, y: -85}
+        - {x: -46, y: -105}
+        - {x: -35, y: -106}
+        - {x: -4, y: -106}
+        - {x: 5, y: -103}
+        - {x: 80, y: -73}
+        - {x: 82, y: -71}
+        - {x: 81, y: -68}
+    - name: Medium Enemy Attack 315_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 73}
+        - {x: -18, y: 73}
+        - {x: -44, y: 43}
+        - {x: -44, y: -106}
+        - {x: 31, y: -106}
+        - {x: 92, y: -67}
+        - {x: 92, y: -55}
+        - {x: 13, y: 69}
+    - name: Medium Enemy Attack 315_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 69}
+        - {x: 9, y: 72}
+        - {x: -21, y: 72}
+        - {x: -41, y: 20}
+        - {x: -41, y: -91}
+        - {x: -36, y: -105}
+        - {x: -4, y: -105}
+        - {x: 9, y: -103}
+        - {x: 95, y: -64}
+        - {x: 95, y: -23}
+    - name: Medium Enemy Attack 315_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 72}
+        - {x: -18, y: 72}
+        - {x: -41, y: 21}
+        - {x: -41, y: -105}
+        - {x: 24, y: -105}
+        - {x: 95, y: -56}
+        - {x: 95, y: -43}
+        - {x: 94, y: -42}
+    - name: Medium Enemy Attack 315_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 71}
+        - {x: -41, y: 22}
+        - {x: -41, y: -98}
+        - {x: -30, y: -105}
+        - {x: 43, y: -105}
+        - {x: 97, y: -50}
+        - {x: 97, y: -3}
+        - {x: 29, y: 71}
+    - name: Medium Enemy Attack 315_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 71}
+        - {x: -40, y: 25}
+        - {x: -40, y: -105}
+        - {x: 44, y: -105}
+        - {x: 97, y: -78}
+        - {x: 97, y: -27}
+        - {x: 21, y: 66}
+        - {x: 10, y: 71}
+    - name: Medium Enemy Attack 315_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 71}
+        - {x: -40, y: 25}
+        - {x: -40, y: -105}
+        - {x: 44, y: -105}
+        - {x: 97, y: -78}
+        - {x: 97, y: -27}
+        - {x: 21, y: 66}
+        - {x: 10, y: 71}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: 5883dd592e6afb44bab517cb90ed1dec
+timeCreated: 1460485749
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Medium Enemy Movement 135_0
+    21300002: Medium Enemy Movement 135_1
+    21300004: Medium Enemy Movement 135_2
+    21300006: Medium Enemy Movement 135_3
+    21300008: Medium Enemy Movement 135_4
+    21300010: Medium Enemy Movement 135_5
+    21300012: Medium Enemy Movement 135_6
+    21300014: Medium Enemy Movement 135_7
+    21300016: Medium Enemy Movement 135_8
+    21300018: Medium Enemy Movement 135_9
+    21300020: Medium Enemy Movement 135_10
+    21300022: Medium Enemy Movement 135_11
+    21300024: Medium Enemy Movement 135_12
+    21300026: Medium Enemy Movement 135_13
+    21300028: Medium Enemy Movement 135_14
+    21300030: Medium Enemy Movement 135_15
+    21300032: Medium Enemy Movement 135_16
+    21300034: Medium Enemy Movement 135_17
+    21300036: Medium Enemy Movement 135_18
+    21300038: Medium Enemy Movement 135_19
+    21300040: Medium Enemy Movement 135_20
+    21300042: Medium Enemy Movement 135_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Medium Enemy Movement 135_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -32}
+        - {x: 52, y: -25}
+        - {x: 51, y: -17}
+        - {x: 39, y: 19}
+        - {x: -4, y: 58}
+        - {x: -26, y: 58}
+        - {x: -29, y: 57}
+        - {x: -50, y: -13}
+        - {x: -50, y: -36}
+        - {x: -48, y: -40}
+        - {x: -40, y: -42}
+        - {x: -34, y: -40}
+        - {x: -46, y: -105}
+        - {x: 37, y: -105}
+        - {x: 41, y: -102}
+        - {x: 58, y: -50}
+        - {x: 58, y: -31}
+        - {x: 54, y: -25}
+      - - {x: -119, y: 3}
+        - {x: -119, y: -13}
+        - {x: -69, y: -55}
+        - {x: -42, y: -55}
+        - {x: -42, y: -45}
+        - {x: -116, y: 3}
+    - name: Medium Enemy Movement 135_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -31}
+        - {x: 55, y: -26}
+        - {x: 55, y: -11}
+        - {x: 9, y: 57}
+        - {x: -28, y: 57}
+        - {x: -34, y: 52}
+        - {x: -46, y: 12}
+        - {x: -46, y: -81}
+        - {x: -24, y: -112}
+        - {x: 29, y: -112}
+        - {x: 55, y: -59}
+        - {x: 55, y: -34}
+        - {x: 52, y: -32}
+      - - {x: -119, y: -8}
+        - {x: -119, y: -15}
+        - {x: -81, y: -55}
+        - {x: -64, y: -58}
+        - {x: -36, y: -58}
+        - {x: -36, y: -45}
+        - {x: -110, y: -8}
+    - name: Medium Enemy Movement 135_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -42}
+        - {x: 45, y: -38}
+        - {x: 38, y: 10}
+        - {x: -2, y: 56}
+        - {x: -26, y: 56}
+        - {x: -48, y: -39}
+        - {x: -37, y: -47}
+        - {x: -31, y: -48}
+        - {x: -26, y: -49}
+        - {x: -20, y: -42}
+        - {x: -18, y: -25}
+        - {x: -19, y: -37}
+        - {x: -19, y: -44}
+        - {x: -22, y: -49}
+        - {x: -24, y: -57}
+        - {x: -30, y: -49}
+        - {x: -117, y: -23}
+        - {x: -118, y: -23}
+        - {x: -118, y: -38}
+        - {x: -26, y: -111}
+        - {x: 19, y: -111}
+        - {x: 49, y: -56}
+        - {x: 49, y: -44}
+        - {x: 46, y: -39}
+    - name: Medium Enemy Movement 135_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: -86}
+        - {x: -76, y: -106}
+        - {x: 14, y: -106}
+        - {x: 50, y: -90}
+        - {x: 50, y: 54}
+        - {x: -46, y: 54}
+        - {x: -114, y: 16}
+    - name: Medium Enemy Movement 135_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 53}
+        - {x: 3, y: 54}
+        - {x: -15, y: 54}
+        - {x: -92, y: -5}
+        - {x: -108, y: -29}
+        - {x: -108, y: -92}
+        - {x: -85, y: -105}
+        - {x: 9, y: -105}
+        - {x: 65, y: -88}
+        - {x: 65, y: -49}
+        - {x: 35, y: 16}
+    - name: Medium Enemy Movement 135_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 54}
+        - {x: -52, y: 32}
+        - {x: -103, y: -21}
+        - {x: -103, y: -67}
+        - {x: -45, y: -105}
+        - {x: 69, y: -105}
+        - {x: 69, y: 34}
+        - {x: 37, y: 54}
+    - name: Medium Enemy Movement 135_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 29}
+        - {x: -17, y: 26}
+        - {x: -21, y: 16}
+        - {x: -20, y: 9}
+        - {x: -100, y: -20}
+        - {x: -100, y: -103}
+        - {x: 68, y: -103}
+        - {x: 68, y: -11}
+        - {x: 39, y: 55}
+        - {x: -11, y: 55}
+        - {x: -14, y: 53}
+    - name: Medium Enemy Movement 135_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: -101}
+        - {x: 65, y: -40}
+        - {x: 24, y: 57}
+        - {x: -48, y: 57}
+        - {x: -95, y: 23}
+        - {x: -95, y: -101}
+    - name: Medium Enemy Movement 135_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 18}
+        - {x: -76, y: 20}
+        - {x: -90, y: 3}
+        - {x: -90, y: -101}
+        - {x: 62, y: -101}
+        - {x: 62, y: -35}
+        - {x: 38, y: 59}
+        - {x: -1, y: 59}
+        - {x: -8, y: 56}
+    - name: Medium Enemy Movement 135_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 61}
+        - {x: -84, y: 40}
+        - {x: -89, y: -25}
+        - {x: -89, y: -61}
+        - {x: -71, y: -101}
+        - {x: -31, y: -97}
+        - {x: 18, y: -108}
+        - {x: 60, y: -108}
+        - {x: 60, y: -16}
+        - {x: 20, y: 61}
+    - name: Medium Enemy Movement 135_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 2}
+        - {x: -9, y: -2}
+        - {x: -5, y: -7}
+        - {x: -66, y: 33}
+        - {x: -71, y: 36}
+        - {x: -69, y: 18}
+        - {x: -43, y: -11}
+        - {x: -39, y: -32}
+        - {x: -41, y: -39}
+        - {x: -41, y: -36}
+        - {x: -43, y: -31}
+        - {x: -48, y: -27}
+        - {x: -87, y: -43}
+        - {x: -87, y: -60}
+        - {x: -54, y: -106}
+        - {x: 58, y: -106}
+        - {x: 58, y: -36}
+        - {x: 28, y: 63}
+        - {x: -9, y: 63}
+        - {x: -24, y: 22}
+    - name: Medium Enemy Movement 135_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 65}
+        - {x: -85, y: 38}
+        - {x: -85, y: 9}
+        - {x: -41, y: -29}
+        - {x: -42, y: -35}
+        - {x: -37, y: -40}
+        - {x: -42, y: -37}
+        - {x: -41, y: -29}
+        - {x: -50, y: -25}
+        - {x: -52, y: -28}
+        - {x: -85, y: -44}
+        - {x: -85, y: -48}
+        - {x: -84, y: -49}
+        - {x: -73, y: -52}
+        - {x: -63, y: -81}
+        - {x: -44, y: -105}
+        - {x: 56, y: -105}
+        - {x: 56, y: -28}
+        - {x: 19, y: 65}
+    - name: Medium Enemy Movement 135_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 66}
+        - {x: -10, y: 60}
+        - {x: -24, y: 36}
+        - {x: -67, y: 39}
+        - {x: -41, y: -27}
+        - {x: -41, y: -31}
+        - {x: -37, y: -34}
+        - {x: -39, y: -38}
+        - {x: -41, y: -30}
+        - {x: -44, y: -23}
+        - {x: -49, y: -23}
+        - {x: -52, y: -24}
+        - {x: -87, y: -38}
+        - {x: -87, y: -51}
+        - {x: -81, y: -57}
+        - {x: -36, y: -89}
+        - {x: -15, y: -78}
+        - {x: 27, y: -105}
+        - {x: 54, y: -105}
+        - {x: 54, y: -20}
+        - {x: 14, y: 66}
+    - name: Medium Enemy Movement 135_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 66}
+        - {x: -94, y: -61}
+        - {x: -17, y: -109}
+        - {x: 47, y: -109}
+        - {x: 47, y: 66}
+    - name: Medium Enemy Movement 135_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 67}
+        - {x: -103, y: 16}
+        - {x: -103, y: -47}
+        - {x: -27, y: -79}
+        - {x: -6, y: -74}
+        - {x: 13, y: -108}
+        - {x: 36, y: -108}
+        - {x: 36, y: 45}
+        - {x: 30, y: 67}
+    - name: Medium Enemy Movement 135_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 68}
+        - {x: -35, y: 68}
+        - {x: -110, y: 37}
+        - {x: -110, y: -69}
+        - {x: 1, y: -106}
+        - {x: 15, y: -106}
+        - {x: 25, y: -104}
+        - {x: 27, y: -91}
+        - {x: 36, y: -47}
+        - {x: 36, y: 23}
+    - name: Medium Enemy Movement 135_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -35}
+        - {x: 21, y: -32}
+        - {x: 27, y: -35}
+        - {x: 35, y: -35}
+        - {x: 41, y: -33}
+        - {x: 41, y: 36}
+        - {x: 40, y: 69}
+        - {x: -41, y: 69}
+        - {x: -113, y: 46}
+        - {x: -113, y: -65}
+        - {x: -4, y: -103}
+        - {x: 19, y: -103}
+        - {x: 41, y: -57}
+        - {x: 41, y: -38}
+        - {x: 40, y: -35}
+    - name: Medium Enemy Movement 135_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -35}
+        - {x: 17, y: -32}
+        - {x: 25, y: -19}
+        - {x: 25, y: -17}
+        - {x: 25, y: -20}
+        - {x: 26, y: -23}
+        - {x: 28, y: -30}
+        - {x: 31, y: -35}
+        - {x: 43, y: -34}
+        - {x: 48, y: -32}
+        - {x: 48, y: -26}
+        - {x: 34, y: 37}
+        - {x: 4, y: 69}
+        - {x: -9, y: 69}
+        - {x: -14, y: 63}
+        - {x: -15, y: 40}
+        - {x: -35, y: -23}
+        - {x: -35, y: -33}
+        - {x: -24, y: -38}
+        - {x: -16, y: -30}
+        - {x: -11, y: -14}
+        - {x: -14, y: -24}
+        - {x: -18, y: -48}
+        - {x: -26, y: -54}
+        - {x: -26, y: -73}
+        - {x: -17, y: -101}
+        - {x: 21, y: -101}
+        - {x: 48, y: -47}
+        - {x: 48, y: -34}
+        - {x: 44, y: -35}
+      - - {x: -112, y: 10}
+        - {x: -115, y: 10}
+        - {x: -115, y: 5}
+        - {x: -84, y: -29}
+        - {x: -54, y: -47}
+        - {x: -41, y: -49}
+        - {x: -36, y: -50}
+        - {x: -29, y: -50}
+        - {x: -25, y: -45}
+        - {x: -25, y: -39}
+        - {x: -105, y: 6}
+    - name: Medium Enemy Movement 135_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 69}
+        - {x: -26, y: 69}
+        - {x: -40, y: 28}
+        - {x: -40, y: -73}
+        - {x: -23, y: -97}
+        - {x: 30, y: -97}
+        - {x: 53, y: -67}
+        - {x: 53, y: 5}
+        - {x: 41, y: 41}
+      - - {x: -117, y: 14}
+        - {x: -117, y: 4}
+        - {x: -90, y: -24}
+        - {x: -55, y: -47}
+        - {x: -42, y: -49}
+        - {x: -34, y: -49}
+        - {x: -31, y: -44}
+        - {x: -31, y: -39}
+        - {x: -113, y: 14}
+    - name: Medium Enemy Movement 135_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -41}
+        - {x: 41, y: -31}
+        - {x: 50, y: -26}
+        - {x: 51, y: -17}
+        - {x: 20, y: 44}
+        - {x: -4, y: 67}
+        - {x: -18, y: 67}
+        - {x: -23, y: 66}
+        - {x: -44, y: -18}
+        - {x: -44, y: -33}
+        - {x: -32, y: -40}
+        - {x: -26, y: -32}
+        - {x: -31, y: -77}
+        - {x: -26, y: -89}
+        - {x: -21, y: -92}
+        - {x: -10, y: -95}
+        - {x: 32, y: -95}
+        - {x: 57, y: -55}
+        - {x: 57, y: -31}
+        - {x: 53, y: -28}
+      - - {x: -118, y: 14}
+        - {x: -119, y: 11}
+        - {x: -116, y: 5}
+        - {x: -105, y: -8}
+        - {x: -91, y: -23}
+        - {x: -65, y: -49}
+        - {x: -35, y: -49}
+        - {x: -35, y: -39}
+        - {x: -116, y: 14}
+    - name: Medium Enemy Movement 135_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -36}
+        - {x: 52, y: -24}
+        - {x: 50, y: -16}
+        - {x: 47, y: -9}
+        - {x: 36, y: 14}
+        - {x: 14, y: 46}
+        - {x: -3, y: 63}
+        - {x: -23, y: 63}
+        - {x: -35, y: 42}
+        - {x: -48, y: 7}
+        - {x: -48, y: -44}
+        - {x: -36, y: -39}
+        - {x: -31, y: -34}
+        - {x: -27, y: -28}
+        - {x: -20, y: -11}
+        - {x: -23, y: -18}
+        - {x: -29, y: -34}
+        - {x: -36, y: -70}
+        - {x: -33, y: -83}
+        - {x: 3, y: -103}
+        - {x: 48, y: -103}
+        - {x: 58, y: -65}
+        - {x: 58, y: -25}
+        - {x: 56, y: -22}
+      - - {x: -119, y: 11}
+        - {x: -119, y: 6}
+        - {x: -117, y: 1}
+        - {x: -96, y: -24}
+        - {x: -70, y: -45}
+        - {x: -62, y: -48}
+        - {x: -50, y: -51}
+        - {x: -41, y: -51}
+        - {x: -40, y: -45}
+        - {x: -40, y: -41}
+        - {x: -116, y: 11}
+    - name: Medium Enemy Movement 135_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: -26}
+        - {x: 43, y: -32}
+        - {x: 43, y: -28}
+        - {x: 55, y: -24}
+        - {x: 38, y: 20}
+        - {x: -2, y: 59}
+        - {x: -23, y: 59}
+        - {x: -35, y: 51}
+        - {x: -51, y: -15}
+        - {x: -51, y: -53}
+        - {x: -29, y: -91}
+        - {x: -17, y: -80}
+        - {x: -13, y: -70}
+        - {x: 6, y: -102}
+        - {x: 39, y: -102}
+        - {x: 47, y: -100}
+        - {x: 59, y: -40}
+        - {x: 59, y: -29}
+        - {x: 54, y: -26}
+      - - {x: -119, y: -3}
+        - {x: -85, y: -49}
+        - {x: -64, y: -53}
+        - {x: -42, y: -53}
+        - {x: -42, y: -40}
+        - {x: -43, y: -38}
+        - {x: -115, y: 7}
+        - {x: -119, y: 7}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -102,12 +102,10 @@ public class Weapon : InteractableObject {
     }
     virtual protected void Attack(int objectID, bool autoFire) {
         if (!objectID.Equals(gameObject.GetInstanceID())) {
-            Debug.Log("Wrong Object!");
             return;
         }
         if (CanAttack) {
             if ((autoFire && FireMode.Equals(FireMechanism.Fullautomatic)) || (!autoFire)) {
-                Debug.Log("Pew!");
                 StartCoroutine(AttackCoroutine());
             }
         }
@@ -116,13 +114,14 @@ public class Weapon : InteractableObject {
         CanAttack = false;
         _animator.SetTrigger("Attack");
         _audioSources[0].Play();
+        HitScan();
         yield return new WaitForSeconds(_fireRate);
     }
     virtual protected void HitScan() {
         Ray _ray = Camera.main.ScreenPointToRay(new Vector3(Screen.width / 2f, Screen.height / 2f, 0f));
         RaycastHit hit;
         //Draw ray for debug purposes.
-        //Debug.DrawRay(_ray.origin, _ray.direction, Color.green, 1000f);
+        Debug.DrawRay(_ray.origin, _ray.direction, Color.green, 1000f);
         //If the Raycast hit a collider...
         if (Physics.Raycast(_ray.origin, _ray.direction, out hit, Range)) {
             if (hit.collider.gameObject.CompareTag("Enemy")) {

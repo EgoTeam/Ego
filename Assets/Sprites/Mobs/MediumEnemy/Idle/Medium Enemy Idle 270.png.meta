@@ -1,0 +1,1763 @@
+fileFormatVersion: 2
+guid: 1885120b0652f8f4393e274237728bde
+timeCreated: 1460485327
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Medium Enemy Idle 270_0
+    21300002: Medium Enemy Idle 270_1
+    21300004: Medium Enemy Idle 270_2
+    21300006: Medium Enemy Idle 270_3
+    21300008: Medium Enemy Idle 270_4
+    21300010: Medium Enemy Idle 270_5
+    21300012: Medium Enemy Idle 270_6
+    21300014: Medium Enemy Idle 270_7
+    21300016: Medium Enemy Idle 270_8
+    21300018: Medium Enemy Idle 270_9
+    21300020: Medium Enemy Idle 270_10
+    21300022: Medium Enemy Idle 270_11
+    21300024: Medium Enemy Idle 270_12
+    21300026: Medium Enemy Idle 270_13
+    21300028: Medium Enemy Idle 270_14
+    21300030: Medium Enemy Idle 270_15
+    21300032: Medium Enemy Idle 270_16
+    21300034: Medium Enemy Idle 270_17
+    21300036: Medium Enemy Idle 270_18
+    21300038: Medium Enemy Idle 270_19
+    21300040: Medium Enemy Idle 270_20
+    21300042: Medium Enemy Idle 270_21
+    21300044: Medium Enemy Idle 270_22
+    21300046: Medium Enemy Idle 270_23
+    21300048: Medium Enemy Idle 270_24
+    21300050: Medium Enemy Idle 270_25
+    21300052: Medium Enemy Idle 270_26
+    21300054: Medium Enemy Idle 270_27
+    21300056: Medium Enemy Idle 270_28
+    21300058: Medium Enemy Idle 270_29
+    21300060: Medium Enemy Idle 270_30
+    21300062: Medium Enemy Idle 270_31
+    21300064: Medium Enemy Idle 270_32
+    21300066: Medium Enemy Idle 270_33
+    21300068: Medium Enemy Idle 270_34
+    21300070: Medium Enemy Idle 270_35
+    21300072: Medium Enemy Idle 270_36
+    21300074: Medium Enemy Idle 270_37
+    21300076: Medium Enemy Idle 270_38
+    21300078: Medium Enemy Idle 270_39
+    21300080: Medium Enemy Idle 270_40
+    21300082: Medium Enemy Idle 270_41
+    21300084: Medium Enemy Idle 270_42
+    21300086: Medium Enemy Idle 270_43
+    21300088: Medium Enemy Idle 270_44
+    21300090: Medium Enemy Idle 270_45
+    21300092: Medium Enemy Idle 270_46
+    21300094: Medium Enemy Idle 270_47
+    21300096: Medium Enemy Idle 270_48
+    21300098: Medium Enemy Idle 270_49
+    21300100: Medium Enemy Idle 270_50
+    21300102: Medium Enemy Idle 270_51
+    21300104: Medium Enemy Idle 270_52
+    21300106: Medium Enemy Idle 270_53
+    21300108: Medium Enemy Idle 270_54
+    21300110: Medium Enemy Idle 270_55
+    21300112: Medium Enemy Idle 270_56
+    21300114: Medium Enemy Idle 270_57
+    21300116: Medium Enemy Idle 270_58
+    21300118: Medium Enemy Idle 270_59
+    21300120: Medium Enemy Idle 270_60
+    21300122: Medium Enemy Idle 270_61
+    21300124: Medium Enemy Idle 270_62
+    21300126: Medium Enemy Idle 270_63
+    21300128: Medium Enemy Idle 270_64
+    21300130: Medium Enemy Idle 270_65
+    21300132: Medium Enemy Idle 270_66
+    21300134: Medium Enemy Idle 270_67
+    21300136: Medium Enemy Idle 270_68
+    21300138: Medium Enemy Idle 270_69
+    21300140: Medium Enemy Idle 270_70
+    21300142: Medium Enemy Idle 270_71
+    21300144: Medium Enemy Idle 270_72
+    21300146: Medium Enemy Idle 270_73
+    21300148: Medium Enemy Idle 270_74
+    21300150: Medium Enemy Idle 270_75
+    21300152: Medium Enemy Idle 270_76
+    21300154: Medium Enemy Idle 270_77
+    21300156: Medium Enemy Idle 270_78
+    21300158: Medium Enemy Idle 270_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Medium Enemy Idle 270_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 77}
+        - {x: -12, y: 77}
+        - {x: -14, y: 70}
+        - {x: -14, y: -24}
+        - {x: -4, y: -103}
+        - {x: 31, y: -103}
+        - {x: 33, y: -97}
+        - {x: 112, y: -46}
+        - {x: 112, y: 45}
+    - name: Medium Enemy Idle 270_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 1}
+        - {x: 112, y: 7}
+        - {x: 86, y: 10}
+        - {x: 19, y: 77}
+        - {x: -12, y: 77}
+        - {x: -14, y: 70}
+        - {x: -14, y: -24}
+        - {x: -4, y: -103}
+        - {x: 31, y: -103}
+        - {x: 33, y: -97}
+        - {x: 28, y: -92}
+        - {x: 104, y: -11}
+    - name: Medium Enemy Idle 270_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: -7}
+        - {x: 79, y: -9}
+        - {x: 81, y: -8}
+        - {x: 89, y: -1}
+        - {x: 91, y: 4}
+        - {x: 90, y: 9}
+        - {x: 24, y: 77}
+        - {x: -14, y: 77}
+        - {x: -14, y: -103}
+        - {x: 51, y: -103}
+        - {x: 112, y: -3}
+        - {x: 112, y: 6}
+        - {x: 109, y: 5}
+    - name: Medium Enemy Idle 270_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 77}
+        - {x: -7, y: 70}
+        - {x: -7, y: 57}
+        - {x: -5, y: 52}
+        - {x: -13, y: 37}
+        - {x: -14, y: 24}
+        - {x: -14, y: -16}
+        - {x: -2, y: -103}
+        - {x: 53, y: -103}
+        - {x: 112, y: -1}
+        - {x: 112, y: 18}
+        - {x: 56, y: 77}
+    - name: Medium Enemy Idle 270_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 77}
+        - {x: -14, y: 77}
+        - {x: -14, y: -54}
+        - {x: -1, y: -103}
+        - {x: 33, y: -103}
+        - {x: 36, y: -101}
+        - {x: 112, y: -11}
+        - {x: 112, y: 42}
+    - name: Medium Enemy Idle 270_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 77}
+        - {x: -5, y: 77}
+        - {x: -14, y: 61}
+        - {x: -14, y: -80}
+        - {x: -12, y: -99}
+        - {x: -3, y: -103}
+        - {x: 44, y: -103}
+        - {x: 112, y: -8}
+        - {x: 112, y: 10}
+        - {x: 90, y: 12}
+    - name: Medium Enemy Idle 270_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 77}
+        - {x: -14, y: -72}
+        - {x: -5, y: -103}
+        - {x: 45, y: -103}
+        - {x: 111, y: -42}
+        - {x: 111, y: 77}
+    - name: Medium Enemy Idle 270_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 77}
+        - {x: -14, y: 77}
+        - {x: -14, y: -103}
+        - {x: 33, y: -103}
+        - {x: 36, y: -102}
+        - {x: 112, y: -7}
+        - {x: 112, y: 38}
+    - name: Medium Enemy Idle 270_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 0}
+        - {x: 112, y: 4}
+        - {x: 109, y: 4}
+        - {x: 106, y: 2}
+        - {x: 90, y: -5}
+        - {x: 92, y: 0}
+        - {x: 93, y: 4}
+        - {x: 22, y: 77}
+        - {x: -8, y: 77}
+        - {x: -14, y: 66}
+        - {x: -14, y: -97}
+        - {x: -13, y: -102}
+        - {x: -8, y: -103}
+        - {x: 32, y: -103}
+        - {x: 33, y: -96}
+        - {x: 28, y: -92}
+        - {x: 107, y: -9}
+    - name: Medium Enemy Idle 270_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 78}
+        - {x: -14, y: -103}
+        - {x: 48, y: -103}
+        - {x: 111, y: -44}
+        - {x: 111, y: 27}
+        - {x: 39, y: 78}
+    - name: Medium Enemy Idle 270_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 78}
+        - {x: -14, y: -13}
+        - {x: -5, y: -103}
+        - {x: 30, y: -103}
+        - {x: 34, y: -102}
+        - {x: 112, y: -23}
+        - {x: 112, y: 55}
+        - {x: 79, y: 78}
+    - name: Medium Enemy Idle 270_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: 18}
+        - {x: 86, y: 49}
+        - {x: 20, y: 78}
+        - {x: -14, y: 78}
+        - {x: -14, y: -52}
+        - {x: -6, y: -103}
+        - {x: 30, y: -103}
+        - {x: 33, y: -96}
+        - {x: 108, y: -12}
+        - {x: 111, y: -8}
+    - name: Medium Enemy Idle 270_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 78}
+        - {x: -14, y: -101}
+        - {x: -2, y: -103}
+        - {x: 34, y: -103}
+        - {x: 112, y: -57}
+        - {x: 112, y: 37}
+        - {x: 57, y: 78}
+    - name: Medium Enemy Idle 270_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 14}
+        - {x: 21, y: 78}
+        - {x: -9, y: 78}
+        - {x: -14, y: 70}
+        - {x: -14, y: -54}
+        - {x: -2, y: -103}
+        - {x: 36, y: -103}
+        - {x: 109, y: -14}
+        - {x: 111, y: -10}
+        - {x: 111, y: 8}
+    - name: Medium Enemy Idle 270_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 21}
+        - {x: 21, y: 78}
+        - {x: -15, y: 78}
+        - {x: -15, y: -75}
+        - {x: -13, y: -101}
+        - {x: -1, y: -103}
+        - {x: 33, y: -103}
+        - {x: 36, y: -101}
+        - {x: 111, y: -15}
+        - {x: 111, y: 4}
+    - name: Medium Enemy Idle 270_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 78}
+        - {x: -9, y: 78}
+        - {x: -15, y: 70}
+        - {x: -15, y: -62}
+        - {x: -12, y: -103}
+        - {x: 34, y: -103}
+        - {x: 38, y: -102}
+        - {x: 111, y: -14}
+        - {x: 111, y: 26}
+    - name: Medium Enemy Idle 270_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: -6}
+        - {x: 96, y: -7}
+        - {x: 88, y: -9}
+        - {x: 90, y: -9}
+        - {x: 98, y: 0}
+        - {x: 98, y: 2}
+        - {x: 95, y: 3}
+        - {x: 14, y: 78}
+        - {x: -15, y: 78}
+        - {x: -15, y: -103}
+        - {x: 41, y: -103}
+        - {x: 111, y: -14}
+        - {x: 111, y: 0}
+        - {x: 108, y: -1}
+    - name: Medium Enemy Idle 270_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 78}
+        - {x: -6, y: 78}
+        - {x: -12, y: 75}
+        - {x: -15, y: 62}
+        - {x: -15, y: -6}
+        - {x: -1, y: -103}
+        - {x: 43, y: -103}
+        - {x: 111, y: -9}
+        - {x: 111, y: -3}
+        - {x: 110, y: -2}
+    - name: Medium Enemy Idle 270_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: -3}
+        - {x: 98, y: -7}
+        - {x: 97, y: -8}
+        - {x: 89, y: -10}
+        - {x: 91, y: -10}
+        - {x: 93, y: -7}
+        - {x: 94, y: -7}
+        - {x: 100, y: -1}
+        - {x: 100, y: 1}
+        - {x: 97, y: 2}
+        - {x: 32, y: 63}
+        - {x: 14, y: 79}
+        - {x: -11, y: 79}
+        - {x: -15, y: 63}
+        - {x: -15, y: -11}
+        - {x: -2, y: -103}
+        - {x: 44, y: -103}
+        - {x: 110, y: -11}
+        - {x: 110, y: -4}
+    - name: Medium Enemy Idle 270_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 79}
+        - {x: -16, y: 79}
+        - {x: -16, y: -48}
+        - {x: -2, y: -103}
+        - {x: 43, y: -103}
+        - {x: 111, y: -18}
+        - {x: 111, y: 26}
+        - {x: 102, y: 62}
+    - name: Medium Enemy Idle 270_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -4}
+        - {x: 98, y: -8}
+        - {x: 101, y: -2}
+        - {x: 101, y: 0}
+        - {x: 92, y: 61}
+        - {x: 40, y: 79}
+        - {x: -16, y: 79}
+        - {x: -16, y: -57}
+        - {x: -4, y: -102}
+        - {x: 42, y: -102}
+        - {x: 107, y: -15}
+        - {x: 111, y: -7}
+        - {x: 111, y: -4}
+    - name: Medium Enemy Idle 270_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 79}
+        - {x: -16, y: -72}
+        - {x: -6, y: -102}
+        - {x: 57, y: -102}
+        - {x: 103, y: -76}
+        - {x: 110, y: -45}
+        - {x: 110, y: 79}
+    - name: Medium Enemy Idle 270_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 79}
+        - {x: -9, y: 79}
+        - {x: -16, y: 71}
+        - {x: -17, y: 65}
+        - {x: -17, y: -17}
+        - {x: -3, y: -102}
+        - {x: 42, y: -102}
+        - {x: 110, y: -14}
+        - {x: 110, y: -7}
+        - {x: 98, y: 5}
+    - name: Medium Enemy Idle 270_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 79}
+        - {x: -14, y: 77}
+        - {x: -17, y: 49}
+        - {x: -17, y: -2}
+        - {x: -8, y: -93}
+        - {x: 2, y: -102}
+        - {x: 34, y: -102}
+        - {x: 110, y: -18}
+        - {x: 110, y: 16}
+        - {x: 14, y: 79}
+    - name: Medium Enemy Idle 270_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 79}
+        - {x: -17, y: 79}
+        - {x: -17, y: -73}
+        - {x: -15, y: -102}
+        - {x: 49, y: -102}
+        - {x: 110, y: -22}
+        - {x: 110, y: 6}
+        - {x: 27, y: 66}
+    - name: Medium Enemy Idle 270_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: -2}
+        - {x: 100, y: -3}
+        - {x: 7, y: 79}
+        - {x: -3, y: 79}
+        - {x: -13, y: 75}
+        - {x: -18, y: 56}
+        - {x: -18, y: -11}
+        - {x: -2, y: -102}
+        - {x: 35, y: -102}
+        - {x: 37, y: -101}
+        - {x: 110, y: -14}
+        - {x: 110, y: -5}
+    - name: Medium Enemy Idle 270_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 40}
+        - {x: -18, y: 1}
+        - {x: -13, y: -90}
+        - {x: -9, y: -102}
+        - {x: 60, y: -102}
+        - {x: 109, y: -59}
+        - {x: 109, y: 41}
+        - {x: 16, y: 79}
+        - {x: -8, y: 79}
+        - {x: -13, y: 73}
+        - {x: -13, y: 58}
+    - name: Medium Enemy Idle 270_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 79}
+        - {x: -18, y: 76}
+        - {x: -18, y: -65}
+        - {x: -16, y: -102}
+        - {x: 34, y: -102}
+        - {x: 109, y: -47}
+        - {x: 109, y: 37}
+        - {x: 62, y: 79}
+    - name: Medium Enemy Idle 270_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 79}
+        - {x: -7, y: 79}
+        - {x: -14, y: 75}
+        - {x: -18, y: 64}
+        - {x: -18, y: -32}
+        - {x: -10, y: -93}
+        - {x: 2, y: -102}
+        - {x: 44, y: -102}
+        - {x: 109, y: -17}
+        - {x: 109, y: -12}
+        - {x: 103, y: 3}
+    - name: Medium Enemy Idle 270_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 79}
+        - {x: -19, y: -102}
+        - {x: 51, y: -102}
+        - {x: 108, y: -35}
+        - {x: 108, y: 25}
+        - {x: 45, y: 79}
+    - name: Medium Enemy Idle 270_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 79}
+        - {x: -8, y: 79}
+        - {x: -19, y: 69}
+        - {x: -19, y: -51}
+        - {x: -14, y: -102}
+        - {x: 33, y: -102}
+        - {x: 75, y: -59}
+        - {x: 109, y: -20}
+        - {x: 109, y: 45}
+    - name: Medium Enemy Idle 270_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 79}
+        - {x: -16, y: 79}
+        - {x: -19, y: 74}
+        - {x: -19, y: -78}
+        - {x: -7, y: -102}
+        - {x: 34, y: -102}
+        - {x: 35, y: -100}
+        - {x: 31, y: -94}
+        - {x: 109, y: -20}
+        - {x: 109, y: -7}
+    - name: Medium Enemy Idle 270_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: -16}
+        - {x: 106, y: -10}
+        - {x: 106, y: -8}
+        - {x: 103, y: -7}
+        - {x: 29, y: 70}
+        - {x: 7, y: 79}
+        - {x: -9, y: 79}
+        - {x: -16, y: 71}
+        - {x: -19, y: 54}
+        - {x: -19, y: -43}
+        - {x: 0, y: -102}
+        - {x: 47, y: -102}
+        - {x: 109, y: -21}
+        - {x: 109, y: -13}
+        - {x: 106, y: -14}
+    - name: Medium Enemy Idle 270_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 79}
+        - {x: -12, y: 79}
+        - {x: -18, y: 73}
+        - {x: -19, y: 66}
+        - {x: -19, y: -20}
+        - {x: -1, y: -102}
+        - {x: 57, y: -102}
+        - {x: 108, y: -30}
+        - {x: 108, y: 19}
+        - {x: 29, y: 69}
+    - name: Medium Enemy Idle 270_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -7}
+        - {x: 103, y: -8}
+        - {x: 7, y: 78}
+        - {x: 1, y: 79}
+        - {x: -7, y: 79}
+        - {x: -19, y: 75}
+        - {x: -19, y: -8}
+        - {x: -5, y: -92}
+        - {x: -1, y: -102}
+        - {x: 32, y: -102}
+        - {x: 32, y: -94}
+        - {x: 28, y: -90}
+        - {x: 108, y: -25}
+    - name: Medium Enemy Idle 270_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 76}
+        - {x: 95, y: 79}
+        - {x: -19, y: 79}
+        - {x: -19, y: -61}
+        - {x: -3, y: -102}
+        - {x: 31, y: -102}
+        - {x: 32, y: -94}
+        - {x: 28, y: -90}
+        - {x: 108, y: -29}
+    - name: Medium Enemy Idle 270_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 79}
+        - {x: -20, y: 79}
+        - {x: -20, y: -50}
+        - {x: -17, y: -102}
+        - {x: 44, y: -102}
+        - {x: 107, y: -26}
+        - {x: 108, y: -24}
+        - {x: 108, y: 8}
+    - name: Medium Enemy Idle 270_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 79}
+        - {x: -20, y: -102}
+        - {x: 71, y: -102}
+        - {x: 107, y: -35}
+        - {x: 107, y: 18}
+        - {x: 21, y: 79}
+    - name: Medium Enemy Idle 270_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 79}
+        - {x: -20, y: -66}
+        - {x: -18, y: -102}
+        - {x: 50, y: -102}
+        - {x: 108, y: -66}
+        - {x: 108, y: 47}
+        - {x: 85, y: 79}
+    - name: Medium Enemy Idle 270_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 79}
+        - {x: -20, y: -86}
+        - {x: -19, y: -102}
+        - {x: 45, y: -102}
+        - {x: 108, y: -37}
+        - {x: 108, y: 5}
+        - {x: 11, y: 79}
+    - name: Medium Enemy Idle 270_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -11}
+        - {x: 103, y: -7}
+        - {x: 16, y: 79}
+        - {x: -20, y: 79}
+        - {x: -20, y: -36}
+        - {x: -15, y: -102}
+        - {x: 31, y: -102}
+        - {x: 32, y: -94}
+        - {x: 28, y: -90}
+        - {x: 108, y: -25}
+    - name: Medium Enemy Idle 270_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 79}
+        - {x: -20, y: -86}
+        - {x: -19, y: -102}
+        - {x: 45, y: -102}
+        - {x: 108, y: -37}
+        - {x: 108, y: 5}
+        - {x: 11, y: 79}
+    - name: Medium Enemy Idle 270_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 79}
+        - {x: -20, y: 79}
+        - {x: -20, y: -71}
+        - {x: -18, y: -102}
+        - {x: 43, y: -102}
+        - {x: 108, y: -24}
+        - {x: 108, y: -12}
+        - {x: 107, y: -7}
+    - name: Medium Enemy Idle 270_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 79}
+        - {x: -20, y: 79}
+        - {x: -20, y: -102}
+        - {x: 51, y: -102}
+        - {x: 107, y: -25}
+        - {x: 107, y: 26}
+        - {x: 94, y: 61}
+    - name: Medium Enemy Idle 270_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 79}
+        - {x: -20, y: 79}
+        - {x: -20, y: -50}
+        - {x: -17, y: -102}
+        - {x: 44, y: -102}
+        - {x: 98, y: -39}
+        - {x: 108, y: -26}
+        - {x: 108, y: 11}
+    - name: Medium Enemy Idle 270_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -27}
+        - {x: 108, y: 10}
+        - {x: 25, y: 79}
+        - {x: -19, y: 79}
+        - {x: -19, y: -35}
+        - {x: -12, y: -102}
+        - {x: 32, y: -102}
+        - {x: 32, y: -94}
+        - {x: 28, y: -90}
+        - {x: 103, y: -34}
+    - name: Medium Enemy Idle 270_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -7}
+        - {x: 103, y: -8}
+        - {x: 25, y: 67}
+        - {x: 6, y: 79}
+        - {x: -12, y: 79}
+        - {x: -16, y: 74}
+        - {x: -19, y: 53}
+        - {x: -19, y: -3}
+        - {x: -2, y: -102}
+        - {x: 32, y: -102}
+        - {x: 32, y: -94}
+        - {x: 28, y: -90}
+        - {x: 108, y: -24}
+    - name: Medium Enemy Idle 270_47
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 79}
+        - {x: -19, y: 73}
+        - {x: -19, y: -10}
+        - {x: -1, y: -102}
+        - {x: 44, y: -102}
+        - {x: 108, y: -25}
+        - {x: 108, y: -4}
+        - {x: 24, y: 79}
+    - name: Medium Enemy Idle 270_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 79}
+        - {x: -19, y: -37}
+        - {x: -2, y: -102}
+        - {x: 53, y: -102}
+        - {x: 109, y: -51}
+        - {x: 109, y: 31}
+        - {x: 50, y: 79}
+    - name: Medium Enemy Idle 270_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 79}
+        - {x: -19, y: 79}
+        - {x: -19, y: -45}
+        - {x: 0, y: -102}
+        - {x: 35, y: -102}
+        - {x: 39, y: -100}
+        - {x: 108, y: -27}
+        - {x: 108, y: 0}
+    - name: Medium Enemy Idle 270_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 79}
+        - {x: -19, y: 79}
+        - {x: -19, y: -102}
+        - {x: 46, y: -102}
+        - {x: 109, y: -56}
+        - {x: 109, y: 14}
+        - {x: 28, y: 67}
+    - name: Medium Enemy Idle 270_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 79}
+        - {x: -19, y: 75}
+        - {x: -19, y: -7}
+        - {x: -1, y: -102}
+        - {x: 47, y: -102}
+        - {x: 109, y: -52}
+        - {x: 109, y: 49}
+        - {x: 76, y: 79}
+    - name: Medium Enemy Idle 270_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 79}
+        - {x: -15, y: 79}
+        - {x: -18, y: 68}
+        - {x: -18, y: -57}
+        - {x: 0, y: -102}
+        - {x: 36, y: -102}
+        - {x: 108, y: -56}
+        - {x: 108, y: 34}
+    - name: Medium Enemy Idle 270_53
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 79}
+        - {x: -18, y: 69}
+        - {x: -18, y: -3}
+        - {x: -3, y: -102}
+        - {x: 68, y: -102}
+        - {x: 109, y: -27}
+        - {x: 109, y: 31}
+        - {x: 25, y: 79}
+    - name: Medium Enemy Idle 270_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 79}
+        - {x: -18, y: 79}
+        - {x: -18, y: -99}
+        - {x: -10, y: -102}
+        - {x: 32, y: -102}
+        - {x: 34, y: -101}
+        - {x: 29, y: -89}
+        - {x: 109, y: -34}
+        - {x: 109, y: 33}
+    - name: Medium Enemy Idle 270_55
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 79}
+        - {x: -15, y: 76}
+        - {x: -18, y: 60}
+        - {x: -18, y: 6}
+        - {x: -17, y: -3}
+        - {x: -1, y: -102}
+        - {x: 45, y: -102}
+        - {x: 109, y: -17}
+        - {x: 109, y: -4}
+        - {x: 21, y: 79}
+    - name: Medium Enemy Idle 270_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 79}
+        - {x: -17, y: -102}
+        - {x: 43, y: -102}
+        - {x: 110, y: -48}
+        - {x: 110, y: 24}
+        - {x: 32, y: 79}
+    - name: Medium Enemy Idle 270_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 79}
+        - {x: -15, y: 77}
+        - {x: -17, y: 66}
+        - {x: -17, y: -16}
+        - {x: -1, y: -102}
+        - {x: 44, y: -102}
+        - {x: 110, y: -32}
+        - {x: 110, y: 28}
+        - {x: 26, y: 79}
+    - name: Medium Enemy Idle 270_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 79}
+        - {x: -15, y: 75}
+        - {x: -17, y: 66}
+        - {x: -17, y: -21}
+        - {x: -9, y: -93}
+        - {x: 2, y: -102}
+        - {x: 32, y: -102}
+        - {x: 110, y: -39}
+        - {x: 110, y: 37}
+        - {x: 58, y: 79}
+    - name: Medium Enemy Idle 270_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 79}
+        - {x: -16, y: -102}
+        - {x: 34, y: -102}
+        - {x: 110, y: -68}
+        - {x: 110, y: 40}
+        - {x: 94, y: 79}
+    - name: Medium Enemy Idle 270_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 79}
+        - {x: -8, y: 79}
+        - {x: -16, y: 64}
+        - {x: -16, y: -46}
+        - {x: -8, y: -93}
+        - {x: 3, y: -102}
+        - {x: 34, y: -102}
+        - {x: 100, y: -78}
+        - {x: 111, y: -42}
+        - {x: 111, y: 71}
+    - name: Medium Enemy Idle 270_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 2}
+        - {x: 17, y: 79}
+        - {x: -16, y: 79}
+        - {x: -16, y: -37}
+        - {x: -3, y: -91}
+        - {x: 0, y: -102}
+        - {x: 4, y: -103}
+        - {x: 43, y: -103}
+        - {x: 111, y: -16}
+        - {x: 111, y: -4}
+        - {x: 108, y: -3}
+    - name: Medium Enemy Idle 270_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 78}
+        - {x: -3, y: 78}
+        - {x: -12, y: 70}
+        - {x: -15, y: 61}
+        - {x: -15, y: -14}
+        - {x: -3, y: -103}
+        - {x: 41, y: -103}
+        - {x: 111, y: -15}
+        - {x: 111, y: 5}
+        - {x: 96, y: 8}
+    - name: Medium Enemy Idle 270_63
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 3}
+        - {x: 39, y: 78}
+        - {x: -15, y: 78}
+        - {x: -15, y: -94}
+        - {x: 0, y: -102}
+        - {x: 4, y: -103}
+        - {x: 42, y: -103}
+        - {x: 111, y: -11}
+        - {x: 111, y: -2}
+    - name: Medium Enemy Idle 270_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 78}
+        - {x: -15, y: 78}
+        - {x: -15, y: -103}
+        - {x: 39, y: -103}
+        - {x: 111, y: -6}
+        - {x: 111, y: -3}
+        - {x: 110, y: -1}
+    - name: Medium Enemy Idle 270_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 78}
+        - {x: -9, y: 78}
+        - {x: -11, y: 75}
+        - {x: -15, y: 68}
+        - {x: -15, y: -51}
+        - {x: -5, y: -103}
+        - {x: 44, y: -103}
+        - {x: 111, y: -8}
+        - {x: 111, y: 5}
+        - {x: 93, y: 11}
+    - name: Medium Enemy Idle 270_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 78}
+        - {x: -14, y: 66}
+        - {x: -14, y: -43}
+        - {x: -3, y: -103}
+        - {x: 46, y: -103}
+        - {x: 111, y: -34}
+        - {x: 111, y: 42}
+        - {x: 37, y: 78}
+    - name: Medium Enemy Idle 270_67
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 78}
+        - {x: -14, y: -103}
+        - {x: 31, y: -103}
+        - {x: 32, y: -96}
+        - {x: 111, y: -13}
+        - {x: 111, y: 78}
+    - name: Medium Enemy Idle 270_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 65}
+        - {x: 19, y: 78}
+        - {x: -4, y: 78}
+        - {x: -14, y: 58}
+        - {x: -14, y: -28}
+        - {x: -2, y: -103}
+        - {x: 42, y: -103}
+        - {x: 111, y: -15}
+        - {x: 111, y: 10}
+        - {x: 91, y: 11}
+    - name: Medium Enemy Idle 270_69
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 5}
+        - {x: 46, y: 78}
+        - {x: -10, y: 78}
+        - {x: -14, y: 68}
+        - {x: -14, y: -40}
+        - {x: -6, y: -103}
+        - {x: 39, y: -103}
+        - {x: 112, y: -13}
+        - {x: 112, y: 2}
+        - {x: 109, y: 3}
+    - name: Medium Enemy Idle 270_70
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 3}
+        - {x: 91, y: 6}
+        - {x: 37, y: 63}
+        - {x: 14, y: 78}
+        - {x: -9, y: 78}
+        - {x: -14, y: 76}
+        - {x: -14, y: -40}
+        - {x: -2, y: -103}
+        - {x: 41, y: -103}
+        - {x: 111, y: -5}
+        - {x: 111, y: 2}
+    - name: Medium Enemy Idle 270_71
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 4}
+        - {x: 106, y: 2}
+        - {x: 21, y: 77}
+        - {x: -14, y: 77}
+        - {x: -14, y: -103}
+        - {x: 38, y: -103}
+        - {x: 108, y: -11}
+        - {x: 112, y: -1}
+        - {x: 112, y: 4}
+    - name: Medium Enemy Idle 270_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 77}
+        - {x: -14, y: 77}
+        - {x: -14, y: -103}
+        - {x: 35, y: -103}
+        - {x: 36, y: -102}
+        - {x: 112, y: -8}
+        - {x: 112, y: 18}
+    - name: Medium Enemy Idle 270_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 77}
+        - {x: -14, y: 74}
+        - {x: -14, y: -80}
+        - {x: -5, y: -103}
+        - {x: 29, y: -103}
+        - {x: 35, y: -102}
+        - {x: 111, y: -28}
+        - {x: 111, y: 72}
+        - {x: 105, y: 77}
+    - name: Medium Enemy Idle 270_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 12}
+        - {x: 88, y: 17}
+        - {x: 29, y: 77}
+        - {x: -5, y: 77}
+        - {x: -14, y: 61}
+        - {x: -14, y: -51}
+        - {x: -8, y: -97}
+        - {x: -1, y: -102}
+        - {x: 7, y: -103}
+        - {x: 33, y: -103}
+        - {x: 36, y: -102}
+        - {x: 112, y: -7}
+    - name: Medium Enemy Idle 270_75
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: 77}
+        - {x: -14, y: 77}
+        - {x: -14, y: -54}
+        - {x: -1, y: -103}
+        - {x: 33, y: -103}
+        - {x: 36, y: -101}
+        - {x: 112, y: -11}
+        - {x: 112, y: 42}
+    - name: Medium Enemy Idle 270_76
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 77}
+        - {x: -14, y: 77}
+        - {x: -14, y: -103}
+        - {x: 38, y: -103}
+        - {x: 112, y: -2}
+        - {x: 112, y: 3}
+        - {x: 109, y: 6}
+    - name: Medium Enemy Idle 270_77
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: -7}
+        - {x: 79, y: -9}
+        - {x: 81, y: -8}
+        - {x: 89, y: -1}
+        - {x: 91, y: 4}
+        - {x: 90, y: 9}
+        - {x: 24, y: 77}
+        - {x: -14, y: 77}
+        - {x: -14, y: -103}
+        - {x: 51, y: -103}
+        - {x: 112, y: -3}
+        - {x: 112, y: 6}
+        - {x: 109, y: 5}
+    - name: Medium Enemy Idle 270_78
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 77}
+        - {x: -14, y: 77}
+        - {x: -14, y: -38}
+        - {x: -1, y: -103}
+        - {x: 43, y: -103}
+        - {x: 112, y: -10}
+        - {x: 112, y: 8}
+        - {x: 83, y: 50}
+    - name: Medium Enemy Idle 270_79
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 77}
+        - {x: -12, y: 77}
+        - {x: -14, y: 70}
+        - {x: -14, y: -24}
+        - {x: -4, y: -103}
+        - {x: 31, y: -103}
+        - {x: 33, y: -97}
+        - {x: 112, y: -46}
+        - {x: 112, y: 45}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
