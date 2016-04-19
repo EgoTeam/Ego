@@ -8,30 +8,30 @@ AnimatorController:
   m_Name: Medium Enemy Animation Controller
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: Degrees
+  - m_Name: Direction
     m_Type: 1
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: Die
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: Attack
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   - m_Name: IsMoving
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+    m_Controller: {fileID: 0}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -116,7 +116,7 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: Degrees
     m_Mirror: 0
-  m_BlendParameter: Degrees
+  m_BlendParameter: Direction
   m_BlendParameterY: Degrees
   m_MinThreshold: 0
   m_MaxThreshold: 315
@@ -194,7 +194,7 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: Blend
     m_Mirror: 0
-  m_BlendParameter: Degrees
+  m_BlendParameter: Direction
   m_BlendParameterY: Blend
   m_MinThreshold: 0
   m_MaxThreshold: 315
@@ -272,7 +272,7 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: Degrees
     m_Mirror: 0
-  m_BlendParameter: Degrees
+  m_BlendParameter: Direction
   m_BlendParameterY: Degrees
   m_MinThreshold: 0
   m_MaxThreshold: 315
@@ -367,7 +367,7 @@ AnimatorStateTransition:
   m_TransitionDuration: 0.011455536
   m_TransitionOffset: 0
   m_ExitTime: 0.99484503
-  m_HasExitTime: 1
+  m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
