@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class Player : Character {
@@ -27,18 +28,19 @@ public class Player : Character {
         //Invoke parent method.
         base.Damage(objectID, damage);
         //Play damage sound effect.
-        _audioSources[3].Play();
+        //_audioSources[3].Play();
     }
 
     override protected IEnumerator DieCoroutine()
     {
         State.IsDying = true;
-        _animator.Play("Die");
+        //_animator.Play("Death");
         //_audioSources[2].Play();
         _rigidbody.isKinematic = true;
         _capsuleCollider.enabled = false;
         yield return _dieTimeWait;
         State.IsDead = true;
         //Destroy(this.gameObject);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

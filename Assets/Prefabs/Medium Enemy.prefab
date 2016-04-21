@@ -823,7 +823,7 @@ MonoBehaviour:
   _weaponClass: 0
   _fireMechanism: 0
   _damage: 15
-  _range: 1
+  _range: 2
   _fireRate: 0
   _isCollected: 1
   _isEquipped: 1
