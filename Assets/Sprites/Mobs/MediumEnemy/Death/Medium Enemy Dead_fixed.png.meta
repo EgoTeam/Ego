@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 2c5b1edbb4f3a6843b0e20d96ab7b070
+timeCreated: 1461198545
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Medium Enemy Dead_fixed_0
+    21300002: Medium Enemy Dead_fixed_1
+    21300004: Medium Enemy Dead_fixed_2
+    21300006: Medium Enemy Dead_fixed_3
+    21300008: Medium Enemy Dead_fixed_4
+    21300010: Medium Enemy Dead_fixed_5
+    21300012: Medium Enemy Dead_fixed_6
+    21300014: Medium Enemy Dead_fixed_7
+    21300016: Medium Enemy Dead_fixed_8
+    21300018: Medium Enemy Dead_fixed_9
+    21300020: Medium Enemy Dead_fixed_10
+    21300022: Medium Enemy Dead_fixed_11
+    21300024: Medium Enemy Dead_fixed_12
+    21300026: Medium Enemy Dead_fixed_13
+    21300028: Medium Enemy Dead_fixed_14
+    21300030: Medium Enemy Dead_fixed_15
+    21300032: Medium Enemy Dead_fixed_16
+    21300034: Medium Enemy Dead_fixed_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Medium Enemy Dead_fixed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 60}
+        - {x: -58, y: 41}
+        - {x: -97, y: 17}
+        - {x: -97, y: -36}
+        - {x: -31, y: -92}
+        - {x: 52, y: -92}
+        - {x: 52, y: 5}
+        - {x: 19, y: 60}
+      - - {x: 96, y: 0}
+        - {x: 46, y: -43}
+        - {x: 46, y: -46}
+        - {x: 49, y: -51}
+        - {x: 67, y: -51}
+        - {x: 90, y: -31}
+        - {x: 100, y: -5}
+        - {x: 100, y: 0}
+    - name: Medium Enemy Dead_fixed_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 56}
+        - {x: -110, y: 33}
+        - {x: -75, y: -49}
+        - {x: -39, y: -82}
+        - {x: -16, y: -84}
+        - {x: 40, y: -84}
+        - {x: 53, y: -80}
+        - {x: 53, y: -4}
+        - {x: 40, y: 56}
+      - - {x: 96, y: 6}
+        - {x: 46, y: -35}
+        - {x: 46, y: -45}
+        - {x: 64, y: -45}
+        - {x: 88, y: -35}
+        - {x: 100, y: -5}
+        - {x: 100, y: 5}
+        - {x: 99, y: 6}
+    - name: Medium Enemy Dead_fixed_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: -23}
+        - {x: 55, y: 1}
+        - {x: 10, y: 52}
+        - {x: -128, y: 52}
+        - {x: -128, y: 45}
+        - {x: -124, y: 34}
+        - {x: -76, y: -19}
+        - {x: -68, y: -24}
+        - {x: -26, y: -52}
+        - {x: 8, y: -74}
+        - {x: 28, y: -74}
+        - {x: 31, y: -71}
+        - {x: 39, y: -57}
+        - {x: 28, y: -13}
+        - {x: 42, y: -31}
+      - - {x: 105, y: 3}
+        - {x: 105, y: 6}
+        - {x: 102, y: 7}
+        - {x: 45, y: -28}
+        - {x: 45, y: -39}
+        - {x: 67, y: -39}
+        - {x: 77, y: -32}
+        - {x: 92, y: -17}
+        - {x: 101, y: -6}
+    - name: Medium Enemy Dead_fixed_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -12}
+        - {x: 18, y: -10}
+        - {x: 10, y: 4}
+        - {x: 34, y: -6}
+        - {x: 33, y: -13}
+        - {x: 49, y: -24}
+        - {x: 55, y: -19}
+        - {x: 55, y: 12}
+        - {x: -3, y: 51}
+        - {x: -29, y: 46}
+        - {x: -66, y: 24}
+        - {x: -71, y: 20}
+        - {x: -126, y: 59}
+        - {x: -128, y: 59}
+        - {x: -128, y: 47}
+        - {x: -87, y: -9}
+        - {x: -5, y: -62}
+        - {x: 40, y: -62}
+        - {x: 41, y: -51}
+        - {x: 29, y: -7}
+        - {x: 23, y: -3}
+      - - {x: 103, y: 19}
+        - {x: 101, y: 20}
+        - {x: 99, y: 20}
+        - {x: 93, y: 14}
+        - {x: 45, y: -20}
+        - {x: 45, y: -26}
+        - {x: 46, y: -31}
+        - {x: 62, y: -31}
+        - {x: 73, y: -24}
+        - {x: 92, y: -4}
+        - {x: 103, y: 17}
+    - name: Medium Enemy Dead_fixed_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: 98}
+        - {x: -123, y: 53}
+        - {x: -104, y: 1}
+        - {x: -40, y: -50}
+        - {x: 67, y: -50}
+        - {x: 95, y: -37}
+        - {x: 95, y: 60}
+        - {x: 11, y: 98}
+    - name: Medium Enemy Dead_fixed_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 73}
+        - {x: -39, y: 96}
+        - {x: -96, y: 96}
+        - {x: -101, y: 83}
+        - {x: -101, y: 1}
+        - {x: -40, y: -42}
+        - {x: 48, y: -42}
+        - {x: 79, y: -3}
+        - {x: 79, y: 74}
+        - {x: 77, y: 75}
+    - name: Medium Enemy Dead_fixed_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 58}
+        - {x: -62, y: 79}
+        - {x: -128, y: 79}
+        - {x: -128, y: 44}
+        - {x: -106, y: -9}
+        - {x: -72, y: -55}
+        - {x: 78, y: -55}
+        - {x: 95, y: -48}
+        - {x: 95, y: 55}
+        - {x: 93, y: 57}
+    - name: Medium Enemy Dead_fixed_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -15}
+        - {x: 12, y: -17}
+        - {x: 13, y: -18}
+        - {x: 13, y: -20}
+        - {x: 10, y: -14}
+        - {x: -2, y: 4}
+        - {x: -32, y: 34}
+        - {x: -128, y: 34}
+        - {x: -128, y: -9}
+        - {x: -78, y: -68}
+        - {x: 51, y: -68}
+        - {x: 88, y: -56}
+        - {x: 105, y: -29}
+        - {x: 105, y: 33}
+        - {x: -10, y: 22}
+    - name: Medium Enemy Dead_fixed_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: -8}
+        - {x: 54, y: -5}
+        - {x: -128, y: -5}
+        - {x: -128, y: -27}
+        - {x: -54, y: -80}
+        - {x: 58, y: -80}
+        - {x: 88, y: -48}
+        - {x: 108, y: -22}
+        - {x: 108, y: -13}
+    - name: Medium Enemy Dead_fixed_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -39}
+        - {x: -49, y: -41}
+        - {x: -120, y: -52}
+        - {x: -120, y: -57}
+        - {x: -81, y: -88}
+        - {x: -55, y: -91}
+        - {x: 46, y: -91}
+        - {x: 101, y: -69}
+        - {x: 101, y: -59}
+        - {x: 5, y: -39}
+    - name: Medium Enemy Dead_fixed_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -56}
+        - {x: -61, y: -56}
+        - {x: -99, y: -101}
+        - {x: -99, y: -105}
+        - {x: -97, y: -107}
+        - {x: 85, y: -107}
+        - {x: 85, y: -93}
+        - {x: 51, y: -64}
+    - name: Medium Enemy Dead_fixed_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -53}
+        - {x: -71, y: -53}
+        - {x: -97, y: -68}
+        - {x: -97, y: -91}
+        - {x: -76, y: -100}
+        - {x: 84, y: -100}
+        - {x: 84, y: -89}
+        - {x: 45, y: -60}
+    - name: Medium Enemy Dead_fixed_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: -78}
+        - {x: -14, y: -43}
+        - {x: -75, y: -43}
+        - {x: -82, y: -45}
+        - {x: -98, y: -66}
+        - {x: -98, y: -80}
+        - {x: -65, y: -97}
+        - {x: 61, y: -97}
+        - {x: 83, y: -89}
+        - {x: 85, y: -87}
+    - name: Medium Enemy Dead_fixed_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -50}
+        - {x: -77, y: -50}
+        - {x: -100, y: -72}
+        - {x: -100, y: -92}
+        - {x: -70, y: -99}
+        - {x: 87, y: -99}
+        - {x: 87, y: -79}
+        - {x: 46, y: -51}
+    - name: Medium Enemy Dead_fixed_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: -94}
+        - {x: -58, y: -101}
+        - {x: 85, y: -101}
+        - {x: 85, y: -79}
+        - {x: 63, y: -54}
+        - {x: -98, y: -54}
+        - {x: -98, y: -91}
+    - name: Medium Enemy Dead_fixed_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -56}
+        - {x: -101, y: -96}
+        - {x: -101, y: -107}
+        - {x: 83, y: -107}
+        - {x: 83, y: -88}
+        - {x: 44, y: -56}
+    - name: Medium Enemy Dead_fixed_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -56}
+        - {x: -101, y: -96}
+        - {x: -101, y: -107}
+        - {x: 83, y: -107}
+        - {x: 83, y: -88}
+        - {x: 44, y: -56}
+    - name: Medium Enemy Dead_fixed_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -56}
+        - {x: -101, y: -96}
+        - {x: -101, y: -107}
+        - {x: 83, y: -107}
+        - {x: 83, y: -88}
+        - {x: 44, y: -56}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

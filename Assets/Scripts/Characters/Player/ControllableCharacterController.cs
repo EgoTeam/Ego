@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class ControllableCharacterController : Character {
+public class ControllableCharacterController : Player {
     private Inventory _inventory;
     private Vector2 _directionalMovement    = new Vector2();
     private Vector2 _cameraMovement         = new Vector2();
@@ -69,7 +69,11 @@ public class ControllableCharacterController : Character {
     // Update is called once per frame
     void Update() {
         CaptureInput();
-        ProcessInput();
+        if(!(State.IsDying || State.IsDead))
+        {
+            ProcessInput();
+        }
+        
     }
     /// <summary>
     /// 

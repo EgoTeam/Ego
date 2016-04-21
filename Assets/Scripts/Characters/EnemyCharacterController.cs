@@ -27,24 +27,33 @@ public class EnemyCharacterController : Enemy {
         Navigation = GetComponent<NavMeshAgent>();
         //Set the default rotation of the Enemy.
         ChangeDirection(Direction);
-        InvokeRepeating("CheckDistance", 0.0f, 2.0f);
     }
     virtual protected void OnTriggerEnter(Collider collision) {
         if(collision.gameObject.CompareTag("Player") && !(State.IsDying || State.IsDead)) {
-            EnemyState _enemyState = (EnemyState)State;
-            _enemyState.ActionState = AIState.Chase;
-            ChangeDirection(0);
-            Navigation.SetDestination(Camera.main.transform.position);
-            _animator.SetBool("IsMoving", true);
+            CheckDistance();
+        }
+        else if (State.IsDying || State.IsDead)
+        {
+            Navigation.Stop();
+            _animator.SetBool("IsMoving", false);
         }
     }
     virtual protected void OnTriggerStay(Collider collision) {
         if (collision.gameObject.CompareTag("Player") && !(State.IsDying || State.IsDead)) {
+            CheckDistance();
+        }
+        else if(State.IsDying || State.IsDead) {
+            Navigation.Stop();
+            _animator.SetBool("IsMoving", false);
+        }
+    }
+    virtual protected void OnTriggerExit(Collider collision) {
+        if (collision.gameObject.CompareTag("Player") && !(State.IsDying || State.IsDead)) {
             EnemyState _enemyState = (EnemyState)State;
-            _enemyState.ActionState = AIState.Chase;
+            _enemyState.ActionState = AIState.Idle;
             ChangeDirection(0);
-            Navigation.SetDestination(Camera.main.transform.position);
-            _animator.SetBool("IsMoving", true);
+            Navigation.Stop();
+            _animator.SetBool("IsMoving", false);
         }
     }
 
@@ -54,17 +63,19 @@ public class EnemyCharacterController : Enemy {
     }
 
     virtual protected void CheckDistance() {
+        EnemyState _enemyState = (EnemyState)State;
         float distance = Vector3.Distance(gameObject.transform.position, Camera.main.transform.position);
-        if (distance <= ChaseDistance) {
-
-        }
-        else if(distance <= _inventory.Weapon.Range) {
-            //Set state to attack.
+        if(distance <= _inventory.Weapon.Range) {
+            _animator.SetBool("IsMoving", false);
+            _enemyState.ActionState = AIState.Attack;
             Navigation.Stop();
             Attack();
         }
         else {
-            //Set state to patrol.
+            _enemyState.ActionState = AIState.Chase;
+            ChangeDirection(0);
+            Navigation.SetDestination(Camera.main.transform.position);
+            _animator.SetBool("IsMoving", true);
         }
 
     }

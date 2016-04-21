@@ -59,6 +59,7 @@ public class Weapon : InteractableObject {
         EventManager.AttackEventHandler += Attack;
     }
     override protected void OnDisable() {
+        base.OnDisable();
         EventManager.EquipEventHandler -= Equip;
         EventManager.DrawEventHandler -= Draw;
         EventManager.HolsterEventHandler -= Holster;

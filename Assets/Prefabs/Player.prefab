@@ -1341,6 +1341,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _health: 50
   _healthMaximum: 100
+  _deathClip: {fileID: 7400000, guid: 34b9781f08ce95047a675fd8be0fa320, type: 2}
 --- !u!114 &11417992
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1611,8 +1612,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 4
   _fireMechanism: 1
-  _damage: 20
-  _range: 75
+  _damage: 35
+  _range: 150
   _fireRate: 0
   _isCollected: 1
   _isEquipped: 0
@@ -1651,8 +1652,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 1
   _fireMechanism: 0
-  _damage: 25
-  _range: 25
+  _damage: 50
+  _range: 75
   _fireRate: 0
   _isCollected: 1
   _isEquipped: 0
@@ -1700,8 +1701,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 1
   _fireMechanism: 0
-  _damage: 50
-  _range: 5
+  _damage: 100
+  _range: 1
   _fireRate: 0
   _isCollected: 1
   _isEquipped: 0
