@@ -872,7 +872,7 @@ MonoBehaviour:
   PlayerTransform: {fileID: 0}
   ChaseDistance: 10
   AttackDistance: 1
-  PatrolDistance: 30
+  PatrolDistance: 10
 --- !u!114 &11496674
 MonoBehaviour:
   m_ObjectHideFlags: 1

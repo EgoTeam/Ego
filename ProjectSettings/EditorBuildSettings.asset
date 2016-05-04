@@ -11,3 +11,5 @@ EditorBuildSettings:
     path: Assets/Scenes/-100 - Main Menu.unity
   - enabled: 1
     path: Assets/Scenes/003 - Level1_station.unity
+  - enabled: 1
+    path: Assets/Scenes/999 - Credits.unity

@@ -463,7 +463,7 @@ GameObject:
   - 114: {fileID: 11489902}
   m_Layer: 5
   m_Name: Reserve Bar
-  m_TagString: Untagged
+  m_TagString: Reserve Ammo Bar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -480,7 +480,7 @@ GameObject:
   - 114: {fileID: 11428326}
   m_Layer: 5
   m_Name: Loaded Bar
-  m_TagString: Untagged
+  m_TagString: Loaded Ammo Bar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -529,7 +529,7 @@ GameObject:
   - 114: {fileID: 11468914}
   m_Layer: 5
   m_Name: Health Bar
-  m_TagString: Untagged
+  m_TagString: Health Bar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
