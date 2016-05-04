@@ -17,6 +17,9 @@ TagManager:
   - Shotgun Pistol
   - Assault Rifle
   - Knife
+  - Health Bar
+  - Loaded Ammo Bar
+  - Reserve Ammo Bar
   layers:
   - Default
   - TransparentFX

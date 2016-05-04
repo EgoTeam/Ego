@@ -46,6 +46,13 @@ public class EventManager : MonoBehaviour {
     public delegate void AmmoCollect(int objectID, Ammunition ammo);
     public static event AmmoCollect AmmoCollectEventHandler;
 
+
+    public delegate void Chase(int objectID);
+    public static event Chase ChaseEventHandler;
+
+    public delegate void Patrol(int objectID);
+    public static event Patrol PatrolEventHandler;
+
     public static void RegisterMasterIDEvent(int masterObjectID, int objectID) {
         RegisterMasterIDEventHandler(masterObjectID, objectID);
     }
@@ -83,5 +90,14 @@ public class EventManager : MonoBehaviour {
     public static void AmmoUpdateEvent(int objectID, Ammunition clip, Ammunition reserve)
     {
         AmmoUpdateEventHandler(objectID, clip, reserve);
+    }
+
+    public static void PatrolEvent(int objectID)
+    {
+        PatrolEventHandler(objectID);
+    }
+    public static void ChaseEvent(int objectID)
+    {
+        ChaseEventHandler(objectID);
     }
 }

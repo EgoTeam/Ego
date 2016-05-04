@@ -216,13 +216,12 @@ GameObject:
   - 212: {fileID: 21204430}
   - 95: {fileID: 9590386}
   - 54: {fileID: 5434126}
+  - 195: {fileID: 19520508}
   - 136: {fileID: 13620224}
   - 114: {fileID: 11421906}
   - 114: {fileID: 11496674}
   - 114: {fileID: 11460216}
   - 114: {fileID: 11449322}
-  - 195: {fileID: 19520508}
-  - 65: {fileID: 6502792}
   m_Layer: 9
   m_Name: Medium Enemy
   m_TagString: Enemy
@@ -303,7 +302,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 187356}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.79, z: 10.33}
+  m_LocalPosition: {x: 0, y: 2.5, z: 10}
   m_LocalScale: {x: 1.55, y: 1.55, z: 1}
   m_Children:
   - {fileID: 427910}
@@ -426,18 +425,6 @@ Rigidbody:
   m_Interpolate: 2
   m_Constraints: 112
   m_CollisionDetection: 1
---- !u!65 &6502792
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 187356}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 5, y: 2, z: 15}
-  m_Center: {x: 0, y: 0.05, z: -7}
 --- !u!82 &8231612
 AudioSource:
   m_ObjectHideFlags: 1
@@ -824,7 +811,7 @@ MonoBehaviour:
   _fireMechanism: 0
   _damage: 15
   _range: 2
-  _fireRate: 0
+  _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
   _canAttack: 1
@@ -846,7 +833,6 @@ MonoBehaviour:
   _healthMaximum: 100
   _deathClip: {fileID: 7400000, guid: 80e4133086de9ac42876ea6e29613c44, type: 2}
   _direction: 0
-  _chaseDistance: 15
 --- !u!114 &11456382
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -882,7 +868,11 @@ MonoBehaviour:
   _isSprinting: 0
   _isDying: 0
   _isDead: 0
-  _actionState: 0
+  _actionState: 1
+  PlayerTransform: {fileID: 0}
+  ChaseDistance: 10
+  AttackDistance: 1
+  PatrolDistance: 30
 --- !u!114 &11496674
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -912,7 +902,7 @@ CapsuleCollider:
   m_Radius: 0.25
   m_Height: 1.75
   m_Direction: 1
-  m_Center: {x: 0, y: -0.15, z: 0}
+  m_Center: {x: 0, y: -0.1, z: 0}
 --- !u!195 &19520508
 NavMeshAgent:
   m_ObjectHideFlags: 1
@@ -921,11 +911,11 @@ NavMeshAgent:
   m_GameObject: {fileID: 187356}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 7.5
-  m_Acceleration: 8
+  m_Speed: 4
+  m_Acceleration: 4
   avoidancePriority: 50
   m_AngularSpeed: 120
-  m_StoppingDistance: 0
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
   m_AutoRepath: 1

@@ -68,9 +68,10 @@ public class ControllableCharacterController : Player {
     }
     // Update is called once per frame
     void Update() {
-        CaptureInput();
+        
         if(!(State.IsDying || State.IsDead))
         {
+            CaptureInput();
             ProcessInput();
         }
         

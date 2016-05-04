@@ -4,81 +4,56 @@ using System.Collections;
 public class EnemyCharacterController : Enemy {
 
     private Inventory _inventory;
-                        protected NavMeshAgent  _navigation;
     [SerializeField]    protected float         _direction;
-    [SerializeField]    protected float         _chaseDistance;
 
 
-    protected NavMeshAgent Navigation {
-        get { return _navigation; }
-        set { _navigation = value; }
-    }
     public float Direction {
         get { return _direction; }
         set { _direction = value; }
     }
-    public float ChaseDistance {
-        get { return _chaseDistance; }
-        set { _chaseDistance = value; }
+    override protected void OnEnable()
+    {
+        base.OnEnable();
+        EventManager.AttackEventHandler += Attack;
+        EventManager.PatrolEventHandler += Patrol;
+        EventManager.ChaseEventHandler += Chase;
     }
-
+    protected override void OnDisable()
+    {
+        base.OnDisable();
+        EventManager.AttackEventHandler -= Attack;
+        EventManager.PatrolEventHandler -= Patrol;
+        EventManager.ChaseEventHandler -= Chase;
+    }
     virtual protected void Start() {
         _inventory = GetComponent<Inventory>();
-        Navigation = GetComponent<NavMeshAgent>();
         //Set the default rotation of the Enemy.
         ChangeDirection(Direction);
     }
-    virtual protected void OnTriggerEnter(Collider collision) {
-        if(collision.gameObject.CompareTag("Player") && !(State.IsDying || State.IsDead)) {
-            CheckDistance();
-        }
-        else if (State.IsDying || State.IsDead)
+    public void Patrol(int objectID) {
+        if (objectID.Equals(gameObject.GetInstanceID()))
         {
-            Navigation.Stop();
-            _animator.SetBool("IsMoving", false);
-        }
-    }
-    virtual protected void OnTriggerStay(Collider collision) {
-        if (collision.gameObject.CompareTag("Player") && !(State.IsDying || State.IsDead)) {
-            CheckDistance();
-        }
-        else if(State.IsDying || State.IsDead) {
-            Navigation.Stop();
-            _animator.SetBool("IsMoving", false);
-        }
-    }
-    virtual protected void OnTriggerExit(Collider collision) {
-        if (collision.gameObject.CompareTag("Player") && !(State.IsDying || State.IsDead)) {
-            EnemyState _enemyState = (EnemyState)State;
-            _enemyState.ActionState = AIState.Idle;
-            ChangeDirection(0);
-            Navigation.Stop();
-            _animator.SetBool("IsMoving", false);
-        }
-    }
-
-    virtual protected void Attack() {
-        _animator.SetTrigger("Attack");
-        EventManager.AttackEvent(_inventory.Weapon.gameObject.GetInstanceID(), false);
-    }
-
-    virtual protected void CheckDistance() {
-        EnemyState _enemyState = (EnemyState)State;
-        float distance = Vector3.Distance(gameObject.transform.position, Camera.main.transform.position);
-        if(distance <= _inventory.Weapon.Range) {
-            _animator.SetBool("IsMoving", false);
-            _enemyState.ActionState = AIState.Attack;
-            Navigation.Stop();
-            Attack();
-        }
-        else {
-            _enemyState.ActionState = AIState.Chase;
-            ChangeDirection(0);
-            Navigation.SetDestination(Camera.main.transform.position);
             _animator.SetBool("IsMoving", true);
         }
-
     }
+    public void Chase(int objectID) {
+        if (objectID.Equals(gameObject.GetInstanceID()))
+        {
+            Patrol(objectID);
+        }
+    }
+    virtual protected void Attack(int objectID, bool autoFire) {
+        if (objectID.Equals(gameObject.GetInstanceID()))
+        {
+            _animator.SetBool("IsMoving", false);
+            if (_inventory.Weapon.CanAttack)
+            {
+                _animator.SetTrigger("Attack");
+            }
+           
+        }
+    }
+    virtual protected void OnAttack() { EventManager.AttackEvent(_inventory.Weapon.gameObject.GetInstanceID(), false); }
 
     virtual protected void ChangeDirection(float direction) {
         Direction = direction;

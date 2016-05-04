@@ -24,7 +24,9 @@ public class EnemyMeleeWeapon : Weapon {
         CanAttack = true;
     }
     override protected void HitScan() {
-        Ray _ray = new Ray(this.transform.parent.position, -Vector3.forward);
+        Transform enemyTransform = transform.parent.parent.parent;
+        Transform playerTransform = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
+        Ray _ray = new Ray(enemyTransform.position, (-enemyTransform.position + playerTransform.position));
         RaycastHit hit;
         //Draw ray for debug purposes.
         Debug.DrawRay(_ray.origin, _ray.direction, Color.red, 10000f);

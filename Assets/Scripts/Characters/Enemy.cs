@@ -5,12 +5,21 @@ using System;
 public class Enemy : Character {
     //Data Members
                         protected AudioSource[]     _audioSources;    //A reference to the audio source components used by the enemy.
-                        protected Animator          _animator;
+                        //protected Animator          _animator;
                         protected CapsuleCollider   _capsuleCollider;
                         protected Rigidbody         _rigidbody;
     [SerializeField]    protected AnimationClip     _deathClip;
 
+    protected NavMeshAgent _navigation;
+
+    protected NavMeshAgent Navigation
+    {
+        get { return _navigation; }
+        set { _navigation = value; }
+    }
+
     override protected void Awake () {
+        Navigation              = GetComponent<NavMeshAgent>();
         _state                  = GetComponent<EnemyState>();
         _animator               = GetComponent<Animator>();
         _audioSources           = GetComponentsInChildren<AudioSource>();
@@ -30,6 +39,7 @@ public class Enemy : Character {
     }
 
     override protected IEnumerator DieCoroutine() {
+        Navigation.Stop();
         State.IsDying = true;
         _animator.SetTrigger("Die");
         _audioSources[2].Play();

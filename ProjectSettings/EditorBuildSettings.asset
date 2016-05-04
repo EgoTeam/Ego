@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/000 - Development Test.unity
   - enabled: 1
+    path: Assets/Scenes/-100 - Main Menu.unity
+  - enabled: 1
     path: Assets/Scenes/003 - Level1_station.unity

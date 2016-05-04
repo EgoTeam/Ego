@@ -5,5 +5,6 @@ public enum AIState {
     Idle,
     Patrol,
     Chase,
-    Attack
+    Attack,
+    Dead
 }

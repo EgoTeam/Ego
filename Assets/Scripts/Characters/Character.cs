@@ -3,18 +3,18 @@ using System.Collections;
 using System;
 
 public abstract class Character : MonoBehaviour{
-
+    protected Animator _animator;
                                         protected CharacterState    _state;
                                         protected WaitForSeconds    _dieTimeWait;           //The amount of time before the character completes it's dying behavior.
     [SerializeField][Range(000, 150)]   protected int               _health;                                        //The health of the character.
     [SerializeField][Range(000, 150)]   protected int               _healthMaximum;                                 //The health limit of the character.
 
-    protected void OnEnable() {
+    virtual protected void OnEnable() {
         EventManager.HealEventHandler   += Heal;
         EventManager.DamageEventHandler += Damage;
         EventManager.DyingEventHandler += Die;
     }
-    protected void OnDisable() {
+    virtual protected void OnDisable() {
         EventManager.DamageEventHandler -= Damage;
         EventManager.HealEventHandler   -= Heal;
         EventManager.DyingEventHandler -= Die;
@@ -37,6 +37,8 @@ public abstract class Character : MonoBehaviour{
     virtual protected void Awake () {
         _state      = GetComponent<CharacterState>();
         _dieTimeWait = new WaitForSeconds(0f);
+        _animator = GetComponent<Animator>();
+        _animator.enabled = false;
     }
 
     virtual protected void Heal(int objectID, int health) {
@@ -67,6 +69,8 @@ public abstract class Character : MonoBehaviour{
     }
     virtual protected IEnumerator DieCoroutine() {
         State.IsDying = true;
+        _animator.enabled = true;
+        _animator.Play("Death");
         yield return _dieTimeWait;
         State.IsDead = true;
         Destroy(this.gameObject);
