@@ -51,6 +51,6 @@ public class Player : Character {
         yield return _dieTimeWait;
         State.IsDead = true;
         //Destroy(this.gameObject);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        GameController.Instance.RestartLevel();
     }
 }
