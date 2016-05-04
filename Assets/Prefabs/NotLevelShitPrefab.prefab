@@ -90677,8 +90677,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -90714,7 +90714,7 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 20
+  _damage: 5
   _range: 3
   _fireRate: 5
   _isCollected: 1
@@ -90746,8 +90746,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11400852
 MonoBehaviour:
@@ -90778,8 +90778,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -90815,8 +90815,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -90852,8 +90852,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -90915,8 +90915,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11401720
 MonoBehaviour:
@@ -90974,8 +90974,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -90997,8 +90997,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -91134,8 +91134,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11402832
 MonoBehaviour:
@@ -91188,8 +91188,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11403468
 MonoBehaviour:
@@ -91214,8 +91214,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11403508
 MonoBehaviour:
@@ -91340,8 +91340,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11404458
 MonoBehaviour:
@@ -91378,8 +91378,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11405230
 MonoBehaviour:
@@ -91404,8 +91404,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11405232
 MonoBehaviour:
@@ -91436,8 +91436,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -91459,8 +91459,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -91671,8 +91671,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -91703,8 +91703,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11407610
 MonoBehaviour:
@@ -91746,8 +91746,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -91800,8 +91800,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -91823,8 +91823,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -91855,8 +91855,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11408156
 MonoBehaviour:
@@ -91928,8 +91928,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -92002,8 +92002,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11408448
 MonoBehaviour:
@@ -92040,8 +92040,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11408628
 MonoBehaviour:
@@ -92124,8 +92124,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -92211,8 +92211,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11409966
 MonoBehaviour:
@@ -92228,8 +92228,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -92303,8 +92303,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11410160
 MonoBehaviour:
@@ -92362,8 +92362,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -92394,8 +92394,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11410716
 MonoBehaviour:
@@ -92518,8 +92518,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11411108
 MonoBehaviour:
@@ -92783,8 +92783,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11413000
 MonoBehaviour:
@@ -92956,8 +92956,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11413896
 MonoBehaviour:
@@ -93002,8 +93002,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93025,8 +93025,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93093,8 +93093,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93133,8 +93133,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93180,8 +93180,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11414726
 MonoBehaviour:
@@ -93197,8 +93197,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93229,8 +93229,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11414796
 MonoBehaviour:
@@ -93285,8 +93285,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11414898
 MonoBehaviour:
@@ -93302,8 +93302,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93362,8 +93362,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11415026
 MonoBehaviour:
@@ -93434,8 +93434,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93502,8 +93502,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93534,8 +93534,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11416000
 MonoBehaviour:
@@ -93639,8 +93639,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11416542
 MonoBehaviour:
@@ -93665,8 +93665,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11416648
 MonoBehaviour:
@@ -93751,8 +93751,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93812,8 +93812,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93918,8 +93918,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11418322
 MonoBehaviour:
@@ -93950,8 +93950,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -93996,8 +93996,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11418694
 MonoBehaviour:
@@ -94042,8 +94042,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -94065,8 +94065,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -94158,8 +94158,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -94236,8 +94236,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -94259,8 +94259,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -94321,8 +94321,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11420750
 MonoBehaviour:
@@ -94380,8 +94380,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11421008
 MonoBehaviour:
@@ -94513,8 +94513,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -94574,8 +94574,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11422372
 MonoBehaviour:
@@ -94687,8 +94687,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -94918,8 +94918,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11425134
 MonoBehaviour:
@@ -95059,8 +95059,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11426094
 MonoBehaviour:
@@ -95163,8 +95163,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -95186,8 +95186,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -95348,8 +95348,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11427366
 MonoBehaviour:
@@ -95388,8 +95388,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11427572
 MonoBehaviour:
@@ -95512,8 +95512,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11428772
 MonoBehaviour:
@@ -95543,8 +95543,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -95587,8 +95587,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11429092
 MonoBehaviour:
@@ -95712,8 +95712,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11430212
 MonoBehaviour:
@@ -95760,8 +95760,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -95916,8 +95916,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11431006
 MonoBehaviour:
@@ -96058,8 +96058,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11431474
 MonoBehaviour:
@@ -96087,8 +96087,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96133,8 +96133,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11431912
 MonoBehaviour:
@@ -96188,8 +96188,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96293,8 +96293,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11433008
 MonoBehaviour:
@@ -96333,8 +96333,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11433312
 MonoBehaviour:
@@ -96379,8 +96379,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96431,8 +96431,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96466,8 +96466,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96534,8 +96534,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96572,8 +96572,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96607,8 +96607,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96697,8 +96697,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96720,8 +96720,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96782,8 +96782,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11435654
 MonoBehaviour:
@@ -96885,8 +96885,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11436822
 MonoBehaviour:
@@ -96945,8 +96945,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -96989,8 +96989,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11437948
 MonoBehaviour:
@@ -97052,8 +97052,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -97181,8 +97181,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -97341,8 +97341,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11439484
 MonoBehaviour:
@@ -97393,8 +97393,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -97425,8 +97425,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11439918
 MonoBehaviour:
@@ -97494,8 +97494,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11440516
 MonoBehaviour:
@@ -97559,8 +97559,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11441134
 MonoBehaviour:
@@ -97585,8 +97585,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11441254
 MonoBehaviour:
@@ -97642,8 +97642,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11441382
 MonoBehaviour:
@@ -97737,8 +97737,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11441882
 MonoBehaviour:
@@ -97891,8 +97891,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -97923,8 +97923,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11442928
 MonoBehaviour:
@@ -98010,7 +98010,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _classification: 1
-  _count: 45
+  _count: 90
   _capacity: 90
 --- !u!114 &11443600
 MonoBehaviour:
@@ -98072,8 +98072,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11444112
 MonoBehaviour:
@@ -98113,8 +98113,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11444134
 MonoBehaviour:
@@ -98154,8 +98154,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -98461,8 +98461,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11446582
 MonoBehaviour:
@@ -98787,8 +98787,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11448970
 MonoBehaviour:
@@ -98903,7 +98903,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de08d38a300721848b348dd21a035b43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _health: 50
+  _health: 100
   _healthMaximum: 100
   _damageTexture: {fileID: 11488128}
   _deathClip: {fileID: 7400000, guid: 34b9781f08ce95047a675fd8be0fa320, type: 2}
@@ -98930,8 +98930,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11451082
 MonoBehaviour:
@@ -98973,7 +98973,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _classification: 0
-  _count: 180
+  _count: 360
   _capacity: 360
 --- !u!114 &11451208
 MonoBehaviour:
@@ -99032,8 +99032,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -99139,8 +99139,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -99197,8 +99197,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11453452
 MonoBehaviour:
@@ -99496,8 +99496,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11454942
 MonoBehaviour:
@@ -99561,8 +99561,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11455246
 MonoBehaviour:
@@ -99618,8 +99618,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11455518
 MonoBehaviour:
@@ -99656,8 +99656,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11455842
 MonoBehaviour:
@@ -99673,8 +99673,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -99860,8 +99860,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -99892,8 +99892,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11457658
 MonoBehaviour:
@@ -99909,8 +99909,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -99991,8 +99991,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -100037,8 +100037,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11458402
 MonoBehaviour:
@@ -100092,8 +100092,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11458906
 MonoBehaviour:
@@ -100307,8 +100307,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -100383,8 +100383,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11460672
 MonoBehaviour:
@@ -100569,8 +100569,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11461998
 MonoBehaviour:
@@ -100600,8 +100600,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -100687,8 +100687,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11463042
 MonoBehaviour:
@@ -100778,8 +100778,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -100842,8 +100842,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -100874,8 +100874,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11463740
 MonoBehaviour:
@@ -100891,8 +100891,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101079,8 +101079,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11465142
 MonoBehaviour:
@@ -101096,8 +101096,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101229,8 +101229,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11465988
 MonoBehaviour:
@@ -101258,8 +101258,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101304,8 +101304,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11466352
 MonoBehaviour:
@@ -101365,8 +101365,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101388,8 +101388,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101435,8 +101435,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11466798
 MonoBehaviour:
@@ -101506,8 +101506,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101579,8 +101579,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101628,8 +101628,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11468430
 MonoBehaviour:
@@ -101675,8 +101675,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101707,8 +101707,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11468762
 MonoBehaviour:
@@ -101736,8 +101736,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101759,8 +101759,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101927,8 +101927,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -101976,8 +101976,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -102054,8 +102054,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11470576
 MonoBehaviour:
@@ -102194,8 +102194,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11471952
 MonoBehaviour:
@@ -102263,8 +102263,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11472252
 MonoBehaviour:
@@ -102354,8 +102354,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -102429,8 +102429,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -102573,8 +102573,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11474084
 MonoBehaviour:
@@ -102642,8 +102642,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11474672
 MonoBehaviour:
@@ -102659,8 +102659,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -102691,7 +102691,7 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
+  ChaseDistance: 20
   AttackDistance: 3
   PatrolDistance: 5
 --- !u!114 &11474840
@@ -102914,8 +102914,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -103060,8 +103060,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11477468
 MonoBehaviour:
@@ -103101,8 +103101,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11477516
 MonoBehaviour:
@@ -103118,8 +103118,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -103141,8 +103141,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -103176,8 +103176,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -103289,8 +103289,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11478610
 MonoBehaviour:
@@ -103320,8 +103320,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -103343,8 +103343,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -103389,8 +103389,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11478866
 MonoBehaviour:
@@ -103493,8 +103493,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11479760
 MonoBehaviour:
@@ -103571,8 +103571,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11480360
 MonoBehaviour:
@@ -103597,8 +103597,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11480366
 MonoBehaviour:
@@ -103701,8 +103701,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11480894
 MonoBehaviour:
@@ -103732,8 +103732,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -103878,8 +103878,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -103927,8 +103927,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11482292
 MonoBehaviour:
@@ -103965,8 +103965,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11482348
 MonoBehaviour:
@@ -103982,8 +103982,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -104038,8 +104038,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11483030
 MonoBehaviour:
@@ -104069,8 +104069,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -104188,8 +104188,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -104362,8 +104362,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11485460
 MonoBehaviour:
@@ -104474,8 +104474,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11486254
 MonoBehaviour:
@@ -104491,8 +104491,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -104682,8 +104682,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -104746,8 +104746,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -104865,8 +104865,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105004,8 +105004,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105076,8 +105076,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11490668
 MonoBehaviour:
@@ -105102,8 +105102,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11490744
 MonoBehaviour:
@@ -105157,8 +105157,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105221,8 +105221,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105244,8 +105244,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105297,8 +105297,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105419,8 +105419,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105465,8 +105465,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11492296
 MonoBehaviour:
@@ -105496,8 +105496,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105571,8 +105571,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105611,8 +105611,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -105643,8 +105643,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11493272
 MonoBehaviour:
@@ -105765,8 +105765,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11494190
 MonoBehaviour:
@@ -105862,8 +105862,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11494744
 MonoBehaviour:
@@ -106094,8 +106094,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11496284
 MonoBehaviour:
@@ -106176,8 +106176,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11496662
 MonoBehaviour:
@@ -106207,8 +106207,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -106253,8 +106253,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11497064
 MonoBehaviour:
@@ -106293,8 +106293,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11497304
 MonoBehaviour:
@@ -106367,8 +106367,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11497394
 MonoBehaviour:
@@ -106398,8 +106398,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -106447,8 +106447,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -106498,8 +106498,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -106614,8 +106614,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11499022
 MonoBehaviour:
@@ -106640,8 +106640,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11499076
 MonoBehaviour:
@@ -106666,8 +106666,8 @@ MonoBehaviour:
   _isDead: 0
   _actionState: 1
   PlayerTransform: {fileID: 0}
-  ChaseDistance: 10
-  AttackDistance: 1
+  ChaseDistance: 20
+  AttackDistance: 3
   PatrolDistance: 10
 --- !u!114 &11499088
 MonoBehaviour:
@@ -106758,8 +106758,8 @@ MonoBehaviour:
   _masterObjectID: 0
   _weaponClass: 0
   _fireMechanism: 0
-  _damage: 15
-  _range: 2
+  _damage: 5
+  _range: 3
   _fireRate: 5
   _isCollected: 1
   _isEquipped: 1
@@ -108528,8 +108528,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 164054}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108548,8 +108548,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 112468}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108568,8 +108568,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 114574}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108588,8 +108588,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 118408}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108608,8 +108608,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 146540}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108628,8 +108628,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 199366}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108648,8 +108648,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 121842}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108668,8 +108668,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 181546}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108688,8 +108688,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 183558}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108708,8 +108708,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 125522}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108728,8 +108728,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 100850}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108748,8 +108748,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 111310}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108768,8 +108768,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 170596}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108788,8 +108788,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 139202}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108808,8 +108808,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 117626}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108828,8 +108828,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 122310}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108848,8 +108848,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 142378}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108868,8 +108868,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 103982}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108888,8 +108888,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 145834}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108908,8 +108908,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 136818}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108928,8 +108928,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 140630}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108948,8 +108948,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 181582}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108968,8 +108968,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 136026}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -108988,8 +108988,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 159454}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109008,8 +109008,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 193296}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109028,8 +109028,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 117002}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109048,8 +109048,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 158604}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109068,8 +109068,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 119976}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109088,8 +109088,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 100110}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109108,8 +109108,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 120756}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109128,8 +109128,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 182430}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109148,8 +109148,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 195174}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109168,8 +109168,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 141686}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109188,8 +109188,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 178858}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109208,8 +109208,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 156736}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109228,8 +109228,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 186322}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109248,8 +109248,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 149160}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109268,8 +109268,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 183924}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109288,8 +109288,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 133652}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109308,8 +109308,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 151928}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109328,8 +109328,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 121716}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109348,8 +109348,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 118528}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109368,8 +109368,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 178562}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109388,8 +109388,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 133542}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109408,8 +109408,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 151146}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109428,8 +109428,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 134926}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109448,8 +109448,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 129938}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109468,8 +109468,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 199450}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109488,8 +109488,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 104974}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109508,8 +109508,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 185214}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109528,8 +109528,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 131554}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109548,8 +109548,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 183636}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109568,8 +109568,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 122944}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109588,8 +109588,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 170648}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109608,8 +109608,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 114734}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109628,8 +109628,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 123688}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109648,8 +109648,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 119086}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109668,8 +109668,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 122202}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109688,8 +109688,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 114008}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109708,8 +109708,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 198848}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109728,8 +109728,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 168250}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109748,8 +109748,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 132910}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109768,8 +109768,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 106510}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109788,8 +109788,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 112792}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109808,8 +109808,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 112734}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109828,8 +109828,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 160652}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109848,8 +109848,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 161140}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109868,7 +109868,7 @@ NavMeshAgent:
   m_GameObject: {fileID: 105760}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 20
+  m_Speed: 15
   m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -109888,8 +109888,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 197302}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109908,8 +109908,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 119422}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109928,8 +109928,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 100628}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109948,8 +109948,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 181386}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109968,8 +109968,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 158268}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -109988,8 +109988,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 146750}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110008,8 +110008,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 140604}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110028,8 +110028,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 183274}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110048,8 +110048,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 120832}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110068,8 +110068,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 154384}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110088,8 +110088,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 117822}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110108,8 +110108,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 148588}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110128,8 +110128,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 151030}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110148,8 +110148,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 126842}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110168,8 +110168,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 164972}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110188,8 +110188,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 191152}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110208,8 +110208,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 140876}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110228,8 +110228,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 113322}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110248,8 +110248,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 104484}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110268,8 +110268,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 158746}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110288,8 +110288,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 155510}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110308,8 +110308,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 173232}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110328,8 +110328,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 178516}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110348,8 +110348,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 165084}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110368,8 +110368,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 132536}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110388,8 +110388,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 154258}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110408,8 +110408,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 196506}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110428,8 +110428,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 124794}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110448,8 +110448,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 155626}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110468,8 +110468,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 137518}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110488,8 +110488,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 112218}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110508,8 +110508,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 171322}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110528,8 +110528,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 135328}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110548,8 +110548,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 198004}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110568,8 +110568,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 184360}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110588,8 +110588,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 122804}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110608,8 +110608,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 110490}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110628,8 +110628,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 181498}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110648,8 +110648,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 160978}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110668,8 +110668,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 156286}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
@@ -110688,8 +110688,8 @@ NavMeshAgent:
   m_GameObject: {fileID: 150286}
   m_Enabled: 1
   m_Radius: 0.25
-  m_Speed: 4
-  m_Acceleration: 4
+  m_Speed: 15
+  m_Acceleration: 10
   avoidancePriority: 50
   m_AngularSpeed: 120
   m_StoppingDistance: 1
